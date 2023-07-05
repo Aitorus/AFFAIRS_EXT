@@ -85,32 +85,11 @@ with tab_plots:
         st.image("./img/EDA.png")
 tab_plots= tabs0[2]
 with tab_plots:
-    # Procesamiento
-    st.write("Operaciones principales")
-    c1, c2= st.columns(2)
-    with c1:
-        st.write("Drop COL")
-        st.image("./img/p1.jpg")
-    with c2:
-        st.write("Rename COL")
-        st.image("./img/p2.jpg")
-    c1, c2= st.columns(2)
-    with c1:
-        st.write("Astype COL")
-        st.image("./img/p3.jpg")
-        st.write("KNN Imputer")
-        st.image("./img/p5.jpg")
-    with c2:
-        st.write("MAP COL")
-        st.image("./img/p4.jpg")
-    
-tab_plots= tabs0[3]
-with tab_plots:
     # Final Procesamiento
     st.write("")
     st.write(df_final1)
     
-tab_plots= tabs0[4]
+tab_plots= tabs0[3]
 with tab_plots:
     st.write("¿Quien es nuestro público?¿ De quien han obtenido los datos y que características tienen?")
     total = len(df_final1["ID"])
