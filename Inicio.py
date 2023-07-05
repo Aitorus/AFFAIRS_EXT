@@ -71,7 +71,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<div class="justified-text">El proyecto se enfoca en analizar diferentes aspectos relacionados con el bienestar general y las relaciones afectivas en España en el año 2008. A partir de estos datos, se examina el nivel de bienestar general de los participantes, se exploran las características de sus relaciones afectivas y se investiga la presencia y predicción de las relaciones extramatrimoniales.</div>',
+    '<div class="justified-text">El proyecto se enfoca en analizar diferentes aspectos relacionados con el bienestar general y las relaciones afectivas en España en el año 2008. A partir de estos datos, se examina el nivel de bienestar general de los participantes, se exploran las características de sus relaciones afectivas y se investiga la presencia  de las relaciones extramatrimoniales.</div>',
     unsafe_allow_html=True
 )
 st.markdown(
