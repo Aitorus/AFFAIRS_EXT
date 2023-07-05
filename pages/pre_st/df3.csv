@@ -1,0 +1,1177 @@
+ID,PROVINCIA,COMUNIDAD,P_FELICIDAD,P_SALUD,S_NIVEL_VIDA,S_LABORAL,S_AMOR,S_SEXO,PAREJA,AÑOS_PAREJA,S_PAREJA,CONVIVE_PAREJA,CASADO,AFINIDAD_GEN,AFINIDAD_GUSTOS,AFINIDAD_SOCIAL,AFINIDAD_ECONOMI,AFINIDAD_SEX,IMPORTANCIA_SEX,IMPORTANCIA_SEX_PAREJA,EDUCACION_S,ATRACION_P,N_PAREJAS,COMUNICACION_SEX,R_EXT_MATRIMONIAL,ATRACCIÓN,F_SEXO,F_ANUAL,SEXO,EDAD,E_CIVIL,ESTUDIOS,SIT_LABORAL,OCUPACION,STATUS,NACIONALIDAD,RELIGION,SIT_ENT,PERCEPCION_EN,BIENESTAR
+3,Madrid,Comunidad de Madrid,4,2,1,0,5,4,1,14,5,1,1,3,5,5,4,5,7,7,0,0,3,3,0,1,Mensualmente,0,1,38,1,2,2,Obrero,1,1,1,1,1,1.75
+6,Granada,Andalucía,4,5,4,4,5,4,1,38,4,1,1,3,5,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,1,61,1,1,2,Mando,1,1,1,0,2,4.25
+17,Granada,Andalucía,4,5,4,4,5,5,1,24,5,1,1,4,5,5,4,5,7,7,0,0,30,3,1,1,Regularmente,1,0,49,1,2,2,Obrero,1,1,0,0,2,4.25
+24,Jaén,Andalucía,5,4,5,5,6,5,1,17,5,1,1,3,4,4,4,5,9,9,0,0,3,3,0,1,Regularmente,0,0,40,1,2,2,Obrero,1,1,1,0,2,4.75
+26,Sevilla,Andalucía,4,3,2,1,5,4,1,16,4,1,1,3,4,5,3,4,10,7,0,0,3,3,1,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,0,0,1,2.5
+32,Madrid,Comunidad de Madrid,2,2,4,2,5,2,1,17,2,1,1,2,4,3,4,3,8,8,0,0,5,1,0,1,Mensualmente,1,1,46,1,4,2,Mando,1,1,0,1,1,2.5
+37,Madrid,Comunidad de Madrid,5,4,3,4,6,5,1,4,5,1,0,4,5,5,3,5,8,8,0,0,100,3,1,2,Regularmente,1,0,28,0,2,0,Mando,1,0,1,0,2,4.0
+42,Sevilla,Andalucía,3,5,5,4,4,2,1,32,4,1,1,3,4,4,4,4,6,6,0,0,5,3,0,2,Mensualmente,1,0,61,1,1,2,Obrero,1,1,1,0,2,4.25
+51,Madrid,Comunidad de Madrid,2,3,1,1,2,1,1,40,2,1,1,0,2,4,3,3,1,0,0,0,1,3,0,1,Mensualmente,1,1,49,1,2,2,Administrativo,1,1,1,1,2,1.75
+63,Santander,Cantabria,4,5,4,0,5,4,1,45,4,1,1,3,4,4,4,4,5,10,0,0,1,3,0,1,Mensualmente,1,1,68,1,1,2,Agricultor,0,1,1,0,2,3.25
+65,Sevilla,Andalucía,3,5,3,4,5,0,1,47,4,1,1,4,4,4,4,0,5,5,0,0,3,3,0,1,Sin actividad sexual,0,0,74,1,2,2,Mando,1,1,1,0,2,3.75
+69,Madrid,Comunidad de Madrid,4,4,4,4,5,2,1,7,4,1,1,3,4,4,4,4,6,8,0,0,4,3,0,1,Regularmente,0,1,30,1,2,2,Administrativo,1,1,1,0,2,4.0
+73,Vizcaya,País Vasco,4,3,2,0,6,4,1,39,5,1,1,3,4,5,4,4,10,10,0,0,1,3,0,1,Regularmente,1,1,62,1,1,2,Comerciante,1,1,1,0,2,2.25
+77,Madrid,Comunidad de Madrid,5,3,1,5,6,5,1,4,5,1,1,3,5,5,1,5,10,9,1,0,1,3,0,1,Regularmente,0,1,33,1,4,2,Obrero,1,1,1,1,2,3.5
+100,Álava,País Vasco,3,5,2,4,5,4,1,33,4,1,1,2,2,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,50,1,2,2,Administrativo,1,1,1,0,2,3.5
+106,Madrid,Comunidad de Madrid,3,3,2,0,4,4,1,45,5,1,1,3,5,5,4,4,5,3,1,0,4,3,0,1,Regularmente,0,0,69,1,4,2,Comerciante,1,1,1,0,2,2.0
+144,Madrid,Comunidad de Madrid,4,2,2,4,6,5,1,5,5,0,0,3,3,4,3,4,6,7,1,0,4,3,1,1,Regularmente,1,0,31,0,2,2,Obrero,1,1,0,0,2,3.0
+214,Madrid,Comunidad de Madrid,4,5,5,5,6,5,1,1,5,0,0,3,3,4,3,4,6,8,1,0,1,3,0,1,Regularmente,1,1,19,0,2,2,Obrero,1,1,1,0,1,4.75
+226,Granada,Andalucía,4,5,4,1,5,5,1,22,4,1,1,3,4,5,4,4,7,9,0,0,1,3,0,1,Regularmente,1,1,43,1,1,2,Obrero,1,1,1,0,2,3.5
+239,Madrid,Comunidad de Madrid,4,5,3,4,5,4,1,12,5,0,0,3,3,4,3,4,7,8,0,0,1,3,0,1,Regularmente,0,0,31,0,1,2,Otro,1,1,0,0,2,4.0
+252,Zaragoza,Aragón,4,4,4,4,5,4,1,3,4,0,0,3,3,4,3,4,7,7,1,1,4,3,1,1,Regularmente,0,1,48,0,3,2,Director,2,1,2,0,2,4.0
+253,Huesca,Aragón,4,5,4,0,5,4,1,38,4,1,1,3,2,4,5,2,7,4,0,0,2,3,1,1,Mensualmente,0,0,66,1,3,2,Mando,1,1,0,0,2,3.25
+279,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,27,4,1,1,3,4,5,5,4,7,7,1,0,1,3,0,1,Regularmente,1,1,48,1,2,2,Comerciante,1,1,1,1,2,3.25
+289,Álava,País Vasco,4,4,4,4,6,4,1,34,4,1,1,3,3,4,4,5,7,7,0,0,1,3,0,1,Regularmente,0,1,62,1,2,2,Administrativo,1,1,1,0,1,4.0
+301,Madrid,Comunidad de Madrid,4,4,4,4,5,4,1,3,4,0,0,3,3,4,3,4,7,10,1,0,2,3,0,1,Mensualmente,0,1,26,0,3,2,Obrero,1,1,0,0,2,4.0
+324,Zaragoza,Aragón,4,5,3,2,5,4,1,34,4,1,1,3,3,4,3,4,7,5,0,0,998,3,1,1,Regularmente,0,0,56,1,2,2,Obrero,1,1,1,0,2,3.5
+363,Madrid,Comunidad de Madrid,4,5,4,0,6,3,1,42,4,1,1,3,4,4,5,4,4,4,0,0,1,3,0,2,Ocasionalmente,1,0,71,1,4,2,Director,2,1,1,0,2,3.25
+391,Madrid,Comunidad de Madrid,4,5,4,5,6,4,1,13,4,1,0,4,4,5,5,4,5,10,1,0,2,3,0,1,Regularmente,0,1,33,0,3,2,Mando,1,1,1,1,2,4.5
+412,Asturias,Principado de Asturias,3,5,2,1,5,4,1,25,3,1,1,2,5,4,4,5,8,10,1,0,1,3,1,1,Diariamente,1,1,41,1,1,2,Obrero,1,1,1,1,2,2.75
+417,Granada,Andalucía,4,5,5,5,6,4,1,32,4,1,1,4,5,5,5,5,7,7,0,0,1,3,1,1,Regularmente,0,1,56,1,2,2,Director,2,1,0,1,2,4.75
+432,Asturias,Principado de Asturias,5,5,5,0,6,5,1,12,5,1,1,3,4,4,4,4,8,8,0,0,4,3,0,1,Diariamente,0,0,48,1,2,2,Obrero,1,1,1,0,1,3.75
+452,Granada,Andalucía,5,4,4,5,5,4,1,1,5,0,0,3,3,4,3,4,8,8,0,0,50,3,0,1,Regularmente,0,0,24,0,2,2,Comerciante,1,1,2,0,2,4.5
+457,Rioja,La Rioja,5,5,5,5,6,5,1,20,4,1,1,3,4,5,5,5,8,8,0,0,1,3,0,1,Regularmente,0,1,42,1,2,2,Comerciante,1,1,1,0,2,5.0
+466,Málaga,Andalucía,4,5,4,0,6,5,1,2,4,0,0,3,3,4,3,4,6,5,1,0,2,3,0,2,Regularmente,0,0,20,0,2,1,Mando,1,1,1,0,2,3.25
+480,Madrid,Comunidad de Madrid,4,5,3,4,5,4,1,1,4,0,0,3,3,4,3,4,6,7,1,0,8,3,1,2,Regularmente,1,1,22,0,2,2,Autónomo,2,1,0,0,2,4.0
+488,Huesca,Aragón,5,3,2,0,6,4,1,45,4,1,1,4,4,5,4,4,7,7,0,0,1,3,0,1,Sin actividad sexual,0,1,63,1,1,2,Obrero,1,1,1,1,1,2.5
+490,Jaén,Andalucía,4,5,4,4,5,4,1,40,4,1,1,3,4,4,4,4,6,6,0,0,1,1,0,1,Desconocido,0,1,61,1,1,2,Comerciante,1,1,1,0,2,4.25
+513,Madrid,Comunidad de Madrid,5,5,5,5,5,4,1,24,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,2,Regularmente,0,1,43,1,4,2,Mando,2,1,0,0,2,5.0
+521,Sevilla,Andalucía,4,5,4,4,6,5,1,10,5,1,1,4,4,4,4,4,9,9,1,0,14,3,0,1,Regularmente,0,0,35,1,3,2,Autónomo,2,1,0,1,1,4.25
+523,Madrid,Comunidad de Madrid,4,4,4,4,6,5,1,28,5,1,1,3,5,4,4,5,7,5,0,0,1,3,0,1,Regularmente,0,1,49,1,2,2,Comerciante,1,1,0,0,2,4.0
+532,Teruel,Aragón,4,3,4,4,6,4,1,24,4,1,1,3,4,5,4,4,7,7,0,0,1,3,0,1,Regularmente,1,1,42,1,2,2,Comerciante,1,1,1,0,2,3.75
+565,Almería,Andalucía,4,5,5,2,6,4,1,2,5,0,0,3,3,4,3,4,8,10,1,0,5,3,0,1,Regularmente,0,1,18,0,2,2,Autónomo,2,1,0,0,1,4.0
+605,Guipúzcoa,País Vasco,4,5,4,3,6,5,1,16,5,1,0,3,4,4,4,5,9,8,1,0,1,3,0,1,Regularmente,0,1,32,1,2,2,Mando,1,1,0,1,2,4.0
+607,Navarra,Comunidad Foral de Navarra,4,4,4,2,6,4,1,35,4,1,1,4,5,4,4,5,7,6,0,0,1,3,0,1,Mensualmente,0,0,62,1,2,2,Obrero,1,1,0,0,2,3.5
+608,Málaga,Andalucía,4,5,4,4,6,5,1,42,4,1,1,2,4,4,4,4,7,10,0,0,1,3,0,1,Regularmente,1,1,72,1,1,2,Obrero,1,1,0,0,2,4.25
+626,Córdoba,Andalucía,4,1,3,5,6,5,1,18,5,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,0,1,2,3.25
+627,Álava,País Vasco,3,5,2,1,6,4,1,1,4,0,0,3,3,4,3,4,8,10,0,0,4,3,0,1,Regularmente,0,1,31,0,2,0,Obrero,1,1,0,0,2,2.75
+648,Córdoba,Andalucía,3,5,2,4,5,2,1,43,5,1,1,3,4,4,4,4,5,7,0,0,1,3,0,1,Regularmente,0,1,63,1,1,2,Mando,1,1,1,0,1,3.5
+659,Málaga,Andalucía,4,5,2,0,5,4,1,23,5,1,1,2,4,5,1,4,10,10,0,0,2,1,0,0,Desconocido,0,0,65,1,2,2,Comerciante,1,1,1,1,2,2.75
+692,Asturias,Principado de Asturias,4,5,2,0,5,4,1,42,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,1,67,1,1,2,Obrero,1,1,1,0,1,2.75
+714,Sevilla,Andalucía,3,5,3,4,5,4,1,12,4,1,0,3,3,4,4,4,5,10,0,0,2,3,0,1,Regularmente,0,1,45,0,2,2,Obrero,1,1,1,0,2,3.75
+734,Granada,Andalucía,4,5,4,4,5,4,1,14,5,1,1,3,4,4,5,4,8,8,1,0,1,3,0,1,Regularmente,1,1,44,1,3,2,Autónomo,2,1,1,0,2,4.25
+741,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,13,4,1,1,3,4,4,4,4,9,9,0,0,4,3,0,2,Desconocido,0,1,37,1,2,2,Obrero,1,1,1,0,1,4.25
+758,Zaragoza,Aragón,4,4,4,5,6,5,1,10,5,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,29,1,2,2,Obrero,1,1,1,1,2,4.25
+765,Rioja,La Rioja,2,4,3,3,6,4,1,10,4,1,1,3,4,5,3,4,8,8,1,0,1,3,0,1,Regularmente,1,1,28,1,2,2,Obrero,1,1,1,0,2,3.0
+800,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,1,4,0,0,3,3,4,3,4,7,8,1,0,2,3,1,1,Mensualmente,0,0,80,0,2,2,Mando,1,1,1,0,2,3.25
+822,Murcia,Región de Murcia,2,5,4,0,5,4,1,28,4,1,1,1,2,3,3,5,10,10,0,0,1,3,0,1,Regularmente,1,1,43,1,2,2,Comerciante,1,1,1,0,2,2.75
+833,Navarra,Comunidad Foral de Navarra,4,5,5,4,6,4,1,1,4,0,0,3,3,4,3,4,9,9,1,0,3,3,0,2,Diariamente,0,0,21,0,2,2,Mando,1,0,1,0,2,4.5
+862,Santander,Cantabria,4,5,5,5,6,5,1,16,5,1,1,4,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,1,38,1,2,2,Administrativo,1,1,1,1,2,4.75
+871,Madrid,Comunidad de Madrid,3,2,3,4,6,5,1,9,5,0,0,3,3,4,3,4,8,7,0,0,1,3,0,1,Regularmente,1,0,32,0,2,2,Obrero,1,1,1,0,2,3.0
+876,Murcia,Región de Murcia,3,5,4,4,6,4,1,25,5,1,1,4,3,4,4,3,9,10,1,0,7,3,1,2,Regularmente,1,1,48,1,2,2,Comerciante,1,1,1,1,2,4.0
+888,Madrid,Comunidad de Madrid,4,5,4,0,6,5,1,40,5,1,1,3,4,4,4,5,7,6,0,0,1,3,0,1,Regularmente,1,0,65,1,3,2,Mando,1,1,1,0,2,3.25
+910,Sevilla,Andalucía,3,3,4,5,5,5,1,7,5,1,1,3,1,4,4,4,10,10,0,0,2,3,0,1,Regularmente,0,1,35,1,2,2,Obrero,1,1,1,1,2,3.75
+915,Huelva,Andalucía,3,4,2,0,4,3,1,20,5,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,40,1,1,0,Obrero,1,1,1,1,2,2.25
+918,Huelva,Andalucía,5,3,3,0,5,5,1,37,5,1,1,3,4,4,4,4,8,9,0,0,1,3,1,1,Regularmente,0,0,63,1,1,2,Autónomo,1,1,1,0,2,2.75
+930,Madrid,Comunidad de Madrid,4,3,4,4,5,4,1,40,4,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,0,50,1,4,2,Mando,2,1,1,1,2,3.75
+931,Guipúzcoa,País Vasco,4,5,2,2,6,5,1,3,5,1,1,3,4,4,4,4,9,9,1,0,5,3,0,1,Regularmente,0,1,36,1,3,2,Obrero,1,1,0,0,2,3.25
+932,Sevilla,Andalucía,4,4,2,5,5,4,1,25,4,1,1,3,4,5,5,4,8,5,0,0,4,3,1,2,Regularmente,0,0,51,1,4,2,Mando,2,1,1,1,2,3.75
+937,Navarra,Comunidad Foral de Navarra,4,3,4,3,5,4,1,27,4,1,1,3,4,4,4,4,7,8,0,0,1,3,0,1,Regularmente,0,1,50,1,2,2,Comerciante,2,1,1,1,2,3.5
+939,Madrid,Comunidad de Madrid,5,5,4,5,6,5,1,24,5,1,1,4,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,1,1,39,1,2,2,Obrero,1,1,1,0,1,4.75
+967,Madrid,Comunidad de Madrid,3,5,2,1,5,5,1,4,4,0,0,3,3,4,3,4,9,9,1,0,3,3,0,1,Regularmente,0,1,23,0,3,1,Administrativo,1,1,1,0,2,2.75
+988,Zaragoza,Aragón,4,5,2,5,6,4,1,33,5,1,1,3,5,5,4,5,5,5,0,0,1,3,0,1,Regularmente,0,1,49,1,2,2,Obrero,1,1,1,1,2,4.0
+1037,Madrid,Comunidad de Madrid,5,5,4,4,5,4,1,35,5,1,1,4,5,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,58,1,1,2,Administrativo,1,1,1,0,1,4.5
+1058,Córdoba,Andalucía,4,5,3,4,3,4,1,30,4,1,1,4,4,4,4,4,5,3,0,0,1,3,0,2,Ocasionalmente,1,0,60,1,0,2,Obrero,0,1,1,0,2,4.0
+1073,Madrid,Comunidad de Madrid,4,5,2,4,6,5,1,15,4,1,1,3,4,4,4,5,7,8,0,0,2,3,0,1,Regularmente,0,1,46,1,2,2,Mando,1,1,1,0,1,3.75
+1095,Madrid,Comunidad de Madrid,5,5,4,2,6,5,1,17,5,1,1,3,5,4,4,5,9,9,0,0,1,3,0,1,Regularmente,0,0,36,1,2,2,Mando,1,1,1,1,2,4.0
+1143,Sevilla,Andalucía,4,5,2,0,5,3,1,35,4,1,1,4,5,5,5,5,7,7,1,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Comerciante,1,1,1,1,1,2.75
+1149,Huesca,Aragón,4,5,4,4,5,4,1,0,5,0,0,3,3,4,3,4,6,6,0,0,4,3,0,1,Regularmente,1,0,25,0,2,2,Obrero,1,1,1,0,2,4.25
+1161,Teruel,Aragón,4,4,4,4,6,5,1,10,5,1,0,3,2,5,4,5,7,8,1,0,1,3,0,1,Regularmente,0,1,26,0,4,2,Autónomo,2,1,0,0,2,4.0
+1178,Madrid,Comunidad de Madrid,4,5,3,5,6,5,1,8,4,1,1,4,4,5,4,5,10,10,0,0,6,3,0,2,Regularmente,0,0,34,1,2,2,Obrero,1,1,1,0,2,4.25
+1201,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,14,4,1,1,4,5,5,5,5,8,10,0,0,1,3,0,1,Regularmente,0,1,38,1,3,0,Mando,1,1,1,0,2,3.25
+1202,Almería,Andalucía,4,5,2,2,5,4,1,22,4,1,1,3,3,4,3,5,7,8,0,0,1,3,0,1,Regularmente,0,1,39,1,2,2,Obrero,1,1,1,1,2,3.25
+1208,Madrid,Comunidad de Madrid,4,5,2,5,5,4,1,2,4,0,0,3,3,4,3,4,8,8,1,1,3,3,0,1,Regularmente,0,1,45,0,2,2,Otro,1,1,1,0,2,4.0
+1229,Asturias,Principado de Asturias,4,3,4,0,5,4,1,46,4,1,1,4,4,5,4,5,10,10,0,0,1,3,0,1,Regularmente,1,1,68,1,2,2,Mando,1,1,0,1,2,2.75
+1254,Asturias,Principado de Asturias,4,2,4,0,6,5,1,22,4,1,1,3,3,4,4,4,8,8,0,0,2,3,0,1,Regularmente,0,1,42,1,2,0,Obrero,1,1,1,0,2,2.5
+1256,Madrid,Comunidad de Madrid,2,5,3,0,2,2,1,0,5,0,0,3,3,4,3,4,6,5,1,0,15,3,1,2,Regularmente,1,0,18,0,2,0,Obrero,1,0,1,1,1,2.5
+1265,Cádiz,Andalucía,4,4,5,0,5,4,1,13,4,1,1,4,5,5,5,5,10,10,0,0,3,3,0,1,Regularmente,0,1,33,1,3,2,Administrativo,1,1,1,0,2,3.25
+1268,Sevilla,Andalucía,3,5,3,5,4,3,1,10,3,1,0,1,4,4,3,4,8,9,0,0,7,2,0,1,Regularmente,0,1,37,0,3,2,Mando,1,1,0,1,2,4.0
+1269,Zaragoza,Aragón,5,3,2,5,6,5,1,6,5,1,0,4,4,4,3,5,6,6,1,0,1,3,0,1,Diariamente,0,1,24,0,2,2,Obrero,1,1,1,0,2,3.75
+1281,Teruel,Aragón,5,3,1,4,5,4,1,30,5,1,1,4,5,4,4,5,7,9,0,0,1,3,0,1,Regularmente,0,1,49,1,2,2,Obrero,1,1,1,0,2,3.25
+1313,Granada,Andalucía,3,3,3,0,6,5,1,42,5,1,1,3,3,4,4,4,10,10,0,0,1,3,0,1,Desconocido,0,1,65,1,1,2,Obrero,1,1,1,1,1,2.25
+1321,Madrid,Comunidad de Madrid,4,5,2,4,6,4,1,10,4,1,1,4,5,5,3,5,7,7,1,0,3,3,0,1,Regularmente,0,1,29,1,3,2,Administrativo,1,0,1,1,0,3.75
+1347,Madrid,Comunidad de Madrid,4,4,3,0,6,3,1,54,5,1,1,3,4,5,4,5,6,6,0,0,1,3,0,1,Ocasionalmente,0,1,70,1,2,2,Comerciante,1,1,1,0,2,2.75
+1371,Zaragoza,Aragón,4,5,4,0,5,4,1,34,4,1,1,2,4,4,5,4,9,9,0,0,1,3,0,1,Regularmente,1,1,55,1,2,2,Mando,1,1,1,0,2,3.25
+1378,Madrid,Comunidad de Madrid,2,4,4,4,3,4,1,3,2,1,0,1,4,4,4,3,8,6,1,0,7,2,0,2,Regularmente,0,0,32,0,4,2,Mando,2,1,0,0,2,3.5
+1408,Madrid,Comunidad de Madrid,4,5,4,0,6,5,1,40,4,1,1,4,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,67,1,0,2,Mando,1,1,2,0,2,3.25
+1437,Asturias,Principado de Asturias,4,4,4,4,5,4,1,34,4,1,1,3,4,4,4,4,8,8,0,0,3,3,0,1,Regularmente,0,0,54,1,2,2,Mando,1,1,0,1,2,4.0
+1445,Teruel,Aragón,4,5,4,5,5,4,1,28,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,2,Regularmente,0,0,48,1,3,2,Mando,1,1,1,0,2,4.5
+1478,Navarra,Comunidad Foral de Navarra,5,5,4,0,5,3,1,18,5,1,1,4,5,5,4,4,6,6,0,0,18,3,0,1,Regularmente,0,0,63,1,3,2,Mando,1,1,1,0,2,3.5
+1490,Madrid,Comunidad de Madrid,4,5,5,5,6,4,1,1,5,1,0,4,5,4,5,5,10,10,1,0,20,3,1,1,Regularmente,1,1,34,0,2,2,Administrativo,1,1,1,1,2,4.75
+1497,Sevilla,Andalucía,3,3,3,0,5,4,1,22,4,1,0,3,4,4,4,4,8,8,0,0,1,3,1,1,Regularmente,1,1,52,0,2,2,Comerciante,1,1,1,0,2,2.25
+1503,Cádiz,Andalucía,3,2,2,0,6,5,1,20,5,1,1,3,2,4,2,4,5,5,0,0,2,3,0,1,Desconocido,1,1,48,1,1,2,Obrero,1,1,1,0,2,1.75
+1516,Málaga,Andalucía,4,5,2,4,6,4,1,6,4,1,1,3,2,4,4,5,7,8,1,0,2,3,0,1,Regularmente,0,1,33,1,4,2,Mando,1,1,0,1,1,3.75
+1520,Málaga,Andalucía,5,5,5,0,4,3,1,37,2,1,1,2,2,3,4,4,5,8,0,0,1,2,0,1,Ocasionalmente,0,1,58,1,3,2,Mando,1,1,1,1,2,3.75
+1564,Huesca,Aragón,4,3,4,4,6,0,1,48,5,1,1,4,5,4,4,5,8,8,0,0,5,3,1,1,Sin actividad sexual,0,0,74,1,4,2,Autónomo,2,1,0,0,1,3.75
+1567,Almería,Andalucía,4,5,4,1,6,3,1,37,4,1,1,3,4,4,4,4,5,8,0,0,1,3,0,1,Mensualmente,1,1,53,1,1,2,Obrero,1,1,1,1,2,3.5
+1580,Guipúzcoa,País Vasco,4,5,2,5,3,2,1,40,3,1,1,3,2,5,4,2,4,6,0,0,1,3,0,1,Mensualmente,0,1,66,1,1,2,Obrero,1,1,1,1,2,4.0
+1584,Murcia,Región de Murcia,5,5,4,5,6,4,1,17,5,1,0,4,5,4,5,5,9,9,0,0,20,3,0,1,Diariamente,0,1,35,0,4,2,Mando,2,1,1,0,2,4.75
+1589,Córdoba,Andalucía,4,3,3,4,5,4,1,26,4,1,1,3,3,4,3,4,10,10,0,0,1,3,0,1,Desconocido,0,1,48,1,2,0,Obrero,1,1,1,0,1,3.5
+1591,Asturias,Principado de Asturias,4,4,4,4,6,4,1,0,4,0,0,3,3,4,3,4,8,8,1,0,2,3,0,1,Regularmente,1,1,33,0,3,2,Obrero,1,1,0,0,2,4.0
+1592,Madrid,Comunidad de Madrid,4,5,5,5,6,5,1,1,5,0,0,3,3,4,3,4,10,10,1,0,4,3,1,1,Regularmente,0,1,24,0,2,2,Obrero,1,1,0,0,2,4.75
+1598,Sevilla,Andalucía,4,3,3,0,5,4,1,30,4,1,1,3,5,4,4,4,7,7,0,0,5,3,1,1,Regularmente,1,0,55,1,2,2,Obrero,1,1,0,1,2,2.5
+1667,Jaén,Andalucía,5,4,5,2,5,4,1,15,5,1,1,4,3,5,4,4,8,10,1,0,2,3,0,1,Regularmente,0,1,34,1,1,2,Obrero,1,1,1,1,2,4.0
+1673,Zaragoza,Aragón,5,4,4,5,6,5,1,10,5,1,1,4,5,5,4,5,8,8,1,0,1,3,0,1,Regularmente,1,1,28,1,2,2,Administrativo,1,1,1,1,0,4.5
+1703,Murcia,Región de Murcia,5,5,2,4,6,5,1,24,5,1,1,3,5,5,4,5,9,10,1,0,1,3,0,1,Regularmente,0,1,45,1,2,2,Mando,1,1,1,0,2,4.0
+1751,Málaga,Andalucía,4,5,2,4,5,4,1,20,4,1,1,2,5,4,2,5,8,9,0,0,999,3,0,1,Desconocido,0,1,47,1,3,2,Otro,1,1,1,0,1,3.75
+1757,Madrid,Comunidad de Madrid,4,2,3,0,6,4,1,15,4,1,1,4,4,4,4,3,8,10,0,0,1,3,0,1,Regularmente,0,1,36,1,2,0,Obrero,1,1,1,1,2,2.25
+1783,Madrid,Comunidad de Madrid,5,4,5,4,5,4,1,29,5,1,1,4,5,5,5,5,10,10,0,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Obrero,1,1,1,0,2,4.5
+1818,Jaén,Andalucía,4,4,4,4,5,4,1,10,4,1,0,4,4,5,4,4,5,5,0,0,10,3,1,1,Regularmente,1,0,32,0,2,0,Autónomo,1,1,0,0,2,4.0
+1827,Navarra,Comunidad Foral de Navarra,5,4,5,5,5,3,1,21,3,1,1,3,4,5,5,3,8,4,0,0,2,3,0,1,Regularmente,0,0,42,1,3,2,Autónomo,2,1,1,1,0,4.75
+1837,Madrid,Comunidad de Madrid,4,5,2,4,5,4,1,2,4,0,0,3,3,4,3,4,6,7,1,0,1,3,0,1,Mensualmente,0,1,20,0,2,2,Obrero,1,1,1,1,2,3.75
+1870,Murcia,Región de Murcia,4,5,3,2,6,4,1,12,5,1,1,4,4,4,4,5,7,7,0,0,1,3,0,1,Regularmente,0,1,34,1,2,0,Comerciante,1,1,1,1,1,3.5
+1879,Sevilla,Andalucía,5,5,4,0,6,5,1,35,5,1,1,3,4,4,4,4,6,6,0,0,1,3,1,1,Regularmente,0,1,55,1,3,2,Comerciante,2,1,1,0,1,3.5
+1881,Madrid,Comunidad de Madrid,5,5,4,0,5,4,1,45,4,1,1,4,5,5,4,4,10,10,0,0,998,3,0,1,Regularmente,1,0,80,1,3,2,Mando,1,1,1,1,2,3.5
+1884,Jaén,Andalucía,4,5,3,4,5,4,1,30,4,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Regularmente,1,1,53,1,0,2,Obrero,0,1,1,0,2,4.0
+1893,Málaga,Andalucía,4,5,5,5,5,5,1,4,3,0,0,3,3,4,3,4,5,5,0,0,1,3,0,1,Regularmente,1,0,20,0,2,2,Obrero,1,1,1,0,1,4.75
+1932,Madrid,Comunidad de Madrid,4,4,5,5,5,4,1,34,4,1,1,3,4,5,5,4,6,8,0,0,1,3,0,1,Regularmente,0,1,54,1,4,2,Comerciante,2,1,0,1,2,4.5
+1940,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,20,5,1,1,3,4,4,5,5,8,7,0,0,40,3,1,2,Regularmente,1,0,62,1,2,2,Administrativo,1,1,0,1,2,4.25
+1944,Madrid,Comunidad de Madrid,5,5,4,4,5,4,1,7,4,1,1,3,4,4,4,4,8,10,1,0,2,3,0,1,Regularmente,0,1,35,1,4,2,Comerciante,1,1,1,0,2,4.5
+1946,Madrid,Comunidad de Madrid,4,5,4,0,4,4,1,43,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,69,1,1,2,Obrero,1,1,1,1,1,3.25
+1958,Murcia,Región de Murcia,4,5,2,4,5,4,1,30,4,1,1,2,3,5,2,4,10,10,0,0,1,3,0,1,Regularmente,0,1,53,1,2,2,Mando,1,1,1,0,2,3.75
+1964,Madrid,Comunidad de Madrid,4,5,3,4,5,3,1,30,4,1,1,3,5,4,3,4,9,9,0,0,3,3,0,1,Regularmente,0,0,49,1,2,2,Mando,1,1,0,1,2,4.0
+1968,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,30,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,63,1,2,2,Obrero,1,1,1,0,2,4.25
+1974,Álava,País Vasco,4,4,4,5,5,4,1,20,4,1,1,3,4,4,4,4,3,8,1,0,4,3,0,1,Mensualmente,0,1,38,1,3,2,Obrero,1,1,2,0,2,4.25
+2012,Murcia,Región de Murcia,5,5,3,5,6,5,1,1,5,0,0,3,3,4,3,4,7,6,0,0,1,1,0,2,Regularmente,1,1,22,0,2,2,Obrero,1,1,1,0,2,4.5
+2030,Zaragoza,Aragón,4,5,3,4,6,5,1,3,5,1,0,3,5,4,4,5,8,8,1,0,5,3,1,1,Regularmente,0,1,27,0,3,2,Mando,1,1,0,1,2,4.0
+2042,Madrid,Comunidad de Madrid,2,3,2,2,6,2,1,6,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Desconocido,1,0,32,1,2,2,Autónomo,1,1,2,1,1,2.25
+2059,Álava,País Vasco,4,5,4,4,5,4,1,22,4,1,1,3,4,4,4,4,8,8,0,0,3,3,0,1,Regularmente,0,1,45,1,3,2,Mando,1,1,0,1,1,4.25
+2130,Santander,Cantabria,3,5,2,4,5,4,1,8,3,1,0,3,4,4,3,4,10,5,0,0,20,3,1,1,Regularmente,0,1,47,1,3,2,Obrero,1,0,0,0,2,3.5
+2131,Huelva,Andalucía,4,5,4,5,6,5,1,32,5,1,1,3,5,5,4,5,10,10,0,0,1,3,0,1,Ocasionalmente,0,0,62,1,2,2,Obrero,1,1,1,0,1,4.5
+2148,Madrid,Comunidad de Madrid,4,5,4,3,5,4,1,18,4,1,1,4,3,4,5,5,7,9,1,0,4,3,0,1,Regularmente,0,1,42,1,3,2,Mando,2,1,0,1,1,4.0
+2169,Navarra,Comunidad Foral de Navarra,4,5,4,2,6,4,1,25,5,1,1,4,4,5,5,5,8,8,0,1,2,3,0,2,Regularmente,1,0,49,1,1,2,Obrero,1,1,0,1,2,3.75
+2179,Madrid,Comunidad de Madrid,4,4,2,4,6,5,1,6,5,0,0,3,3,4,3,4,8,8,1,0,2,3,0,1,Regularmente,0,1,27,0,2,2,Otro,1,1,2,0,2,3.5
+2194,Madrid,Comunidad de Madrid,4,5,4,3,6,4,1,7,5,1,0,4,5,5,4,4,7,8,1,0,1,3,0,1,Regularmente,0,1,27,0,3,2,Mando,1,1,1,1,2,4.0
+2202,Madrid,Comunidad de Madrid,5,3,5,5,5,5,1,48,5,1,1,4,4,5,4,4,5,5,0,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Obrero,1,1,1,1,2,4.5
+2214,Madrid,Comunidad de Madrid,5,3,3,4,5,4,1,20,5,1,1,3,4,4,4,4,8,8,0,0,2,3,0,1,Regularmente,1,1,41,1,2,2,Obrero,1,1,0,1,2,3.75
+2216,Almería,Andalucía,5,5,2,4,5,4,1,13,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,40,1,2,2,Obrero,1,1,1,0,1,4.0
+2219,Madrid,Comunidad de Madrid,2,5,4,4,3,2,1,4,2,0,0,3,3,4,3,4,6,8,0,0,4,2,0,1,Regularmente,0,1,42,0,4,2,Mando,2,1,1,0,1,3.75
+2259,Cádiz,Andalucía,4,4,3,4,5,5,1,5,5,1,0,3,4,4,4,4,10,10,1,0,2,3,0,1,Diariamente,1,1,21,0,2,2,Obrero,1,1,1,0,2,3.75
+2262,Vizcaya,País Vasco,4,5,2,0,6,5,1,25,4,1,1,4,4,5,4,5,6,6,0,0,2,3,0,1,Regularmente,0,1,45,1,3,2,Mando,1,1,1,0,2,2.75
+2266,Murcia,Región de Murcia,3,3,3,1,4,3,1,34,3,1,1,3,2,4,3,3,5,5,0,0,1,3,0,2,Regularmente,0,0,64,1,2,2,Obrero,1,1,1,1,2,2.5
+2277,Almería,Andalucía,4,5,4,4,4,4,1,21,4,1,1,3,3,5,5,4,7,6,0,0,998,3,0,1,Regularmente,0,0,64,1,4,2,Comerciante,2,1,1,0,2,4.25
+2303,Madrid,Comunidad de Madrid,4,3,2,0,5,4,1,37,4,1,1,3,4,4,3,4,8,8,0,0,1,3,0,1,Mensualmente,0,0,72,1,1,2,Administrativo,1,1,1,0,2,2.25
+2332,Sevilla,Andalucía,4,5,4,0,5,4,1,1,4,0,0,3,3,4,3,4,8,7,1,1,4,3,1,1,Regularmente,0,0,21,0,2,1,Mando,1,1,1,0,2,3.25
+2333,Madrid,Comunidad de Madrid,4,5,3,4,5,4,1,45,4,1,1,3,3,4,4,4,7,10,0,0,1,3,0,1,Regularmente,1,0,56,1,2,2,Obrero,1,1,1,0,1,4.0
+2343,Navarra,Comunidad Foral de Navarra,4,2,4,0,5,5,1,98,5,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Mensualmente,1,1,79,1,0,2,Obrero,1,1,1,0,0,2.5
+2389,Huelva,Andalucía,4,5,2,0,6,5,1,26,5,1,1,3,4,5,5,5,9,9,1,0,1,3,0,1,Regularmente,0,1,41,1,2,2,Comerciante,1,1,1,1,1,2.75
+2421,Jaén,Andalucía,4,5,4,0,5,4,1,51,4,1,1,4,3,5,5,5,9,9,0,0,1,3,0,1,Regularmente,0,0,75,1,2,2,Obrero,1,1,1,0,2,3.25
+2423,Rioja,La Rioja,3,3,3,0,1,0,1,55,1,0,0,3,3,4,3,4,10,10,0,0,1,3,0,1,Sin actividad sexual,0,0,80,1,0,2,Obrero,1,1,1,0,1,2.25
+2442,Vizcaya,País Vasco,3,3,4,0,6,4,1,30,4,1,1,3,3,4,4,4,10,7,1,0,1,1,0,1,Ocasionalmente,0,1,53,1,0,2,Obrero,1,1,1,0,2,2.5
+2452,Madrid,Comunidad de Madrid,1,4,5,4,3,2,1,30,2,1,1,3,4,4,4,3,6,4,0,0,1,3,0,2,Regularmente,0,0,50,1,2,2,Administrativo,1,1,1,1,2,3.5
+2493,Teruel,Aragón,5,5,4,3,6,4,1,1,5,0,0,3,3,4,3,4,6,6,1,0,2,3,0,1,Regularmente,0,1,21,0,2,2,Obrero,1,1,2,1,1,4.25
+2509,Granada,Andalucía,2,3,1,0,3,1,1,35,1,1,0,0,2,0,1,1,0,10,0,0,4,1,0,1,Sin actividad sexual,0,1,55,0,2,2,Comerciante,1,1,1,1,2,1.5
+2546,Madrid,Comunidad de Madrid,4,3,4,4,5,4,1,28,4,1,1,3,4,4,4,4,6,10,0,0,1,3,0,1,Regularmente,0,1,52,1,2,2,Obrero,1,1,1,0,1,3.75
+2557,Almería,Andalucía,4,4,5,5,6,5,1,45,5,1,1,3,4,5,4,4,10,10,0,0,1,3,0,1,Regularmente,0,0,64,1,2,2,Obrero,1,1,1,1,2,4.5
+2629,Vizcaya,País Vasco,5,3,2,4,6,4,1,14,5,1,1,3,4,4,3,4,8,8,1,0,1,3,0,1,Regularmente,0,1,40,1,2,2,Obrero,1,1,1,0,2,3.5
+2636,Madrid,Comunidad de Madrid,4,3,4,5,5,2,1,30,4,1,1,4,3,4,4,4,7,5,0,0,1,3,0,2,Ocasionalmente,0,0,53,1,2,2,Mando,1,1,1,1,1,4.0
+2640,Madrid,Comunidad de Madrid,4,2,4,4,5,3,1,34,5,1,1,4,4,4,4,4,5,5,0,0,1,3,0,1,Regularmente,0,0,59,1,2,2,Comerciante,1,1,1,0,2,3.5
+2689,Murcia,Región de Murcia,5,5,5,4,6,5,1,7,5,1,0,3,5,5,5,5,7,7,0,0,20,3,0,1,Regularmente,0,0,36,0,3,2,Autónomo,2,1,0,0,2,4.75
+2697,Murcia,Región de Murcia,5,4,4,0,5,5,1,20,4,1,1,4,4,5,4,5,10,10,0,0,1,3,0,1,Regularmente,1,1,42,1,1,0,Obrero,1,1,1,1,2,3.25
+2726,Madrid,Comunidad de Madrid,4,5,3,0,5,2,1,27,3,1,1,2,3,3,2,3,7,5,0,0,2,3,0,1,Mensualmente,0,1,58,1,2,2,Administrativo,1,1,1,1,2,3.0
+2734,Asturias,Principado de Asturias,4,5,4,4,5,4,1,15,4,1,1,2,4,5,5,4,9,7,0,0,1,3,0,1,Diariamente,0,0,40,1,1,2,Obrero,1,1,1,1,2,4.25
+2741,Almería,Andalucía,4,3,2,2,5,4,1,22,5,1,1,2,4,4,4,5,8,10,0,0,1,3,0,1,Regularmente,0,1,44,1,2,2,Agricultor,1,1,1,0,2,2.75
+2767,Madrid,Comunidad de Madrid,4,4,4,5,5,5,1,1,4,0,0,3,3,4,3,4,7,7,0,0,35,3,0,1,Regularmente,0,0,31,0,3,2,Mando,1,1,1,0,2,4.25
+2826,Navarra,Comunidad Foral de Navarra,4,4,2,4,5,4,1,27,4,1,1,3,4,5,2,4,8,6,1,0,4,3,1,1,Regularmente,0,0,47,1,2,2,Comerciante,1,1,1,1,2,3.5
+2828,Málaga,Andalucía,4,4,4,4,5,4,1,17,4,1,1,4,5,4,4,4,7,7,1,0,1,3,0,1,Regularmente,0,1,36,1,2,2,Administrativo,1,1,1,0,1,4.0
+2843,Asturias,Principado de Asturias,4,5,2,4,6,5,1,4,5,1,0,3,4,4,4,4,6,6,1,0,3,3,0,1,Regularmente,1,0,28,0,4,2,Administrativo,1,1,0,0,1,3.75
+2845,Málaga,Andalucía,4,4,4,2,5,4,1,1,4,1,0,3,4,2,4,4,5,6,0,0,6,3,1,1,Regularmente,0,0,26,0,2,2,Obrero,1,1,1,0,1,3.5
+2848,Navarra,Comunidad Foral de Navarra,4,5,3,0,6,2,1,23,3,1,1,3,4,3,4,4,8,8,0,0,60,3,0,1,Regularmente,0,0,64,1,1,2,Obrero,1,1,1,0,2,3.0
+2884,Madrid,Comunidad de Madrid,4,5,4,4,6,4,1,25,5,1,1,3,4,4,4,5,9,9,0,0,999,3,0,1,Desconocido,0,0,48,1,2,2,Mando,1,1,1,0,1,4.25
+2921,Sevilla,Andalucía,3,5,4,1,5,4,1,13,5,1,1,3,4,4,4,4,8,8,0,1,1,3,0,1,Desconocido,0,0,32,1,2,2,Mando,1,1,1,0,1,3.25
+2941,Málaga,Andalucía,3,3,4,0,4,3,1,34,4,1,1,4,5,4,4,4,6,10,0,0,1,3,0,1,Ocasionalmente,0,1,60,1,3,2,Mando,1,1,1,0,2,2.5
+2965,Guipúzcoa,País Vasco,5,4,4,3,5,4,1,11,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,37,1,2,2,Obrero,1,1,1,1,1,4.0
+2975,Guipúzcoa,País Vasco,4,5,4,4,6,5,1,18,4,1,1,2,5,5,3,5,7,9,0,0,1,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,1,2,4.25
+3002,Madrid,Comunidad de Madrid,3,5,3,3,2,1,1,40,3,1,1,3,2,5,4,1,8,10,0,0,1,1,0,1,Sin actividad sexual,0,1,61,1,2,2,Mando,1,1,1,1,1,3.5
+3004,Madrid,Comunidad de Madrid,5,5,2,3,6,5,1,7,5,1,1,3,4,4,3,5,6,6,1,1,3,3,0,1,Regularmente,0,1,48,1,2,2,Administrativo,1,1,1,1,2,3.75
+3012,Santander,Cantabria,4,5,3,0,5,4,1,43,4,1,1,3,4,5,4,5,10,10,0,0,1,3,0,1,Regularmente,1,1,65,1,1,2,Mando,1,1,1,1,1,3.0
+3020,Sevilla,Andalucía,5,5,4,0,5,3,1,40,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,60,1,2,2,Mando,1,1,1,0,2,3.5
+3055,Jaén,Andalucía,4,5,2,0,6,4,1,23,4,1,1,3,3,5,4,5,9,10,0,0,1,3,0,1,Regularmente,1,1,38,1,2,2,Autónomo,1,1,1,1,1,2.75
+3064,Madrid,Comunidad de Madrid,4,5,2,2,5,4,1,32,5,1,1,3,5,5,4,4,5,5,1,0,20,3,1,1,Regularmente,0,0,46,1,2,2,Administrativo,1,1,1,0,2,3.25
+3091,Jaén,Andalucía,4,3,4,0,4,4,1,40,4,1,1,4,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,66,1,2,2,Obrero,1,1,1,1,1,2.75
+3093,Huelva,Andalucía,5,4,4,0,3,4,1,1,5,0,0,3,3,4,3,4,6,6,1,1,1,3,0,2,Regularmente,0,0,20,0,3,1,Mando,1,1,1,0,2,3.25
+3100,Madrid,Comunidad de Madrid,4,5,3,1,5,2,1,32,4,1,1,3,4,4,3,4,8,9,0,0,1,3,0,1,Regularmente,0,1,51,1,2,0,Autónomo,1,1,1,0,2,3.25
+3123,Madrid,Comunidad de Madrid,4,5,3,5,6,4,1,2,5,1,0,3,5,5,4,5,6,6,1,0,15,3,0,1,Diariamente,0,0,33,0,2,2,Obrero,1,1,0,0,2,4.25
+3221,Zaragoza,Aragón,4,5,4,4,5,4,1,30,5,1,1,3,4,4,4,1,10,10,0,0,1,3,0,1,Regularmente,1,1,50,1,2,2,Comerciante,1,1,1,1,2,4.25
+3237,Jaén,Andalucía,4,3,3,0,6,4,1,54,4,1,1,4,5,5,3,5,10,0,0,0,1,1,0,1,Sin actividad sexual,0,1,73,1,2,2,Obrero,1,1,1,1,0,2.5
+3238,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,13,4,1,1,3,4,4,4,4,8,8,0,0,2,3,0,1,Regularmente,0,1,39,1,3,2,Administrativo,1,1,1,0,1,4.25
+3246,Guipúzcoa,País Vasco,4,5,3,4,5,4,1,25,4,1,1,3,4,4,4,5,9,9,1,0,10,3,0,1,Regularmente,1,0,43,1,2,2,Obrero,1,1,1,1,1,4.0
+3279,Asturias,Principado de Asturias,4,5,3,3,5,4,1,25,4,0,0,3,3,4,3,4,8,8,0,0,1,3,0,1,Regularmente,0,1,47,1,2,2,Obrero,1,1,1,0,1,3.75
+3281,Vizcaya,País Vasco,3,3,3,5,6,5,1,45,5,1,1,3,4,4,4,3,7,8,0,0,1,3,0,1,Regularmente,0,1,56,1,2,2,Administrativo,1,1,1,1,2,3.5
+3286,Zaragoza,Aragón,4,5,4,4,6,4,1,40,4,1,1,3,4,4,4,4,7,5,0,0,1,3,0,1,Regularmente,1,0,69,1,4,2,Administrativo,1,1,0,1,2,4.25
+3291,Madrid,Comunidad de Madrid,4,5,3,0,5,4,1,50,4,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Mensualmente,1,0,74,1,2,2,Mando,1,1,1,1,2,3.0
+3338,Álava,País Vasco,4,5,4,4,6,4,1,2,5,1,1,4,5,5,5,5,7,8,0,1,12,3,0,1,Regularmente,0,0,31,1,3,2,Administrativo,1,1,1,0,2,4.25
+3339,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,33,5,1,1,4,5,5,4,5,7,10,0,0,1,3,0,1,Regularmente,0,1,53,1,2,0,Mando,1,1,1,1,1,4.25
+3372,Madrid,Comunidad de Madrid,5,5,4,0,6,5,1,45,4,1,1,1,4,5,5,5,5,10,1,0,1,3,0,1,Regularmente,1,1,67,1,1,2,Obrero,0,1,1,0,2,3.5
+3373,Teruel,Aragón,4,5,3,0,5,4,1,11,5,1,1,3,4,4,4,4,10,10,0,0,998,3,0,1,Regularmente,1,1,33,1,2,2,Obrero,1,1,0,0,2,3.0
+3385,Granada,Andalucía,3,5,3,3,4,4,1,16,3,1,1,3,2,4,4,4,5,8,0,0,1,3,0,1,Regularmente,0,1,33,1,2,2,Agricultor,1,1,1,0,2,3.5
+3409,Madrid,Comunidad de Madrid,4,5,4,5,6,5,1,24,5,1,1,3,4,4,4,5,9,9,0,0,2,3,0,1,Regularmente,0,1,46,1,3,2,Mando,1,1,1,0,2,4.5
+3471,Málaga,Andalucía,4,5,3,4,5,4,1,20,3,1,0,3,4,4,4,4,6,9,1,0,1,3,1,1,Regularmente,0,1,34,0,2,2,Mando,1,1,2,0,2,4.0
+3474,Madrid,Comunidad de Madrid,3,5,2,4,5,4,1,12,5,1,0,4,5,4,4,5,5,5,1,0,2,3,0,1,Regularmente,0,0,36,0,2,2,Mando,1,1,1,0,1,3.5
+3495,Huesca,Aragón,4,4,3,4,5,4,1,20,4,1,1,2,2,4,4,5,6,10,0,0,1,3,0,1,Regularmente,0,1,43,1,2,2,Obrero,1,1,1,1,2,3.75
+3503,Málaga,Andalucía,5,5,4,4,6,4,1,20,5,1,1,4,5,5,5,4,10,10,0,0,2,3,0,1,Regularmente,1,1,38,1,2,2,Obrero,1,1,1,0,2,4.5
+3522,Navarra,Comunidad Foral de Navarra,3,5,4,0,5,4,1,40,4,1,1,4,4,4,4,4,9,7,0,0,1,3,0,1,Regularmente,0,1,56,1,2,2,Director,2,1,1,0,2,3.0
+3540,Murcia,Región de Murcia,4,4,5,0,6,4,1,0,5,0,0,3,3,4,3,4,7,10,1,0,3,3,0,1,Regularmente,0,1,22,0,2,1,Comerciante,2,1,0,0,2,3.25
+3547,Córdoba,Andalucía,4,4,2,2,6,5,1,3,5,0,0,3,3,4,3,4,8,8,1,0,3,3,0,1,Regularmente,0,1,26,0,3,0,Obrero,1,1,1,0,2,3.0
+3550,Murcia,Región de Murcia,3,3,3,0,2,1,1,50,3,1,1,3,3,4,3,3,3,10,0,0,1,1,0,1,Ocasionalmente,1,0,76,1,0,2,Obrero,1,1,1,0,2,2.25
+3557,Madrid,Comunidad de Madrid,4,3,4,4,5,3,1,8,4,1,1,3,3,5,4,4,7,7,1,0,4,3,0,1,Mensualmente,0,1,33,1,3,2,Mando,1,1,1,0,2,3.75
+3586,Cádiz,Andalucía,4,5,4,2,6,4,1,7,4,1,1,3,5,4,4,4,7,7,1,0,5,3,0,1,Regularmente,0,1,28,1,4,0,Autónomo,2,1,1,0,2,3.75
+3617,Navarra,Comunidad Foral de Navarra,5,4,4,1,6,5,1,20,5,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,1,38,1,2,0,Mando,1,1,1,0,2,3.5
+3619,Vizcaya,País Vasco,4,5,5,4,5,3,1,12,4,1,1,4,3,5,5,5,7,7,1,0,3,3,0,1,Mensualmente,0,1,43,1,2,2,Obrero,1,1,1,0,1,4.5
+3633,Sevilla,Andalucía,4,5,4,4,5,4,1,30,4,1,1,3,4,4,4,4,7,5,0,0,1,3,0,1,Regularmente,0,0,49,1,2,2,Comerciante,1,1,1,1,1,4.25
+3639,Huelva,Andalucía,5,5,3,4,5,5,1,32,5,1,1,4,4,5,4,4,10,10,0,0,3,3,0,1,Regularmente,0,0,52,1,2,2,Mando,1,1,1,0,2,4.25
+3699,Guipúzcoa,País Vasco,4,5,4,0,6,5,1,32,5,1,1,4,3,5,4,4,7,10,0,0,1,3,0,1,Regularmente,0,1,57,1,2,2,Obrero,1,1,1,0,1,3.25
+3732,Jaén,Andalucía,4,3,3,0,4,3,1,54,3,1,1,2,3,3,4,3,3,5,0,0,1,1,0,1,Sin actividad sexual,0,1,73,1,1,2,Comerciante,1,1,1,1,0,2.5
+3738,Jaén,Andalucía,2,5,4,4,6,4,1,15,5,1,1,4,5,5,4,4,6,10,0,0,2,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,0,2,3.75
+3766,Jaén,Andalucía,5,5,2,2,5,2,1,7,4,0,0,3,3,4,3,4,5,0,0,0,2,3,0,1,Regularmente,0,0,19,0,2,1,Obrero,1,1,1,0,2,3.5
+3774,Murcia,Región de Murcia,4,5,5,4,5,4,1,13,5,1,1,4,4,4,4,4,7,8,1,0,2,3,0,1,Regularmente,0,1,38,1,3,2,Mando,2,1,1,1,2,4.5
+3779,Sevilla,Andalucía,4,3,3,0,5,4,1,32,5,1,1,4,4,4,3,4,6,8,0,0,1,3,0,1,Regularmente,0,1,52,1,2,2,Obrero,1,1,1,0,1,2.5
+3809,Santander,Cantabria,4,5,4,2,5,4,1,30,4,1,1,3,4,4,4,4,6,6,1,0,2,3,0,1,Regularmente,0,1,45,1,3,2,Mando,1,1,1,1,2,3.75
+3821,Teruel,Aragón,4,5,5,4,6,4,1,3,5,0,0,3,3,4,3,4,5,6,1,0,1,3,0,1,Regularmente,0,1,18,0,0,2,Otro,1,1,1,1,1,4.5
+3832,Málaga,Andalucía,4,3,2,0,4,3,1,43,4,1,1,3,3,5,3,5,7,7,0,0,1,3,0,1,Mensualmente,1,0,70,1,2,2,Mando,1,1,0,0,2,2.25
+3847,Madrid,Comunidad de Madrid,4,5,1,4,6,5,1,20,4,1,1,2,4,4,1,5,8,9,0,0,1,3,0,1,Regularmente,0,1,43,1,2,0,Mando,1,1,0,1,2,3.5
+3874,Madrid,Comunidad de Madrid,4,5,4,4,6,5,1,5,5,0,0,3,3,4,3,4,8,7,1,0,1,3,0,1,Regularmente,0,0,22,0,2,2,Mando,1,1,1,0,2,4.25
+3887,Jaén,Andalucía,3,5,3,3,4,3,1,18,3,1,1,2,4,4,4,1,8,8,0,0,2,3,0,2,Mensualmente,0,1,37,1,1,2,Comerciante,1,1,1,1,2,3.5
+3899,Madrid,Comunidad de Madrid,5,5,5,1,6,4,1,18,5,1,1,4,5,5,5,5,7,5,0,0,1,3,0,1,Regularmente,0,1,36,1,4,2,Mando,1,1,1,1,2,4.0
+3902,Málaga,Andalucía,5,5,5,5,6,5,1,10,5,1,1,4,4,4,4,4,8,8,1,0,1,3,0,1,Regularmente,0,1,29,1,3,2,Mando,2,1,1,1,1,5.0
+3908,Sevilla,Andalucía,4,4,4,4,6,5,1,3,5,0,0,3,3,4,3,4,8,8,1,0,1,3,0,1,Regularmente,1,1,22,0,2,1,Administrativo,1,1,0,0,2,4.0
+3921,Navarra,Comunidad Foral de Navarra,4,5,2,4,5,4,1,14,5,1,1,3,4,5,3,4,7,7,1,1,6,3,0,1,Regularmente,0,0,33,1,2,2,Mando,1,1,0,1,2,3.75
+3926,Almería,Andalucía,4,3,4,0,5,2,1,46,4,1,1,3,4,4,4,2,10,0,0,0,1,3,0,1,Regularmente,0,1,69,1,2,2,Agricultor,0,1,1,0,0,2.75
+3940,Granada,Andalucía,4,4,2,4,5,4,1,25,5,1,1,4,4,5,4,5,8,8,0,0,1,3,0,1,Ocasionalmente,0,1,45,1,3,2,Obrero,1,1,1,1,2,3.5
+3942,Madrid,Comunidad de Madrid,4,4,2,2,6,5,1,2,4,0,0,3,3,4,3,4,7,7,1,0,5,3,0,1,Regularmente,0,0,28,0,3,2,Mando,1,1,0,0,2,3.0
+3964,Cádiz,Andalucía,4,5,2,3,5,4,1,23,4,1,1,3,2,4,5,4,8,6,1,0,25,3,1,1,Regularmente,0,0,41,1,2,2,Mando,1,1,1,1,2,3.5
+3972,Madrid,Comunidad de Madrid,4,3,3,0,4,2,1,30,3,1,1,3,5,5,4,4,9,9,0,0,2,1,0,1,Sin actividad sexual,0,1,64,1,2,2,Comerciante,1,1,0,0,1,2.5
+3977,Huesca,Aragón,5,5,4,4,6,4,1,20,5,1,1,3,4,4,4,5,10,10,0,0,2,3,0,1,Regularmente,0,0,43,1,4,2,Mando,2,1,1,0,2,4.5
+4002,Murcia,Región de Murcia,4,5,3,0,4,0,1,40,4,1,1,3,4,4,4,4,5,10,0,0,1,3,0,1,Sin actividad sexual,0,1,67,1,0,2,Obrero,1,1,1,0,2,3.0
+4065,Málaga,Andalucía,4,5,3,0,5,4,1,42,4,1,1,3,4,4,3,4,8,6,0,0,5,3,1,1,Mensualmente,0,0,66,1,2,2,Obrero,1,1,1,0,2,3.0
+4094,Almería,Andalucía,4,5,2,5,6,5,1,0,5,0,0,3,3,4,3,4,9,9,1,0,4,3,0,1,Regularmente,0,1,23,0,2,1,Autónomo,2,1,1,1,2,4.0
+4098,Cádiz,Andalucía,4,5,4,4,5,4,1,10,5,1,1,4,5,5,5,5,10,10,1,0,2,3,0,1,Regularmente,1,0,54,1,1,2,Obrero,1,1,1,0,0,4.25
+4103,Madrid,Comunidad de Madrid,4,3,4,1,6,4,1,33,5,1,1,3,4,4,4,5,8,8,0,0,1,3,0,1,Regularmente,0,1,55,1,4,2,Administrativo,1,1,1,0,2,3.0
+4121,Madrid,Comunidad de Madrid,3,3,4,0,5,0,1,54,4,1,1,3,4,5,3,3,10,10,0,0,1,3,0,1,Sin actividad sexual,0,0,80,1,4,2,Mando,2,1,1,1,0,2.5
+4140,Madrid,Comunidad de Madrid,3,5,2,3,5,3,1,1,3,0,0,3,3,4,3,4,8,8,1,0,3,3,0,1,Ocasionalmente,1,0,29,0,3,2,Agricultor,1,1,0,0,2,3.25
+4153,Asturias,Principado de Asturias,4,5,2,0,6,5,1,20,5,1,1,3,4,4,3,5,8,8,0,0,1,3,0,1,Regularmente,0,1,42,1,2,2,Obrero,1,1,0,0,2,2.75
+4173,Madrid,Comunidad de Madrid,3,5,4,2,5,2,1,30,4,1,1,3,4,4,4,4,7,6,1,0,1,3,0,1,Regularmente,1,0,51,1,2,2,Administrativo,1,1,1,1,2,3.5
+4211,Sevilla,Andalucía,2,2,2,2,5,2,1,31,1,1,1,1,2,4,4,2,5,10,1,0,1,3,0,1,Regularmente,0,1,49,1,2,0,Otro,1,0,1,0,2,2.0
+4213,Madrid,Comunidad de Madrid,4,5,2,2,6,4,1,4,4,1,1,4,4,3,3,5,6,6,0,0,998,3,0,1,Regularmente,0,0,42,1,4,2,Mando,2,1,2,0,2,3.25
+4221,Zaragoza,Aragón,5,5,4,0,6,4,1,48,5,1,1,3,4,4,4,4,5,5,0,0,1,3,0,1,Mensualmente,1,0,71,1,4,2,Mando,2,1,1,1,1,3.5
+4247,Cádiz,Andalucía,4,4,5,0,6,4,1,22,5,1,1,3,4,5,5,4,7,8,0,0,4,3,0,1,Regularmente,0,1,49,1,3,2,Administrativo,1,1,1,0,2,3.25
+4261,Huelva,Andalucía,4,5,3,4,6,5,1,19,4,1,1,3,4,4,4,4,7,10,0,0,2,3,0,1,Regularmente,0,0,39,1,2,2,Otro,1,1,1,1,1,4.0
+4277,Madrid,Comunidad de Madrid,4,3,3,0,5,4,1,56,5,1,1,3,4,4,5,4,7,7,0,0,1,3,0,1,Ocasionalmente,0,1,83,1,2,2,Administrativo,1,1,1,1,2,2.5
+4295,Madrid,Comunidad de Madrid,5,4,4,4,6,4,1,5,4,1,1,3,4,4,4,4,7,5,1,0,10,3,0,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,1,0,1,4.25
+4320,Málaga,Andalucía,4,5,4,0,5,4,1,11,4,1,1,3,4,4,4,4,8,10,0,0,2,3,0,1,Regularmente,0,1,36,1,3,0,Obrero,1,1,1,0,2,3.25
+4337,Madrid,Comunidad de Madrid,5,5,4,3,5,4,1,22,4,1,1,3,4,4,4,4,7,7,1,0,3,3,0,1,Regularmente,0,0,45,1,2,2,Administrativo,1,1,1,0,2,4.25
+4344,Vizcaya,País Vasco,2,4,2,2,3,2,1,28,2,1,1,3,4,4,4,3,7,7,0,0,1,1,0,1,Regularmente,0,1,48,1,2,2,Comerciante,2,1,1,0,1,2.5
+4347,Sevilla,Andalucía,4,5,2,2,5,4,1,3,4,1,0,3,4,4,5,4,9,8,0,0,10,3,1,2,Regularmente,0,0,27,0,2,2,Mando,1,1,1,0,2,3.25
+4357,Madrid,Comunidad de Madrid,4,5,4,0,6,5,1,40,4,1,1,4,4,5,4,5,8,10,0,0,1,3,0,1,Mensualmente,0,1,60,1,2,2,Comerciante,1,1,1,0,2,3.25
+4362,Zaragoza,Aragón,2,3,4,4,5,5,1,1,4,1,0,3,4,4,5,5,7,7,0,0,2,3,0,1,Mensualmente,1,1,38,0,2,2,Autónomo,1,0,1,0,2,3.25
+4388,Cádiz,Andalucía,5,5,5,3,5,4,1,3,5,1,1,2,3,4,3,4,6,9,0,0,2,3,0,1,Diariamente,1,1,36,1,1,2,Comerciante,1,1,1,1,1,4.5
+4398,Vizcaya,País Vasco,4,4,2,2,5,4,1,15,5,1,1,4,5,5,4,5,8,9,0,0,1,3,0,1,Regularmente,0,1,33,1,2,2,Obrero,1,1,1,0,2,3.0
+4401,Navarra,Comunidad Foral de Navarra,5,4,5,5,6,5,1,5,5,0,0,3,3,4,3,4,5,5,1,0,1,3,0,1,Regularmente,0,0,18,0,2,1,Comerciante,1,1,1,0,1,4.75
+4411,Málaga,Andalucía,5,4,2,4,6,4,1,25,5,1,1,3,4,5,5,5,10,10,0,0,1,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,1,2,3.75
+4466,Madrid,Comunidad de Madrid,5,3,2,0,6,4,1,37,5,1,1,4,4,5,4,4,10,8,0,0,1,3,0,1,Regularmente,0,1,59,1,1,2,Mando,1,1,1,0,2,2.5
+4475,Santander,Cantabria,5,5,3,0,6,4,1,50,5,1,1,3,4,5,4,4,5,5,0,0,1,3,0,1,Regularmente,0,0,67,1,2,2,Comerciante,1,1,1,1,2,3.25
+4524,Almería,Andalucía,3,3,4,0,6,5,1,0,5,0,0,3,3,4,3,4,5,5,0,0,4,3,0,1,Regularmente,0,0,20,0,1,1,Obrero,1,1,0,0,2,2.5
+4542,Madrid,Comunidad de Madrid,4,5,2,5,5,2,1,14,4,1,1,2,4,5,4,4,5,3,1,0,1,3,0,1,Regularmente,0,0,30,1,3,2,Mando,1,1,0,1,1,4.0
+4568,Asturias,Principado de Asturias,4,5,4,0,6,4,1,50,5,1,1,4,4,5,5,4,9,8,0,0,1,3,0,1,Ocasionalmente,0,0,70,1,0,2,Obrero,1,1,1,0,2,3.25
+4584,Granada,Andalucía,4,4,5,4,5,4,1,24,4,1,1,3,5,4,5,5,7,7,1,0,4,3,0,1,Regularmente,0,0,48,1,4,2,Mando,1,1,0,0,2,4.25
+4589,Madrid,Comunidad de Madrid,3,2,3,0,5,3,1,30,5,1,1,2,3,3,3,3,5,5,0,0,1,3,0,1,Ocasionalmente,1,1,74,1,1,2,Obrero,1,1,1,1,1,2.0
+4605,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,3,4,0,0,3,3,4,3,4,8,8,1,0,30,3,1,2,Regularmente,1,0,59,0,3,2,Mando,1,1,0,0,2,3.25
+4617,Málaga,Andalucía,4,3,3,0,5,2,1,38,4,1,1,3,4,4,4,4,8,8,0,0,70,3,1,2,Ocasionalmente,0,0,75,1,4,2,Mando,2,1,1,1,2,2.5
+4619,Málaga,Andalucía,3,2,3,0,5,4,1,38,4,1,1,4,5,5,4,5,9,8,1,0,20,3,1,1,Regularmente,0,0,55,1,3,2,Mando,1,1,0,0,2,2.0
+4620,Asturias,Principado de Asturias,4,5,3,2,5,4,1,32,4,1,1,3,5,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,50,1,2,2,Mando,1,1,1,1,1,3.5
+4668,Murcia,Región de Murcia,5,5,4,0,6,4,1,37,5,1,1,3,4,4,4,4,5,5,0,0,1,3,0,1,Regularmente,0,0,65,1,2,2,Mando,1,1,1,1,2,3.5
+4673,Málaga,Andalucía,2,2,2,0,5,0,1,43,5,1,1,4,5,5,5,0,10,10,0,0,41,1,0,1,Regularmente,0,1,76,1,0,2,Obrero,1,1,1,1,1,1.5
+4695,Sevilla,Andalucía,5,4,4,1,6,5,1,23,5,1,1,3,4,5,4,5,8,8,0,0,1,3,0,2,Regularmente,0,1,40,1,2,2,Mando,1,1,1,1,2,3.5
+4712,Madrid,Comunidad de Madrid,3,5,2,0,5,4,1,3,4,0,0,3,3,4,3,4,9,9,1,0,4,3,0,1,Regularmente,0,0,19,0,2,0,Mando,2,0,0,1,2,2.5
+4718,Vizcaya,País Vasco,5,4,5,4,6,5,1,2,5,1,0,4,5,4,5,5,8,7,1,0,20,3,1,1,Regularmente,1,0,31,0,4,2,Mando,1,0,0,1,1,4.5
+4726,Málaga,Andalucía,4,3,2,0,5,4,1,23,4,1,1,3,3,4,5,4,7,5,0,0,12,3,1,1,Regularmente,0,0,50,1,2,2,Obrero,1,1,1,0,1,2.25
+4732,Sevilla,Andalucía,4,5,4,5,5,4,1,9,4,1,1,3,4,5,5,4,7,6,0,0,15,3,1,2,Regularmente,1,0,31,1,2,2,Director,2,1,1,1,2,4.5
+4745,Sevilla,Andalucía,4,3,3,3,5,4,1,32,4,1,1,4,4,4,4,4,6,10,0,0,1,2,0,1,Regularmente,0,1,51,1,2,2,Obrero,1,1,1,1,2,3.25
+4798,Zaragoza,Aragón,4,5,3,4,5,4,1,10,4,1,1,4,4,5,5,4,7,6,0,0,3,3,0,1,Regularmente,0,0,40,1,4,2,Mando,1,1,0,0,2,4.0
+4805,Sevilla,Andalucía,3,3,2,3,5,4,1,5,4,1,1,3,4,4,4,4,7,9,0,0,2,3,0,1,Regularmente,0,1,31,1,3,2,Comerciante,1,1,1,1,1,2.75
+4811,Navarra,Comunidad Foral de Navarra,4,5,5,5,5,4,1,20,4,1,1,3,4,4,4,4,10,8,0,0,15,3,0,1,Regularmente,0,0,42,1,3,2,Mando,1,1,1,0,1,4.75
+4843,Murcia,Región de Murcia,5,5,2,0,6,5,1,1,5,0,0,3,3,4,3,4,8,8,1,0,4,3,0,2,Regularmente,1,0,18,0,2,1,Mando,1,1,0,0,2,3.0
+4845,Cádiz,Andalucía,5,4,3,3,5,4,1,4,4,0,0,3,3,4,3,4,8,7,0,0,8,3,1,2,Regularmente,0,0,25,0,4,1,Obrero,1,1,1,0,2,3.75
+4869,Madrid,Comunidad de Madrid,4,5,4,0,6,4,1,2,4,0,0,3,3,4,3,4,7,7,1,0,1,3,0,1,Regularmente,0,1,18,0,2,1,Obrero,1,1,0,0,2,3.25
+4871,Córdoba,Andalucía,4,4,4,5,6,5,1,14,5,1,1,3,4,4,4,5,8,10,0,0,1,3,0,1,Regularmente,1,1,38,1,2,2,Mando,1,1,1,0,2,4.25
+4883,Madrid,Comunidad de Madrid,5,3,1,0,6,5,1,43,5,1,1,3,4,4,4,5,9,9,0,0,1,3,0,1,Mensualmente,0,1,70,1,0,2,Obrero,1,1,1,0,2,2.25
+4894,Madrid,Comunidad de Madrid,2,5,4,0,5,2,1,57,5,1,1,3,4,5,4,4,9,9,0,0,1,3,0,1,Mensualmente,0,0,80,1,0,2,Obrero,1,1,1,1,1,2.75
+4911,Rioja,La Rioja,4,4,2,0,5,5,1,4,5,0,0,3,3,4,3,4,7,7,1,0,1,3,0,1,Diariamente,0,1,20,0,2,1,Comerciante,1,1,1,0,2,2.5
+4926,Madrid,Comunidad de Madrid,3,2,2,2,6,5,1,8,4,1,0,3,4,4,5,5,8,8,1,0,15,3,0,1,Diariamente,0,0,29,0,2,2,Obrero,1,1,1,1,2,2.25
+4939,Sevilla,Andalucía,4,5,3,0,6,4,1,3,4,0,0,3,3,4,3,4,8,8,1,0,2,3,0,1,Regularmente,1,1,22,0,2,2,Obrero,1,1,0,0,1,3.0
+4948,Huelva,Andalucía,5,4,4,5,6,5,1,3,5,1,0,3,4,5,4,5,8,8,1,0,2,3,0,1,Diariamente,1,1,22,0,2,2,Obrero,1,1,1,1,1,4.5
+4955,Guipúzcoa,País Vasco,4,5,5,2,6,4,1,20,4,1,1,3,4,4,4,4,7,7,0,0,2,3,1,1,Regularmente,0,0,50,1,2,2,Administrativo,1,1,1,1,1,4.0
+4980,Granada,Andalucía,5,4,5,5,5,2,1,13,3,1,1,4,2,3,5,4,10,4,1,0,3,3,1,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,2,0,2,4.75
+4999,Málaga,Andalucía,4,5,3,0,5,4,1,28,5,1,1,4,4,5,3,4,6,6,0,0,6,3,1,1,Regularmente,1,1,50,1,2,0,Comerciante,1,1,1,0,2,3.0
+5004,Madrid,Comunidad de Madrid,4,4,2,3,6,5,1,1,5,1,0,4,4,3,4,4,7,7,1,0,7,3,1,1,Regularmente,0,0,22,0,2,2,Mando,1,1,2,1,2,3.25
+5009,Sevilla,Andalucía,5,3,4,0,6,3,1,49,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,1,76,1,1,2,Obrero,1,1,1,1,1,3.0
+5012,Rioja,La Rioja,4,5,3,4,6,5,1,28,5,1,1,3,4,4,4,5,10,10,0,0,1,3,0,1,Regularmente,0,1,50,1,2,2,Obrero,1,1,1,0,2,4.0
+5022,Madrid,Comunidad de Madrid,5,4,2,4,6,5,1,6,5,0,0,3,3,4,3,4,7,7,1,0,1,3,0,1,Regularmente,0,1,23,0,3,2,Obrero,1,1,1,1,1,3.75
+5078,Granada,Andalucía,4,5,4,0,5,0,1,40,4,1,1,3,2,4,2,2,9,0,0,0,1,1,0,1,Sin actividad sexual,0,1,63,1,2,0,Obrero,1,1,1,1,2,3.25
+5094,Zaragoza,Aragón,4,5,2,4,5,4,1,25,4,1,1,3,3,4,4,4,5,5,0,0,4,3,1,2,Regularmente,0,0,42,1,2,2,Mando,1,1,1,0,2,3.75
+5121,Madrid,Comunidad de Madrid,5,4,2,5,4,3,1,20,3,1,0,1,3,4,3,4,5,10,0,1,4,3,1,1,Mensualmente,0,1,39,0,1,2,Obrero,1,1,1,0,1,4.0
+5137,Málaga,Andalucía,4,5,4,4,5,4,1,37,4,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,0,61,1,2,2,Administrativo,1,1,0,0,2,4.25
+5178,Jaén,Andalucía,2,5,4,4,6,2,1,8,5,1,1,3,4,2,3,4,6,4,1,1,1,3,0,2,Mensualmente,1,0,37,1,3,2,Mando,1,1,1,0,2,3.75
+5205,Sevilla,Andalucía,4,4,2,4,6,5,1,1,5,0,0,3,3,4,3,4,7,6,1,0,5,3,0,1,Diariamente,0,1,19,0,3,1,Administrativo,1,1,1,0,2,3.5
+5268,Málaga,Andalucía,5,3,4,0,3,4,1,12,4,1,1,3,5,5,5,5,8,8,1,0,3,3,0,1,Regularmente,1,1,43,1,2,2,Administrativo,1,1,1,0,2,3.0
+5292,Cádiz,Andalucía,4,5,2,3,5,5,1,30,4,1,1,4,4,5,5,5,10,10,0,0,1,3,0,1,Regularmente,1,1,49,1,2,2,Obrero,1,1,1,1,2,3.5
+5295,Navarra,Comunidad Foral de Navarra,5,5,3,4,6,5,1,16,5,1,1,4,5,5,5,5,9,8,1,0,20,3,1,1,Regularmente,0,0,34,1,2,2,Obrero,1,0,1,0,2,4.25
+5302,Madrid,Comunidad de Madrid,1,5,1,0,5,4,1,1,5,0,0,3,3,4,3,4,9,5,1,0,6,3,1,2,Regularmente,0,0,23,0,2,1,Comerciante,1,1,1,0,2,1.75
+5309,Santander,Cantabria,4,5,3,4,5,4,1,20,4,1,1,3,3,5,5,4,8,6,0,0,2,3,1,2,Diariamente,0,0,42,1,3,2,Mando,1,1,2,0,2,4.0
+5321,Jaén,Andalucía,5,5,2,3,5,3,1,20,4,1,1,4,4,5,5,3,8,8,0,0,4,3,0,1,Regularmente,0,0,40,1,1,2,Obrero,1,1,1,1,2,3.75
+5354,Guipúzcoa,País Vasco,5,4,4,5,6,5,1,10,4,1,1,3,4,5,4,4,8,9,0,0,5,3,0,1,Regularmente,0,1,41,1,2,2,Administrativo,1,1,1,0,1,4.5
+5375,Málaga,Andalucía,5,4,3,4,6,4,1,26,5,1,1,4,4,5,5,5,5,5,1,0,1,3,0,1,Mensualmente,0,1,42,1,3,2,Mando,1,1,0,1,2,4.0
+5385,Asturias,Principado de Asturias,2,5,2,2,3,2,1,17,2,1,1,4,5,5,5,2,8,5,0,0,7,1,1,2,Mensualmente,0,0,37,1,4,2,Autónomo,2,1,0,0,2,2.75
+5391,Málaga,Andalucía,4,4,2,3,6,5,1,2,5,0,0,3,3,4,3,4,6,10,0,0,8,3,0,1,Diariamente,0,0,29,0,2,2,Mando,2,1,0,0,0,3.25
+5394,Málaga,Andalucía,4,5,4,4,5,4,1,15,4,1,1,3,4,4,4,4,7,7,0,0,999,3,0,1,Regularmente,1,0,41,1,4,2,Autónomo,2,1,1,0,1,4.25
+5429,Vizcaya,País Vasco,4,2,2,2,6,5,1,2,5,0,0,3,3,4,3,4,7,6,1,0,5,3,0,1,Regularmente,1,0,25,0,4,2,Mando,2,1,1,0,2,2.5
+5445,Almería,Andalucía,4,4,3,5,6,5,1,15,5,1,1,3,3,4,4,5,10,10,0,0,2,3,0,1,Regularmente,0,1,34,1,3,2,Director,2,1,1,1,2,4.0
+5477,Sevilla,Andalucía,5,5,4,5,6,5,1,10,5,1,1,3,4,4,4,5,8,10,1,0,1,3,0,1,Regularmente,1,1,30,1,2,2,Mando,1,1,0,0,2,4.75
+5489,Zaragoza,Aragón,3,5,3,4,6,5,1,5,5,1,1,4,5,5,5,5,10,10,1,0,998,3,1,2,Regularmente,0,1,46,1,4,2,Obrero,1,0,0,0,2,3.75
+5512,Guipúzcoa,País Vasco,4,3,2,2,6,4,1,10,4,1,1,3,3,5,4,4,7,7,0,0,10,1,0,1,Mensualmente,1,0,39,1,2,2,Obrero,1,1,1,1,2,2.75
+5534,Sevilla,Andalucía,5,4,4,5,6,5,1,18,5,1,1,3,4,4,4,5,8,7,1,0,1,3,0,1,Regularmente,1,0,35,1,2,2,Obrero,1,1,1,0,2,4.5
+5559,Navarra,Comunidad Foral de Navarra,4,5,4,4,6,5,1,13,4,1,1,3,4,4,4,5,9,10,1,0,1,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,0,1,4.25
+5580,Guipúzcoa,País Vasco,5,3,3,0,6,0,1,56,5,1,1,4,4,5,4,0,0,0,0,0,1,3,0,1,Ocasionalmente,0,1,74,1,1,2,Obrero,1,1,1,1,1,2.75
+5603,Almería,Andalucía,4,3,4,4,5,4,1,34,5,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,1,50,1,1,2,Agricultor,1,1,1,0,2,3.75
+5615,Jaén,Andalucía,5,5,4,5,6,4,1,21,5,1,1,4,4,5,5,5,8,8,0,1,1,3,0,1,Regularmente,0,1,44,1,3,0,Mando,1,1,1,1,2,4.75
+5630,Granada,Andalucía,4,3,3,5,5,4,1,18,5,1,1,3,4,4,3,4,7,10,0,0,1,3,0,1,Regularmente,0,1,35,1,2,2,Obrero,1,1,1,0,1,3.75
+5641,Cádiz,Andalucía,4,3,2,5,5,4,1,32,4,1,1,3,4,4,3,4,8,8,0,0,1,3,0,1,Regularmente,1,0,52,1,2,2,Mando,1,1,2,1,2,3.5
+5676,Madrid,Comunidad de Madrid,4,5,4,5,5,4,1,5,4,1,0,3,4,4,4,4,5,4,1,0,10,3,0,1,Regularmente,0,0,36,0,3,2,Mando,1,1,1,0,2,4.5
+5699,Granada,Andalucía,5,4,3,0,6,2,1,46,5,1,1,4,4,5,5,4,6,6,0,0,1,1,0,1,Regularmente,0,0,75,1,2,2,Mando,1,1,1,1,2,3.0
+5703,Navarra,Comunidad Foral de Navarra,5,5,2,4,5,5,1,44,5,1,1,4,5,5,4,5,10,10,0,0,1,3,0,1,Mensualmente,0,1,67,1,2,2,Obrero,1,1,1,1,2,4.0
+5719,Murcia,Región de Murcia,5,5,4,5,6,5,1,0,4,0,0,3,3,4,3,4,7,5,0,0,4,3,1,1,Regularmente,0,0,29,0,2,2,Obrero,1,1,1,0,2,4.75
+5733,Sevilla,Andalucía,5,4,3,0,4,3,1,51,5,1,1,4,4,4,4,3,10,5,0,0,1,3,0,1,Sin actividad sexual,0,0,73,1,2,2,Obrero,1,1,1,0,1,3.0
+5753,Asturias,Principado de Asturias,3,3,3,3,4,3,1,19,4,1,1,3,4,3,3,4,8,10,1,0,998,3,1,1,Regularmente,0,0,44,1,2,2,Mando,1,1,1,0,2,3.0
+5755,Madrid,Comunidad de Madrid,5,4,2,4,6,4,1,3,5,1,0,4,5,5,3,5,9,9,1,0,15,3,1,1,Regularmente,0,1,28,0,4,2,Comerciante,1,1,0,0,2,3.75
+5760,Sevilla,Andalucía,4,5,4,0,5,4,1,1,5,0,0,3,3,4,3,4,6,10,1,0,3,3,0,1,Regularmente,0,0,18,0,2,1,Comerciante,1,1,1,0,1,3.25
+5772,Córdoba,Andalucía,5,5,2,4,5,4,1,5,5,0,0,3,3,4,3,4,8,10,0,0,50,3,1,2,Regularmente,0,0,32,0,2,2,Obrero,1,1,0,1,2,4.0
+5787,Sevilla,Andalucía,4,5,3,4,6,5,1,8,5,0,0,3,3,4,3,4,8,9,1,0,2,3,0,1,Regularmente,0,1,25,0,2,2,Administrativo,1,1,1,0,2,4.0
+5797,Sevilla,Andalucía,5,4,3,2,6,5,1,20,5,1,1,4,4,4,5,5,7,7,0,0,1,3,0,1,Regularmente,0,0,41,1,2,2,Obrero,1,1,0,0,2,3.5
+5801,Madrid,Comunidad de Madrid,1,3,2,2,2,3,1,11,3,1,1,3,4,3,3,4,2,3,0,0,4,3,1,1,Mensualmente,1,0,40,1,3,2,Obrero,1,1,1,0,2,2.0
+5838,Madrid,Comunidad de Madrid,3,5,4,4,6,4,1,11,4,0,0,3,3,4,3,4,5,5,1,0,1,3,0,1,Mensualmente,0,0,32,0,3,2,Mando,1,1,1,0,1,4.0
+5867,Madrid,Comunidad de Madrid,4,5,3,4,6,4,1,33,4,1,1,3,3,4,4,4,8,10,0,0,3,3,0,1,Desconocido,0,0,59,1,2,2,Obrero,1,1,1,0,2,4.0
+5909,Jaén,Andalucía,4,5,4,4,6,5,1,14,4,1,1,4,4,5,5,5,9,9,1,0,1,3,0,2,Regularmente,0,0,32,1,2,2,Obrero,1,1,1,1,2,4.25
+5936,Granada,Andalucía,4,3,4,4,5,3,1,7,4,1,1,3,4,4,4,4,8,8,0,0,10,3,0,1,Regularmente,0,0,37,1,2,2,Obrero,1,1,1,0,2,3.75
+6011,Málaga,Andalucía,4,4,4,4,5,4,1,3,4,0,0,3,3,4,3,4,6,6,1,0,1,3,0,1,Mensualmente,0,1,21,0,2,1,Mando,1,1,1,1,2,4.0
+6021,Sevilla,Andalucía,5,4,3,4,6,5,1,2,5,1,0,4,5,5,5,5,7,7,1,0,1,3,0,1,Regularmente,1,0,25,0,2,2,Mando,1,1,1,1,0,4.0
+6022,Teruel,Aragón,4,5,4,2,6,2,1,11,5,1,1,4,5,5,5,4,7,7,1,0,5,3,0,1,Regularmente,0,1,29,1,4,2,Comerciante,1,1,1,0,2,3.75
+6089,Madrid,Comunidad de Madrid,4,5,2,4,5,4,1,6,4,0,0,3,3,4,3,4,9,9,1,1,7,3,1,1,Regularmente,0,1,25,0,2,2,Mando,1,1,0,0,2,3.75
+6092,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,8,5,1,1,4,5,5,5,5,10,10,1,0,1,3,0,1,Regularmente,0,1,27,1,3,2,Autónomo,2,1,1,0,1,4.25
+6111,Madrid,Comunidad de Madrid,4,5,4,0,6,4,1,46,4,1,1,4,5,5,5,5,8,8,0,0,1,3,0,1,Regularmente,0,1,71,1,4,2,Comerciante,2,1,1,0,2,3.25
+6119,Cádiz,Andalucía,4,4,4,3,5,5,1,0,5,0,0,3,3,4,3,4,8,8,1,0,6,3,0,1,Diariamente,1,0,22,0,2,0,Obrero,1,1,0,0,2,3.75
+6144,Madrid,Comunidad de Madrid,4,4,3,0,5,4,1,0,4,0,0,3,3,4,3,4,8,7,1,0,2,3,0,1,Regularmente,1,0,18,0,2,1,Obrero,1,1,0,1,1,2.75
+6147,Guipúzcoa,País Vasco,4,3,4,0,5,4,1,47,4,1,1,2,4,4,4,4,8,7,0,0,1,3,0,1,Regularmente,0,0,73,1,4,2,Comerciante,1,1,1,0,1,2.75
+6163,Sevilla,Andalucía,4,5,5,5,6,5,1,34,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,54,1,2,2,Comerciante,1,1,1,0,2,4.75
+6175,Granada,Andalucía,4,4,4,2,6,4,1,25,4,1,1,4,5,5,4,5,7,7,0,0,2,3,0,1,Regularmente,0,0,53,1,4,2,Mando,1,1,0,0,1,3.5
+6195,Madrid,Comunidad de Madrid,2,3,1,1,5,4,1,22,4,1,1,2,3,2,4,4,9,7,0,0,14,3,0,1,Regularmente,1,0,43,1,2,2,Obrero,1,1,1,1,1,1.75
+6252,Madrid,Comunidad de Madrid,5,3,3,0,5,3,1,35,5,1,1,3,4,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,62,1,1,2,Obrero,1,1,1,0,1,2.75
+6287,Madrid,Comunidad de Madrid,4,4,2,2,5,4,1,4,5,1,0,3,4,5,4,4,8,9,1,0,1,3,0,1,Regularmente,0,1,26,0,2,2,Obrero,1,1,0,1,2,3.0
+6294,Málaga,Andalucía,4,3,2,0,5,4,1,32,4,1,1,3,4,4,2,4,10,10,0,0,10,3,1,2,Ocasionalmente,0,0,58,1,1,0,Autónomo,1,1,1,1,1,2.25
+6308,Vizcaya,País Vasco,4,4,5,0,5,4,1,5,4,1,1,3,4,4,4,4,7,10,1,0,5,3,0,2,Regularmente,0,0,34,1,4,2,Mando,2,1,1,0,2,3.25
+6310,Murcia,Región de Murcia,5,5,2,1,6,5,1,2,4,0,0,3,3,4,3,4,7,9,1,0,1,3,0,1,Regularmente,0,1,20,0,2,1,Director,2,1,2,0,2,3.25
+6313,Madrid,Comunidad de Madrid,3,5,1,4,5,4,1,4,4,1,0,3,3,5,3,4,8,7,1,0,3,3,0,1,Regularmente,0,1,27,0,2,2,Autónomo,1,1,0,0,2,3.25
+6367,Madrid,Comunidad de Madrid,4,5,4,0,4,3,1,40,4,1,1,3,3,4,4,4,8,7,0,0,3,3,1,1,Regularmente,0,0,66,1,3,2,Director,2,1,0,1,2,3.25
+6401,Santander,Cantabria,5,4,4,5,6,5,1,5,5,0,0,3,3,4,3,4,10,10,1,0,3,3,0,1,Diariamente,1,1,28,0,3,2,Obrero,1,1,1,1,1,4.5
+6426,Sevilla,Andalucía,4,4,2,2,5,4,1,5,4,1,1,2,3,4,3,4,10,7,1,0,6,3,0,2,Regularmente,1,0,25,1,2,2,Obrero,1,1,0,0,1,3.0
+6461,Huelva,Andalucía,5,5,4,4,6,5,1,11,5,1,1,3,3,4,4,5,10,10,0,0,10,3,1,1,Regularmente,0,0,39,1,3,2,Administrativo,1,1,0,0,2,4.5
+6469,Madrid,Comunidad de Madrid,5,5,4,4,5,4,1,18,4,1,1,4,4,4,4,4,8,7,1,0,5,3,0,1,Regularmente,0,0,40,1,3,2,Mando,1,1,1,1,0,4.5
+6473,Álava,País Vasco,2,4,4,2,6,4,1,6,5,1,0,2,4,5,4,2,6,9,1,0,3,3,0,1,Regularmente,0,1,31,0,3,2,Mando,1,1,1,0,2,3.0
+6488,Sevilla,Andalucía,4,1,4,0,5,1,1,56,4,1,1,3,4,4,4,4,8,10,0,0,8,3,0,1,Sin actividad sexual,0,0,84,1,2,2,Obrero,1,1,1,1,1,2.25
+6544,Guipúzcoa,País Vasco,3,3,3,0,3,1,1,43,3,1,1,3,4,4,4,4,4,10,0,0,1,3,0,1,Regularmente,1,1,66,1,2,2,Otro,1,1,0,0,2,2.25
+6549,Córdoba,Andalucía,4,5,4,4,6,5,1,20,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,32,1,3,2,Autónomo,2,1,1,1,2,4.25
+6612,Málaga,Andalucía,4,2,2,0,6,5,1,40,5,1,1,3,4,4,4,4,8,7,0,0,1,3,1,1,Regularmente,0,0,50,1,2,2,Comerciante,1,1,1,1,2,2.0
+6619,Madrid,Comunidad de Madrid,5,4,4,4,6,5,1,19,5,1,1,4,4,4,4,5,9,10,1,0,1,3,0,1,Regularmente,0,1,34,1,1,2,Comerciante,1,1,1,1,1,4.25
+6622,Córdoba,Andalucía,3,5,3,3,4,3,1,30,3,1,1,3,3,3,3,3,5,10,0,0,3,3,1,1,Regularmente,0,0,48,1,2,2,Administrativo,1,1,1,1,2,3.5
+6666,Málaga,Andalucía,2,2,3,0,2,1,1,35,1,1,1,1,2,5,3,0,1,1,0,0,1,1,0,1,Sin actividad sexual,0,1,58,1,2,2,Obrero,1,1,1,1,2,1.75
+6667,Guipúzcoa,País Vasco,4,5,4,0,5,3,1,37,4,1,1,3,4,4,4,4,7,6,0,0,3,3,0,1,Regularmente,0,0,61,1,2,2,Obrero,1,1,1,1,2,3.25
+6673,Almería,Andalucía,4,5,3,3,5,4,1,26,4,1,1,3,4,5,4,4,8,8,0,0,1,3,0,1,Regularmente,1,0,51,1,2,2,Obrero,1,1,1,1,2,3.75
+6680,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,22,4,1,1,3,4,4,4,4,7,8,0,0,10,3,0,1,Regularmente,1,0,44,1,2,2,Administrativo,1,1,1,1,1,4.25
+6730,Asturias,Principado de Asturias,3,5,2,0,4,0,1,53,4,1,1,3,3,5,5,3,5,4,0,0,1,3,1,1,Ocasionalmente,1,1,70,1,2,2,Obrero,1,1,1,1,2,2.5
+6741,Santander,Cantabria,4,5,4,4,5,4,1,20,4,1,0,3,4,4,5,4,7,7,0,0,3,3,0,1,Desconocido,0,0,47,1,4,2,Mando,1,1,1,0,1,4.25
+6747,Madrid,Comunidad de Madrid,4,5,4,0,6,5,1,0,5,0,0,3,3,4,3,4,8,8,1,1,5,3,0,1,Regularmente,0,1,21,0,2,1,Comerciante,2,1,0,0,2,3.25
+6782,Granada,Andalucía,4,5,2,0,6,5,1,7,5,1,1,3,4,5,3,4,4,6,0,0,1,3,0,1,Regularmente,0,1,24,1,2,2,Obrero,1,1,2,0,2,2.75
+6799,Madrid,Comunidad de Madrid,5,5,4,4,5,4,1,15,4,1,1,4,4,5,5,5,8,8,0,0,1,3,0,1,Regularmente,0,1,34,1,3,2,Administrativo,1,1,1,0,2,4.5
+6841,Jaén,Andalucía,5,4,4,4,6,5,1,3,5,0,0,3,3,4,3,4,7,7,1,0,3,3,0,1,Diariamente,1,0,25,0,4,2,Mando,1,1,1,0,2,4.25
+6869,Asturias,Principado de Asturias,5,5,4,5,6,5,1,15,5,1,1,4,5,5,5,5,8,5,1,0,1,3,0,1,Regularmente,1,0,35,1,2,2,Mando,1,1,2,1,2,4.75
+6909,Córdoba,Andalucía,3,3,3,5,6,4,1,37,5,1,1,3,4,4,4,3,8,6,0,0,5,3,0,1,Regularmente,1,0,60,1,1,2,Obrero,1,1,1,0,0,3.5
+6920,Jaén,Andalucía,5,5,4,0,6,1,1,59,5,1,1,3,4,3,3,5,10,10,0,0,1,1,0,1,Mensualmente,0,0,80,1,2,2,Obrero,1,1,0,0,2,3.5
+6973,Murcia,Región de Murcia,4,5,4,2,4,3,1,25,3,1,1,3,4,4,4,3,8,6,0,0,14,3,1,1,Regularmente,0,0,49,1,2,2,Mando,1,1,0,0,2,3.75
+6975,Sevilla,Andalucía,5,4,4,2,6,4,1,11,5,1,1,3,4,4,4,4,8,10,1,0,1,3,0,1,Regularmente,0,1,29,1,2,2,Obrero,1,1,1,1,2,3.75
+6984,Murcia,Región de Murcia,2,4,5,4,5,2,1,1,4,0,0,3,3,4,3,4,8,6,0,0,3,3,0,1,Regularmente,0,1,22,0,2,1,Administrativo,1,1,1,1,2,3.75
+7004,Zaragoza,Aragón,5,5,1,4,5,4,1,20,5,1,1,3,4,4,4,4,7,6,0,0,41,0,0,1,Regularmente,0,0,48,1,2,2,Administrativo,1,1,1,1,0,3.75
+7029,Madrid,Comunidad de Madrid,5,4,3,3,6,5,1,5,5,1,0,4,4,5,4,5,10,10,1,0,20,3,1,1,Regularmente,1,0,34,0,1,2,Obrero,1,0,2,0,2,3.75
+7053,Madrid,Comunidad de Madrid,4,5,4,0,3,3,1,47,4,1,1,3,4,4,3,4,7,7,0,0,1,3,1,0,Regularmente,0,0,78,1,2,2,Obrero,1,1,1,1,1,3.25
+7063,Málaga,Andalucía,5,5,2,2,5,5,1,10,5,1,1,4,4,4,5,5,8,8,0,0,2,3,0,1,Regularmente,0,1,31,1,4,2,Mando,2,1,1,1,2,3.5
+7071,Zaragoza,Aragón,4,5,4,5,6,4,1,5,4,1,0,3,4,4,4,4,9,9,1,0,10,3,0,1,Regularmente,1,1,32,0,3,2,Administrativo,1,1,1,1,2,4.5
+7073,Córdoba,Andalucía,4,5,4,4,6,5,1,20,5,1,1,3,4,4,4,5,10,10,0,0,2,3,1,2,Regularmente,0,0,42,1,2,2,Obrero,1,1,1,1,2,4.25
+7099,Almería,Andalucía,4,5,2,4,6,4,1,19,4,1,1,3,4,5,3,5,8,7,0,0,1,3,0,1,Regularmente,0,0,44,1,2,2,Mando,1,1,1,0,2,3.75
+7127,Guipúzcoa,País Vasco,5,5,5,4,6,5,1,1,5,1,0,3,4,3,4,5,8,10,0,0,3,3,0,1,Regularmente,1,0,19,0,3,2,Obrero,1,1,2,0,1,4.75
+7149,Madrid,Comunidad de Madrid,4,5,2,4,6,4,1,6,5,0,0,3,3,4,3,4,7,7,1,0,2,1,0,1,Mensualmente,0,1,24,0,4,2,Mando,1,1,0,0,2,3.75
+7164,Cádiz,Andalucía,5,5,2,5,5,5,1,8,5,0,0,3,3,4,3,4,9,8,0,0,8,3,0,1,Regularmente,1,0,26,0,2,2,Obrero,1,1,1,0,2,4.25
+7179,Asturias,Principado de Asturias,4,5,5,5,6,5,1,1,4,1,0,4,4,5,4,5,9,6,0,0,30,3,1,1,Diariamente,0,0,34,0,2,2,Obrero,1,1,0,0,2,4.75
+7195,Santander,Cantabria,4,5,4,3,5,4,1,25,5,1,1,3,4,4,4,5,6,9,0,0,3,3,0,1,Regularmente,0,1,43,1,4,2,Mando,1,1,0,0,2,4.0
+7215,Rioja,La Rioja,5,3,4,5,6,5,1,20,5,1,1,3,4,4,4,5,9,9,0,0,1,3,0,1,Regularmente,0,0,39,1,2,2,Obrero,1,1,1,1,1,4.25
+7228,Madrid,Comunidad de Madrid,4,4,4,2,5,5,1,4,4,1,0,3,4,4,4,5,8,8,0,0,3,3,1,1,Regularmente,1,0,57,0,4,2,Administrativo,1,1,1,0,2,3.5
+7267,Madrid,Comunidad de Madrid,4,4,5,5,6,4,1,26,4,1,1,4,5,5,5,4,8,10,0,0,4,3,1,1,Regularmente,0,0,43,1,4,2,Mando,1,1,1,0,1,4.5
+7294,Málaga,Andalucía,4,5,5,0,5,4,1,28,4,1,1,3,2,2,4,4,7,7,0,0,1,3,0,1,Regularmente,1,0,50,1,3,2,Mando,1,1,0,0,1,3.5
+7318,Murcia,Región de Murcia,5,4,4,3,6,4,1,5,5,0,0,3,3,4,3,4,9,7,1,0,1,3,0,2,Regularmente,0,0,24,0,4,2,Obrero,1,1,0,0,2,4.0
+7323,Jaén,Andalucía,5,5,3,4,5,5,1,7,5,0,0,3,3,4,3,4,8,9,1,0,4,3,1,2,Regularmente,0,1,25,0,2,2,Comerciante,1,1,1,0,2,4.25
+7331,Jaén,Andalucía,3,3,4,1,5,4,1,16,3,1,1,2,3,4,3,4,10,10,0,0,5,3,0,1,Regularmente,0,0,41,1,2,2,Mando,1,1,0,1,2,2.75
+7350,Guadalajara,Castilla-La Mancha,4,3,2,0,5,4,1,35,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Sin actividad sexual,0,0,78,1,0,2,Obrero,1,1,1,0,2,2.25
+7354,Barcelona,Cataluña,5,5,4,4,6,5,1,13,5,1,1,3,5,5,5,5,9,9,0,1,4,3,0,1,Regularmente,0,1,40,1,4,2,Administrativo,1,1,1,0,2,4.5
+7366,Cuenca,Castilla-La Mancha,4,3,3,0,5,4,1,38,4,1,1,4,4,4,4,4,8,9,0,0,1,3,0,1,Regularmente,0,1,61,1,0,2,Obrero,0,1,1,0,2,2.5
+7383,Albacete,Castilla-La Mancha,4,5,4,0,5,4,1,1,4,0,0,3,3,4,3,4,6,6,1,0,2,3,0,1,Regularmente,1,1,18,0,2,1,Mando,1,1,0,0,2,3.25
+7391,Pontevedra,Galicia,4,5,4,4,5,4,1,12,4,1,1,3,4,4,4,4,9,9,1,0,1,3,0,1,Regularmente,0,1,40,1,2,2,Obrero,1,1,1,0,1,4.25
+7432,Segovia,Castilla y León,4,3,4,4,6,5,1,21,5,1,1,4,4,5,4,4,6,8,0,0,2,3,0,1,Regularmente,1,1,45,1,2,2,Comerciante,1,1,1,1,2,3.75
+7448,Guadalajara,Castilla-La Mancha,4,5,2,2,6,5,1,10,5,1,1,3,4,4,4,5,8,8,0,0,2,3,0,1,Regularmente,1,1,30,1,2,2,Administrativo,1,1,1,1,2,3.25
+7451,Asturias,Principado de Asturias,4,3,3,4,6,4,1,50,5,1,1,4,5,5,3,4,10,10,0,0,1,3,0,1,Sin actividad sexual,0,1,70,1,2,2,Obrero,1,1,1,0,1,3.5
+7455,Gerona,Cataluña,5,5,4,5,6,5,1,10,5,1,0,4,5,4,4,5,5,5,1,0,3,3,1,1,Regularmente,0,0,37,1,2,2,Agricultor,1,1,0,0,2,4.75
+7463,Tarragona,Cataluña,3,3,3,3,4,3,1,45,3,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Desconocido,0,1,62,1,2,2,Comerciante,1,1,1,0,1,3.0
+7482,Lugo,Galicia,3,4,2,0,5,3,1,44,5,1,1,3,5,5,5,4,9,9,0,0,1,3,0,1,Regularmente,0,1,61,1,1,0,Obrero,1,1,1,0,2,2.25
+7484,Coruña,Galicia,4,5,3,1,5,3,1,98,4,1,1,3,4,5,4,4,9,9,0,0,1,3,0,1,Regularmente,0,1,58,1,1,2,Mando,2,1,1,0,2,3.25
+7495,Valladolid,Castilla y León,5,4,2,5,6,5,1,4,5,1,0,4,4,4,4,5,8,7,0,0,2,3,0,1,Regularmente,0,1,50,0,2,2,Comerciante,1,1,1,0,2,4.0
+7504,Lérida,Cataluña,4,4,5,4,6,4,1,13,5,1,1,3,4,5,5,4,8,8,0,0,3,3,0,1,Regularmente,1,0,42,1,2,2,Agricultor,1,1,0,0,2,4.25
+7509,Valencia,Comunidad Valenciana,4,3,3,2,5,4,1,28,4,1,1,2,3,4,3,3,3,2,0,0,18,3,1,2,Regularmente,1,0,48,1,2,2,Autónomo,1,1,1,0,2,3.0
+7533,Palma,Islas Baleares,4,5,4,4,6,4,1,45,5,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,1,1,67,1,1,2,Comerciante,1,1,1,0,2,4.25
+7534,Palma,Islas Baleares,4,4,2,4,5,4,1,7,4,1,0,3,5,4,5,4,7,6,0,0,5,3,0,1,Regularmente,0,1,29,0,2,2,Mando,1,1,0,1,2,3.5
+7565,Valencia,Comunidad Valenciana,5,4,4,5,6,5,1,23,5,1,1,3,4,5,4,5,8,8,0,0,3,3,0,1,Regularmente,0,1,39,1,2,2,Obrero,1,1,1,1,2,4.5
+7583,Coruña,Galicia,2,3,2,2,6,4,1,29,5,1,1,4,5,5,3,4,5,7,0,0,5,3,0,1,Mensualmente,0,1,50,1,4,2,Mando,1,1,0,1,2,2.25
+7595,Valencia,Comunidad Valenciana,4,5,4,4,5,4,1,32,4,1,1,3,5,5,4,4,7,9,1,1,1,2,0,1,Regularmente,1,1,50,1,4,2,Mando,1,1,2,0,2,4.25
+7598,Palencia,Castilla y León,4,3,3,5,5,4,1,20,4,1,1,4,5,5,3,5,10,10,1,0,3,3,0,0,Regularmente,0,0,45,1,3,2,Obrero,1,1,1,1,1,3.75
+7622,Orense,Galicia,5,5,5,5,5,4,1,2,4,1,1,4,4,4,4,4,9,9,1,0,3,3,1,1,Regularmente,0,1,27,1,2,2,Obrero,1,0,0,1,1,5.0
+7679,Alicante,Comunidad Valenciana,4,5,3,4,6,5,1,25,4,1,1,3,4,4,4,4,5,5,1,0,1,3,0,1,Desconocido,1,0,48,1,3,2,Comerciante,2,1,1,0,1,4.0
+7694,Badajoz,Extremadura,4,5,4,4,6,5,1,9,4,1,1,3,4,4,4,4,8,3,1,0,5,3,0,1,Regularmente,0,0,43,1,2,2,Mando,2,1,1,0,2,4.25
+7698,Cáceres,Extremadura,5,3,4,0,5,5,1,38,5,1,1,4,4,5,4,5,10,10,0,0,1,3,0,1,Regularmente,0,1,57,1,2,2,Comerciante,1,1,1,0,2,3.0
+7763,Alicante,Comunidad Valenciana,4,5,4,0,5,4,1,50,4,1,1,4,5,5,5,5,9,7,0,0,1,3,0,1,Regularmente,1,0,62,1,1,2,Obrero,1,1,0,0,2,3.25
+7838,Lugo,Galicia,4,5,4,0,5,3,1,55,4,1,1,3,3,4,3,4,10,5,0,0,998,3,0,1,Regularmente,0,0,80,1,0,2,Agricultor,0,1,1,0,2,3.25
+7844,Coruña,Galicia,4,3,4,0,6,4,1,43,5,1,1,4,5,5,5,5,6,8,0,0,1,3,0,1,Regularmente,0,1,69,1,4,2,Mando,2,1,1,0,2,2.75
+7852,Barcelona,Cataluña,4,5,4,4,4,4,1,33,4,1,1,3,5,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,1,55,1,2,0,Obrero,1,1,1,0,2,4.25
+7854,Las Palmas,Islas Canarias,4,1,1,0,5,4,1,32,4,1,1,4,5,5,4,5,7,8,0,0,1,3,0,1,Regularmente,0,1,62,1,1,2,Obrero,1,1,1,1,2,1.5
+7861,Badajoz,Extremadura,4,5,4,0,5,3,1,15,4,1,1,4,4,5,5,3,8,6,0,0,2,3,0,1,Mensualmente,1,1,44,1,4,2,Mando,1,1,0,0,2,3.25
+7862,Valencia,Comunidad Valenciana,5,3,3,4,6,4,1,28,5,1,1,3,4,3,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,49,0,4,2,Mando,2,1,1,0,1,3.75
+7883,Asturias,Principado de Asturias,4,5,4,4,6,5,1,18,4,1,1,3,2,5,4,4,6,10,1,0,3,3,1,1,Regularmente,0,1,41,1,2,2,Obrero,1,1,1,0,2,4.25
+7890,Palma,Islas Baleares,5,5,4,4,5,2,1,14,5,1,1,3,5,4,5,4,7,5,1,0,7,3,0,2,Regularmente,0,0,52,1,3,2,Mando,1,1,1,1,1,4.5
+7909,Las Palmas,Islas Canarias,4,5,1,1,6,5,1,6,5,0,0,3,3,4,3,4,8,8,0,0,2,3,0,1,Regularmente,1,1,29,0,3,0,Administrativo,1,1,0,1,1,2.75
+7913,Albacete,Castilla-La Mancha,4,5,4,0,5,4,1,24,4,1,1,2,4,4,4,4,5,10,0,0,2,3,0,1,Regularmente,1,1,43,1,2,2,Comerciante,1,1,1,0,2,3.25
+7921,Alicante,Comunidad Valenciana,5,5,3,4,6,4,1,15,4,1,0,3,4,4,3,4,8,10,0,0,1,3,0,1,Regularmente,0,1,26,0,2,0,Comerciante,1,1,2,0,2,4.25
+7925,Valencia,Comunidad Valenciana,3,3,3,5,3,5,1,5,4,0,0,3,3,4,3,4,8,10,0,0,8,3,0,1,Regularmente,0,1,40,1,1,2,Obrero,1,1,0,0,1,3.5
+7946,Cáceres,Extremadura,5,5,4,0,5,4,1,39,5,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,50,1,2,2,Obrero,1,1,1,1,2,3.5
+7966,Gerona,Cataluña,4,5,4,4,5,4,1,13,4,1,0,3,4,4,4,4,6,6,0,0,10,3,1,1,Regularmente,0,1,53,0,2,2,Obrero,1,1,0,0,2,4.25
+7991,Castellón,Comunidad Valenciana,3,3,4,4,4,4,1,26,3,1,1,3,4,4,2,3,6,5,0,0,5,3,1,1,Regularmente,0,1,50,1,4,2,Mando,2,1,0,0,2,3.5
+7993,Barcelona,Cataluña,4,3,2,0,6,3,1,38,4,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Mensualmente,0,1,65,1,2,2,Obrero,1,1,1,0,1,2.25
+8000,Orense,Galicia,4,5,4,3,5,4,1,15,4,1,1,4,3,4,4,4,8,6,1,0,1,2,0,1,Regularmente,0,0,42,1,2,2,Obrero,1,1,1,0,1,4.0
+8002,Albacete,Castilla-La Mancha,4,5,3,5,5,5,1,22,4,1,1,3,3,4,4,4,8,8,1,0,1,3,0,1,Regularmente,0,1,44,1,2,2,Obrero,1,1,1,0,1,4.25
+8011,Barcelona,Cataluña,5,5,4,2,6,5,1,0,5,0,0,3,3,4,3,4,7,7,1,0,2,3,0,1,Regularmente,0,1,20,0,0,2,Otro,1,1,1,1,1,4.0
+8022,Las Palmas,Islas Canarias,4,5,2,1,6,5,1,1,5,1,0,3,4,4,4,4,6,6,1,0,7,3,0,1,Diariamente,1,1,19,0,2,2,Obrero,1,1,1,0,2,3.0
+8025,Segovia,Castilla y León,4,4,4,4,5,3,1,40,4,1,1,4,3,4,4,3,6,6,0,0,1,3,0,1,Mensualmente,1,1,62,1,2,2,Obrero,1,1,1,0,2,4.0
+8046,Barcelona,Cataluña,4,5,2,4,5,4,1,1,4,0,0,3,3,4,3,4,6,6,0,0,5,3,1,1,Regularmente,0,1,49,0,2,2,Obrero,1,1,0,0,2,3.75
+8054,Tarragona,Cataluña,4,3,2,5,6,5,1,11,4,1,1,4,5,5,5,5,10,10,0,0,2,3,0,1,Ocasionalmente,0,1,45,1,1,2,Obrero,1,1,1,1,2,3.5
+8058,Pontevedra,Galicia,4,5,4,5,6,4,1,14,4,1,1,3,3,4,5,5,5,8,1,0,3,3,0,1,Regularmente,0,1,44,1,2,2,Mando,1,1,1,0,2,4.5
+8079,Soria,Castilla y León,4,3,4,4,5,4,1,41,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,1,62,1,2,2,Agricultor,1,1,1,0,2,3.75
+8093,Tarragona,Cataluña,4,5,4,4,5,4,1,32,4,1,1,3,4,4,4,4,6,8,0,0,1,3,0,1,Regularmente,1,1,54,1,2,2,Obrero,1,1,1,0,1,4.25
+8120,Lugo,Galicia,4,5,4,4,5,4,1,34,4,1,1,3,2,4,3,4,5,8,0,0,1,3,0,1,Regularmente,0,1,49,1,2,2,Mando,2,1,1,0,2,4.25
+8138,Valencia,Comunidad Valenciana,3,5,4,5,5,4,1,6,4,1,0,4,5,4,3,5,0,0,0,0,999,3,0,1,Desconocido,0,0,51,0,3,2,Obrero,1,1,1,0,2,4.25
+8154,Barcelona,Cataluña,4,5,4,4,5,4,1,17,4,1,0,3,4,4,4,4,8,8,0,1,4,3,1,1,Regularmente,0,1,48,0,2,2,Administrativo,1,1,2,0,2,4.25
+8155,Barcelona,Cataluña,3,5,2,0,4,3,1,18,4,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Regularmente,0,1,34,1,2,2,Obrero,1,1,1,0,2,2.5
+8173,Cáceres,Extremadura,3,3,2,0,6,4,1,45,5,1,1,4,5,4,4,4,8,9,0,0,1,3,0,1,Regularmente,0,1,67,1,2,2,Comerciante,1,1,1,0,2,2.0
+8182,Alicante,Comunidad Valenciana,4,3,4,5,5,3,1,20,3,1,1,2,3,4,4,4,7,7,0,0,4,2,0,1,Regularmente,1,0,50,1,3,2,Mando,2,1,0,0,2,4.0
+8190,Alicante,Comunidad Valenciana,4,5,4,0,5,4,1,23,4,1,1,3,4,4,4,4,8,8,0,0,1,1,0,1,Regularmente,1,1,37,1,2,2,Comerciante,1,1,1,0,2,3.25
+8193,Orense,Galicia,4,5,4,5,5,3,1,20,5,1,1,2,3,5,4,3,5,4,0,0,998,1,0,1,Regularmente,0,0,45,1,3,2,Mando,1,1,1,0,2,4.5
+8194,Valencia,Comunidad Valenciana,4,3,4,5,6,4,1,25,5,1,1,3,4,5,4,5,7,7,1,0,3,3,0,1,Regularmente,1,0,45,1,3,2,Mando,1,1,1,0,2,4.0
+8215,Santa Cruz de Tenerife,Islas Canarias,5,4,5,0,6,4,1,34,5,1,1,4,5,5,5,5,10,10,0,0,1,3,0,1,Regularmente,0,1,55,1,2,2,Obrero,1,1,1,1,2,3.5
+8226,Guadalajara,Castilla-La Mancha,4,4,3,4,5,4,1,20,5,1,1,4,5,5,4,5,5,7,0,0,3,3,1,1,Regularmente,0,1,40,1,2,0,Obrero,1,1,1,1,2,3.75
+8233,Palma,Islas Baleares,3,5,2,5,3,2,1,12,3,1,1,3,4,5,1,2,8,2,1,0,2,1,0,1,Ocasionalmente,1,1,46,1,2,2,Obrero,1,1,1,0,2,3.75
+8235,Lugo,Galicia,3,3,4,0,5,4,1,38,4,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,1,60,1,2,2,Obrero,1,1,1,0,2,2.5
+8238,Tarragona,Cataluña,3,3,3,0,5,3,1,30,5,1,1,3,4,3,3,4,10,6,0,1,1,3,0,1,Regularmente,0,1,49,1,1,2,Administrativo,1,1,1,1,2,2.25
+8250,Santa Cruz de Tenerife,Islas Canarias,5,4,5,5,5,4,1,45,5,1,1,4,3,4,4,5,10,10,0,0,998,1,0,1,Mensualmente,0,0,70,1,0,2,Mando,1,1,1,0,2,4.75
+8259,León,Castilla y León,5,5,4,4,6,4,1,29,5,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,0,58,1,1,2,Obrero,1,1,1,1,2,4.5
+8277,Lérida,Cataluña,5,5,5,0,5,4,1,43,5,1,1,3,4,5,4,4,7,7,0,0,1,3,1,1,Regularmente,0,0,65,1,2,2,Autónomo,1,1,1,1,1,3.75
+8293,Guadalajara,Castilla-La Mancha,4,5,2,4,6,4,1,5,4,0,0,3,3,4,3,4,10,7,0,0,10,3,0,1,Regularmente,1,0,27,0,2,2,Obrero,1,1,1,0,2,3.75
+8295,Pontevedra,Galicia,3,3,2,0,5,3,1,46,4,1,1,3,3,4,3,4,5,5,0,0,1,3,0,1,Regularmente,0,1,65,1,2,2,Obrero,1,1,1,0,2,2.0
+8298,Palma,Islas Baleares,5,4,2,2,6,5,1,5,5,0,0,3,3,4,3,4,5,5,1,0,3,3,0,1,Diariamente,0,1,22,0,2,2,Comerciante,1,1,1,0,2,3.25
+8321,Salamanca,Castilla y León,4,5,4,0,5,4,1,49,5,1,1,4,4,5,5,4,7,9,0,0,1,3,0,1,Regularmente,0,1,72,1,2,2,Administrativo,1,1,1,0,2,3.25
+8330,Cáceres,Extremadura,5,4,4,0,5,4,1,18,4,1,1,3,4,4,4,4,7,7,0,0,2,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,0,2,3.25
+8414,Alicante,Comunidad Valenciana,4,4,3,2,6,5,1,7,5,1,1,3,4,4,4,5,8,6,0,0,998,3,0,1,Regularmente,0,0,33,1,2,2,Obrero,1,0,1,1,1,3.25
+8418,Barcelona,Cataluña,5,4,4,4,6,5,1,4,5,1,0,3,5,4,4,5,8,10,0,0,6,1,0,1,Regularmente,0,1,41,0,2,2,Administrativo,1,1,1,0,2,4.25
+8424,Barcelona,Cataluña,4,5,5,5,6,5,1,1,4,1,0,4,4,5,5,5,10,10,0,0,50,3,1,1,Regularmente,1,0,29,1,3,2,Mando,1,0,1,1,1,4.75
+8438,Barcelona,Cataluña,5,1,4,0,6,5,1,37,5,1,1,4,5,5,4,5,5,5,1,0,1,3,0,1,Regularmente,0,1,63,1,3,2,Mando,1,1,1,0,2,2.5
+8443,Barcelona,Cataluña,4,5,2,4,5,4,1,5,5,0,0,3,3,4,3,4,6,8,1,0,2,3,0,1,Regularmente,0,1,28,1,4,2,Obrero,1,1,1,0,2,3.75
+8448,Alicante,Comunidad Valenciana,5,4,2,3,6,5,1,4,4,1,0,4,4,4,4,5,6,8,1,0,11,3,0,1,Diariamente,0,0,30,0,2,2,Obrero,1,0,1,1,1,3.5
+8474,Santa Cruz de Tenerife,Islas Canarias,4,5,4,3,5,4,1,42,4,1,1,3,4,5,4,4,6,7,0,0,1,3,0,1,Mensualmente,1,1,63,1,2,2,Mando,1,1,1,0,2,4.0
+8488,Orense,Galicia,4,3,4,0,5,4,1,40,4,1,1,4,5,5,5,4,9,10,0,0,1,3,0,1,Desconocido,1,1,60,1,1,2,Obrero,1,1,1,0,2,2.75
+8519,Albacete,Castilla-La Mancha,4,3,4,0,6,5,1,19,5,1,1,4,3,5,5,5,5,4,0,0,4,3,1,1,Mensualmente,0,0,81,1,1,2,Obrero,1,1,1,0,1,2.75
+8532,Cuenca,Castilla-La Mancha,5,3,4,4,6,4,1,34,5,1,1,4,5,5,4,4,8,9,0,0,1,3,0,1,Regularmente,1,1,61,1,2,2,Comerciante,1,1,1,0,2,4.0
+8542,Santa Cruz de Tenerife,Islas Canarias,4,5,1,0,4,4,1,14,4,1,1,4,5,5,5,5,7,7,0,0,3,3,1,1,Diariamente,1,1,37,1,3,0,Obrero,1,1,1,1,2,2.5
+8554,Palma,Islas Baleares,2,5,2,4,3,2,1,4,2,1,0,3,2,5,2,2,10,10,1,0,4,1,0,2,Mensualmente,1,1,25,0,1,2,Obrero,1,1,1,1,1,3.25
+8580,Santa Cruz de Tenerife,Islas Canarias,4,5,3,4,5,4,1,29,4,1,1,4,4,4,3,4,9,9,0,0,1,3,0,1,Regularmente,0,1,49,1,2,2,Obrero,1,1,1,0,1,4.0
+8599,Lugo,Galicia,5,4,1,0,6,3,1,40,5,1,1,3,4,4,4,4,5,5,0,0,1,3,0,1,Diariamente,1,0,65,1,2,2,Mando,1,1,1,0,1,2.5
+8603,Tarragona,Cataluña,2,1,2,0,6,3,1,19,5,1,1,3,4,4,4,4,5,5,0,0,2,3,0,1,Regularmente,1,0,59,1,1,2,Obrero,1,1,1,0,2,1.25
+8616,Asturias,Principado de Asturias,2,3,4,0,5,3,1,34,4,1,1,3,5,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,59,1,1,2,Mando,1,1,1,0,1,2.25
+8633,Tarragona,Cataluña,4,5,3,4,5,4,1,20,4,1,1,3,4,5,4,4,6,9,0,0,1,3,0,1,Regularmente,0,1,59,1,2,2,Mando,1,1,1,1,1,4.0
+8656,Alicante,Comunidad Valenciana,4,5,4,4,6,5,1,30,5,1,1,4,5,5,4,5,7,10,0,0,6,3,1,1,Regularmente,0,0,50,1,3,2,Mando,1,1,1,0,2,4.25
+8658,Barcelona,Cataluña,4,5,2,0,6,4,1,50,4,1,1,3,4,4,3,4,7,10,0,0,1,3,0,1,Mensualmente,1,1,71,1,2,2,Obrero,1,1,1,1,1,2.75
+8672,Soria,Castilla y León,5,5,5,5,6,5,1,20,5,1,1,3,4,4,4,4,8,8,1,0,2,3,0,1,Regularmente,0,1,38,1,2,2,Agricultor,1,1,1,0,2,5.0
+8709,Orense,Galicia,4,4,4,0,6,5,1,3,5,0,0,3,3,4,3,4,8,8,1,0,1,3,0,1,Regularmente,0,0,21,0,2,1,Comerciante,1,1,0,0,1,3.0
+8714,Asturias,Principado de Asturias,4,5,4,0,4,3,1,38,4,1,1,3,4,4,4,4,8,8,0,0,14,3,1,1,Regularmente,0,0,60,1,3,2,Obrero,1,1,1,0,2,3.25
+8729,Badajoz,Extremadura,4,5,5,5,6,4,1,21,4,1,1,3,3,4,3,4,10,10,0,0,1,3,0,1,Regularmente,1,0,50,1,1,2,Obrero,1,1,1,1,2,4.75
+8733,Castellón,Comunidad Valenciana,4,4,4,4,6,4,1,32,4,1,1,3,3,4,4,4,7,7,0,0,15,3,0,1,Regularmente,1,0,49,1,1,2,Obrero,1,1,0,0,1,4.0
+8735,Las Palmas,Islas Canarias,4,5,4,0,5,4,1,5,4,0,0,3,3,4,3,4,7,7,1,0,1,3,0,1,Regularmente,0,1,24,0,2,1,Mando,2,1,1,0,2,3.25
+8762,Lugo,Galicia,3,3,1,5,6,4,1,14,4,1,0,3,4,4,4,4,7,10,1,0,3,3,0,1,Regularmente,0,1,53,0,3,2,Agricultor,1,1,1,0,1,3.0
+8790,Valencia,Comunidad Valenciana,4,5,4,5,6,5,1,26,5,1,1,4,4,5,4,5,5,4,0,0,1,3,0,1,Regularmente,0,0,52,1,3,2,Mando,1,1,2,0,2,4.5
+8793,Barcelona,Cataluña,5,5,2,0,6,5,1,23,4,1,1,4,5,4,5,5,5,5,0,0,1,3,0,1,Regularmente,0,1,43,1,1,2,Obrero,1,1,0,0,2,3.0
+8804,Alicante,Comunidad Valenciana,5,5,4,3,6,4,1,17,4,1,1,3,4,4,4,5,7,7,1,0,4,3,0,1,Regularmente,0,0,41,1,4,2,Mando,1,1,1,0,2,4.25
+8818,Burgos,Castilla y León,3,2,4,0,6,1,1,46,3,1,1,2,3,4,4,4,0,0,0,0,1,3,0,1,Sin actividad sexual,0,1,72,1,2,2,Agricultor,1,1,1,0,1,2.25
+8842,Las Palmas,Islas Canarias,5,5,1,0,6,5,1,5,5,1,0,4,5,5,4,5,10,10,0,0,2,3,0,1,Regularmente,0,1,38,0,2,0,Mando,1,1,1,1,2,2.75
+8867,Lérida,Cataluña,4,5,4,4,6,4,1,5,5,1,1,4,4,4,5,4,7,10,1,0,998,3,0,1,Desconocido,0,0,35,1,2,2,Mando,1,1,1,0,2,4.25
+8875,León,Castilla y León,3,5,2,4,6,5,1,1,5,0,0,3,3,4,3,4,8,8,0,0,5,3,1,2,Mensualmente,0,1,24,0,2,2,Obrero,1,1,0,0,2,3.5
+8888,Cáceres,Extremadura,4,4,4,5,6,4,1,3,5,0,0,3,3,4,3,4,8,8,1,0,10,3,0,1,Regularmente,0,0,29,0,2,2,Agricultor,1,1,1,1,2,4.25
+8889,Palma,Islas Baleares,3,5,4,0,4,1,1,6,3,1,1,3,5,5,4,5,8,10,1,0,998,3,1,1,Ocasionalmente,1,1,54,1,2,2,Obrero,0,1,1,1,2,3.0
+8896,Salamanca,Castilla y León,4,5,2,2,5,1,1,22,4,1,1,3,2,4,3,4,10,10,1,0,1,3,1,1,Regularmente,0,1,39,1,4,0,Mando,2,1,1,0,2,3.25
+8898,Albacete,Castilla-La Mancha,4,5,2,0,5,3,1,48,5,1,1,4,5,4,4,5,8,10,0,0,1,3,0,1,Mensualmente,1,1,68,1,0,2,Comerciante,1,1,1,0,2,2.75
+8907,Valencia,Comunidad Valenciana,4,5,3,0,6,4,1,40,5,1,1,4,5,5,3,4,6,6,0,0,1,3,0,1,Regularmente,0,1,60,1,2,2,Obrero,1,1,1,0,1,3.0
+8916,Valencia,Comunidad Valenciana,4,4,3,4,6,5,1,19,4,1,1,3,5,3,5,4,8,8,0,0,1,3,0,1,Regularmente,1,1,36,1,2,2,Obrero,1,1,1,1,2,3.75
+8923,León,Castilla y León,4,3,5,0,5,4,1,27,4,1,1,4,4,4,4,5,8,8,0,0,2,3,0,1,Regularmente,0,1,50,1,2,2,Comerciante,1,1,1,0,2,3.0
+9006,Valencia,Comunidad Valenciana,5,5,4,4,6,5,1,13,5,1,1,4,5,5,5,5,7,7,1,0,1,3,0,1,Regularmente,0,1,31,1,4,2,Mando,2,1,1,1,2,4.5
+9022,Valencia,Comunidad Valenciana,4,3,4,3,5,5,1,17,4,1,1,4,3,4,4,4,10,10,0,0,10,2,0,1,Ocasionalmente,1,0,46,1,2,2,Obrero,1,1,1,0,1,3.5
+9024,Gerona,Cataluña,4,3,3,2,5,4,1,22,4,1,1,3,3,4,3,4,6,5,1,0,1,3,0,1,Regularmente,0,0,44,1,3,2,Comerciante,1,1,1,0,2,3.0
+9028,Santa Cruz de Tenerife,Islas Canarias,4,4,4,2,6,5,1,3,5,1,0,3,5,5,4,5,7,7,1,0,7,3,0,1,Regularmente,0,0,28,0,4,2,Administrativo,1,1,1,0,2,3.5
+9035,Cáceres,Extremadura,3,4,2,5,6,5,1,12,4,1,1,4,4,5,4,4,9,6,0,0,30,3,0,1,Regularmente,1,0,40,1,2,2,Otro,1,1,1,1,0,3.5
+9049,Tarragona,Cataluña,5,4,4,5,6,5,1,20,5,1,1,4,4,5,4,5,10,10,0,1,4,3,0,2,Regularmente,0,0,42,1,4,2,Mando,2,1,0,1,2,4.5
+9052,Santa Cruz de Tenerife,Islas Canarias,5,3,2,1,6,5,1,20,4,1,1,3,3,4,3,4,8,10,0,0,1,3,0,1,Regularmente,1,0,42,1,1,2,Obrero,1,1,1,1,1,2.75
+9071,Guadalajara,Castilla-La Mancha,5,5,4,5,6,5,1,2,4,1,0,3,4,4,4,4,2,8,0,0,8,3,1,2,Regularmente,1,0,47,0,2,2,Mando,1,1,1,0,2,4.75
+9079,Badajoz,Extremadura,5,5,4,4,5,4,1,8,4,1,1,4,4,5,4,5,10,10,0,0,2,3,0,1,Regularmente,1,1,41,1,4,2,Administrativo,1,1,1,0,2,4.5
+9082,Santa Cruz de Tenerife,Islas Canarias,5,4,5,5,5,4,1,10,5,1,1,3,3,5,4,4,7,7,0,0,1,3,0,1,Regularmente,0,0,29,1,2,2,Obrero,1,1,0,1,1,4.75
+9099,Valencia,Comunidad Valenciana,4,5,4,4,4,3,1,15,3,1,1,3,2,4,4,4,2,2,0,0,4,3,1,1,Ocasionalmente,0,0,73,1,4,2,Comerciante,2,1,1,0,2,4.25
+9102,Las Palmas,Islas Canarias,4,5,3,4,6,4,1,12,4,1,1,3,4,4,4,4,8,8,1,0,1,3,0,1,Regularmente,1,1,32,1,2,2,Administrativo,1,1,0,0,2,4.0
+9107,Barcelona,Cataluña,4,3,5,0,5,4,1,36,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,1,1,60,1,1,2,Comerciante,1,1,1,0,2,3.0
+9125,Barcelona,Cataluña,4,5,2,2,6,5,1,1,4,0,0,3,3,4,3,4,8,8,1,0,3,3,1,1,Regularmente,0,0,30,0,2,2,Comerciante,1,1,2,0,2,3.25
+9138,Barcelona,Cataluña,5,5,4,5,5,4,1,43,5,1,1,3,4,5,4,4,6,5,0,0,1,3,0,1,Mensualmente,0,1,64,1,3,2,Mando,1,1,0,0,2,4.75
+9140,Valencia,Comunidad Valenciana,5,4,4,4,6,5,1,18,5,1,1,4,5,5,4,5,9,9,1,0,1,3,0,1,Regularmente,1,1,37,1,2,0,Obrero,1,1,1,1,2,4.25
+9147,Pontevedra,Galicia,4,5,4,4,6,5,1,10,5,1,0,3,4,4,4,4,8,8,1,1,1,3,0,1,Diariamente,0,1,29,0,2,0,Obrero,1,1,0,0,2,4.25
+9149,Ávila,Castilla y León,4,3,4,0,6,4,1,55,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Ocasionalmente,0,1,78,1,0,2,Agricultor,1,1,1,1,1,2.75
+9151,Guadalajara,Castilla-La Mancha,4,4,4,2,3,2,1,13,4,1,1,4,5,5,4,3,8,8,0,0,10,3,1,2,Regularmente,1,0,40,1,2,2,Obrero,1,1,1,0,2,3.5
+9165,Coruña,Galicia,4,5,3,4,5,4,1,28,4,1,1,3,3,4,3,4,9,6,1,0,10,3,1,2,Regularmente,0,0,50,1,2,2,Comerciante,1,1,1,0,2,4.0
+9201,Ávila,Castilla y León,5,5,2,4,6,5,1,1,5,0,0,3,3,4,3,4,5,8,1,0,3,3,0,1,Regularmente,0,1,26,0,3,2,Mando,1,1,1,0,1,4.0
+9211,Barcelona,Cataluña,4,5,4,4,6,4,1,15,4,1,1,4,4,4,4,5,8,10,0,0,2,3,0,1,Regularmente,1,0,37,1,2,2,Obrero,1,1,1,0,2,4.25
+9212,Barcelona,Cataluña,1,3,2,0,3,1,1,48,3,1,1,2,2,3,3,2,0,3,0,0,1,1,0,1,Desconocido,0,1,70,1,2,2,Obrero,1,1,1,1,2,1.5
+9221,Orense,Galicia,4,5,4,3,5,4,1,20,4,1,1,3,4,4,4,4,2,2,0,0,25,3,0,1,Regularmente,0,0,43,1,1,2,Comerciante,1,1,0,1,2,4.0
+9246,Valladolid,Castilla y León,4,5,4,4,5,4,1,27,4,1,1,3,4,4,4,4,7,7,0,0,3,2,0,1,Regularmente,0,0,48,1,2,2,Obrero,1,1,1,0,2,4.25
+9263,Barcelona,Cataluña,4,3,2,0,6,4,1,50,4,1,1,3,4,4,3,4,9,9,0,1,1,3,0,1,Regularmente,0,0,70,1,0,2,Mando,1,1,1,0,1,2.25
+9331,Barcelona,Cataluña,3,5,3,0,1,0,1,56,4,1,1,3,4,4,4,0,7,10,0,0,1,3,0,1,Sin actividad sexual,0,1,80,1,0,2,Mando,1,1,0,0,1,2.75
+9341,Valencia,Comunidad Valenciana,5,5,2,0,6,5,1,3,4,0,0,3,3,4,3,4,8,7,1,0,2,3,0,1,Diariamente,0,1,18,0,2,1,Obrero,1,1,1,0,2,3.0
+9384,Lérida,Cataluña,4,2,4,0,5,5,1,45,5,1,1,4,4,5,3,5,8,8,0,0,1,1,0,1,Regularmente,1,1,66,1,2,2,Obrero,1,1,1,0,1,2.5
+9386,Santa Cruz de Tenerife,Islas Canarias,4,1,2,0,5,4,1,25,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,56,1,2,2,Obrero,1,1,1,0,2,1.75
+9394,Barcelona,Cataluña,2,3,2,3,2,1,1,6,1,1,0,3,2,4,4,2,8,4,0,0,8,3,1,1,Ocasionalmente,0,0,35,0,3,2,Administrativo,1,0,0,0,2,2.5
+9397,Salamanca,Castilla y León,4,5,4,4,4,3,1,22,4,1,1,4,3,4,5,4,6,6,1,0,1,1,1,1,Regularmente,0,1,51,1,4,2,Mando,2,1,1,0,2,4.25
+9402,Barcelona,Cataluña,5,4,4,4,6,5,1,3,5,1,1,4,4,5,5,5,7,7,1,0,2,3,0,1,Regularmente,0,1,30,1,4,2,Administrativo,1,0,1,0,0,4.25
+9418,Castellón,Comunidad Valenciana,4,2,4,4,2,4,1,45,4,1,1,3,4,2,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,60,1,0,2,Mando,1,1,1,1,2,3.5
+9436,Alicante,Comunidad Valenciana,4,5,4,4,6,4,1,10,4,1,1,3,3,4,4,4,5,5,1,0,2,2,0,1,Regularmente,0,0,33,1,3,2,Comerciante,2,1,1,0,2,4.25
+9439,Castellón,Comunidad Valenciana,5,4,5,0,6,5,1,3,5,1,0,3,4,5,5,4,8,8,1,0,1,3,0,1,Regularmente,1,1,19,0,1,2,Director,1,1,1,0,2,3.5
+9456,Badajoz,Extremadura,4,2,4,0,6,5,1,34,5,1,1,2,4,4,4,4,8,8,0,0,2,3,0,1,Mensualmente,0,1,65,1,1,2,Obrero,0,1,1,1,1,2.5
+9480,León,Castilla y León,3,3,3,0,4,3,1,32,4,1,1,3,1,4,3,4,7,5,1,0,1,3,0,1,Mensualmente,0,1,56,1,2,2,Obrero,0,1,1,0,1,2.25
+9547,Barcelona,Cataluña,4,4,5,5,6,4,1,20,5,1,0,4,5,4,5,5,8,10,0,0,10,3,1,1,Regularmente,0,0,38,0,3,2,Administrativo,1,1,0,1,2,4.5
+9638,Castellón,Comunidad Valenciana,3,3,2,0,2,1,1,45,4,1,1,4,5,5,5,3,10,10,0,0,998,3,1,1,Ocasionalmente,0,0,67,1,2,2,Obrero,1,1,1,0,2,2.0
+9662,Cáceres,Extremadura,2,5,3,0,5,3,1,30,4,1,1,4,4,5,4,5,10,10,0,0,1,3,0,1,Mensualmente,0,0,66,1,2,2,Obrero,1,1,1,1,1,2.5
+9703,Valladolid,Castilla y León,4,5,5,0,3,2,1,44,4,1,1,4,5,5,5,4,7,7,0,0,1,3,0,1,Regularmente,1,0,69,1,4,2,Mando,1,1,1,1,2,3.5
+9704,Barcelona,Cataluña,5,4,4,5,6,5,1,33,5,1,1,3,4,4,4,5,10,10,0,0,1,3,0,1,Regularmente,0,1,53,1,2,2,Mando,1,1,1,1,2,4.5
+9705,Barcelona,Cataluña,4,5,2,4,5,4,1,24,4,1,1,3,3,4,4,5,9,9,0,0,5,3,1,2,Regularmente,0,0,44,1,2,2,Mando,1,1,1,1,2,3.75
+9708,Guadalajara,Castilla-La Mancha,4,4,2,0,5,4,1,3,4,0,0,3,3,4,3,4,7,9,1,0,1,3,0,1,Diariamente,0,1,23,0,3,1,Obrero,1,1,1,0,2,2.5
+9740,Alicante,Comunidad Valenciana,4,5,2,2,6,4,1,2,4,0,0,3,3,4,3,4,7,8,1,0,1,3,0,1,Regularmente,1,0,20,0,2,1,Comerciante,1,1,1,0,2,3.25
+9758,Barcelona,Cataluña,5,5,4,0,6,4,1,37,5,1,1,3,3,4,4,4,5,5,0,0,1,3,0,1,Regularmente,0,1,55,1,2,2,Obrero,1,1,1,0,2,3.5
+9794,Las Palmas,Islas Canarias,4,5,5,5,5,5,1,2,4,0,0,3,3,4,3,4,9,9,1,0,2,3,0,2,Diariamente,0,0,18,0,2,1,Comerciante,2,1,1,1,2,4.75
+9833,Valencia,Comunidad Valenciana,4,5,4,4,3,2,1,9,2,1,1,2,2,4,4,3,7,5,1,0,1,3,0,2,Regularmente,1,0,32,1,4,2,Mando,1,1,1,0,2,4.25
+9838,Las Palmas,Islas Canarias,4,5,4,4,5,4,1,13,4,1,0,4,5,5,5,5,8,8,1,1,10,3,1,1,Diariamente,0,1,45,0,2,2,Mando,1,1,1,0,2,4.25
+9850,Tarragona,Cataluña,4,5,5,4,6,5,1,33,5,1,1,3,4,4,4,5,8,6,0,1,1,3,0,1,Regularmente,0,0,54,1,3,2,Administrativo,1,1,1,0,2,4.5
+9866,Barcelona,Cataluña,4,3,3,4,6,5,1,36,4,1,1,4,3,5,3,4,10,8,0,0,1,3,0,1,Regularmente,0,0,52,1,1,2,Mando,1,1,1,1,1,3.5
+9884,Lérida,Cataluña,4,5,4,5,6,5,1,15,4,1,1,4,5,5,4,5,8,8,1,0,5,3,0,1,Regularmente,0,1,30,1,2,2,Comerciante,1,1,0,0,2,4.5
+9895,Lérida,Cataluña,5,5,3,4,6,5,1,6,5,1,1,4,4,5,4,5,8,10,1,0,3,3,0,1,Regularmente,0,1,28,1,2,2,Obrero,1,1,1,1,2,4.25
+9913,Burgos,Castilla y León,4,5,2,4,5,4,1,6,4,1,0,3,4,4,4,4,9,9,1,0,6,3,0,1,Regularmente,0,0,42,0,2,2,Administrativo,1,1,0,0,1,3.75
+9943,Barcelona,Cataluña,4,4,1,5,5,4,1,15,4,1,1,3,4,4,4,5,7,7,0,0,2,3,0,1,Regularmente,0,1,39,1,2,2,Mando,1,1,1,0,2,3.5
+9959,Lérida,Cataluña,5,4,4,5,6,5,1,21,5,1,1,4,5,5,5,5,8,8,0,1,2,3,0,1,Regularmente,0,0,40,1,4,2,Mando,2,1,1,1,2,4.5
+9974,Barcelona,Cataluña,3,2,4,0,6,4,1,36,4,1,1,3,2,5,4,4,10,10,0,0,1,3,0,1,Mensualmente,0,1,58,1,1,2,Obrero,1,1,1,0,1,2.25
+10001,Cuenca,Castilla-La Mancha,4,3,2,4,5,4,1,33,5,1,1,3,4,5,5,4,7,8,0,0,1,3,0,1,Regularmente,0,1,54,1,0,2,Comerciante,1,1,1,0,1,3.25
+10006,Lugo,Galicia,3,5,3,4,4,1,1,40,3,1,1,2,3,4,4,3,5,5,0,0,5,3,1,1,Sin actividad sexual,0,0,74,1,1,2,Agricultor,0,1,1,0,2,3.75
+10043,Valencia,Comunidad Valenciana,5,4,4,0,5,4,1,17,4,1,1,3,4,5,4,4,8,9,1,0,1,3,0,1,Regularmente,1,1,34,1,1,2,Comerciante,1,1,1,0,2,3.25
+10051,Guadalajara,Castilla-La Mancha,4,5,2,2,5,4,1,25,4,1,1,3,4,5,4,5,5,7,0,0,1,3,0,1,Regularmente,0,1,40,1,3,2,Obrero,1,1,1,0,2,3.25
+10063,Castellón,Comunidad Valenciana,4,5,2,4,6,4,1,18,4,1,1,3,4,4,4,5,6,6,0,0,10,3,0,1,Regularmente,0,0,45,1,4,2,Administrativo,1,1,1,0,2,3.75
+10077,Castellón,Comunidad Valenciana,4,5,2,4,6,5,1,1,5,1,1,4,5,5,5,5,5,5,0,1,20,3,0,2,Regularmente,0,0,40,1,3,2,Mando,1,1,1,1,2,3.75
+10078,Barcelona,Cataluña,4,5,2,4,6,4,1,21,4,1,1,3,5,5,4,5,7,7,1,0,2,3,0,1,Regularmente,0,1,42,1,1,2,Obrero,1,1,0,0,1,3.75
+10082,Barcelona,Cataluña,4,4,1,5,5,4,1,15,4,1,1,3,4,4,4,5,9,7,1,1,1,3,0,1,Regularmente,0,1,32,1,2,2,Obrero,1,1,0,0,2,3.5
+10091,Albacete,Castilla-La Mancha,4,5,2,4,5,4,1,15,4,1,1,3,2,4,4,4,7,6,1,0,1,3,0,1,Regularmente,1,1,31,1,2,2,Obrero,1,1,1,1,2,3.75
+10146,Badajoz,Extremadura,3,2,3,0,5,1,1,58,4,1,1,3,4,4,4,2,10,8,0,0,999,3,0,1,Sin actividad sexual,0,0,81,1,2,2,Agricultor,1,1,1,1,1,2.0
+10162,Castellón,Comunidad Valenciana,4,5,5,0,6,4,1,46,4,1,1,3,5,5,5,5,7,7,0,0,1,3,0,1,Regularmente,1,1,70,1,1,2,Agricultor,0,1,1,0,2,3.5
+10172,Burgos,Castilla y León,4,2,4,4,5,4,1,26,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,1,1,44,1,2,2,Mando,1,1,1,0,2,3.5
+10202,Cáceres,Extremadura,4,5,4,5,1,0,1,18,4,1,0,3,0,5,5,4,7,9,0,0,2,3,0,1,Ocasionalmente,1,1,72,0,0,2,Mando,1,0,0,0,1,4.5
+10204,Valencia,Comunidad Valenciana,5,5,2,2,6,4,1,13,5,1,1,4,3,5,4,5,9,9,0,0,3,3,0,1,Diariamente,0,1,34,1,2,2,Administrativo,1,1,1,1,2,3.5
+10208,Valencia,Comunidad Valenciana,4,5,2,0,6,5,1,29,5,1,1,3,3,5,3,5,7,7,0,0,1,3,0,1,Regularmente,0,1,48,1,2,2,Mando,1,1,1,1,2,2.75
+10247,Guadalajara,Castilla-La Mancha,4,5,1,0,6,5,1,12,5,1,1,4,5,5,1,5,8,9,1,0,7,3,0,1,Diariamente,1,1,29,1,2,0,Obrero,1,1,1,0,2,2.5
+10249,Gerona,Cataluña,3,5,4,1,6,5,1,23,5,1,1,4,5,5,5,5,8,7,0,0,1,3,0,1,Regularmente,0,1,46,1,1,2,Mando,1,1,0,0,2,3.25
+10252,Salamanca,Castilla y León,4,5,1,0,5,4,1,45,4,1,1,4,3,4,4,4,10,10,0,0,1,3,0,1,Mensualmente,0,1,72,1,2,2,Obrero,1,1,1,0,1,2.5
+10280,Lugo,Galicia,4,4,3,4,5,4,1,30,4,1,1,3,5,4,3,4,8,8,0,0,2,3,0,1,Mensualmente,1,1,50,1,3,2,Mando,1,1,1,0,2,3.75
+10283,Guadalajara,Castilla-La Mancha,4,5,4,4,5,4,1,23,4,1,1,3,4,4,4,4,8,10,0,0,3,3,0,1,Regularmente,0,1,40,1,2,2,Mando,1,1,1,0,2,4.25
+10298,Barcelona,Cataluña,3,2,1,0,5,0,1,47,4,1,1,3,3,1,1,1,5,8,0,0,1,1,0,1,Sin actividad sexual,0,1,71,1,1,2,Obrero,1,1,1,0,0,1.5
+10341,Cáceres,Extremadura,4,5,2,4,5,4,1,8,4,1,1,3,4,3,4,4,7,10,1,0,2,3,0,1,Regularmente,0,1,31,1,2,2,Comerciante,1,1,1,1,2,3.75
+10379,Burgos,Castilla y León,5,5,3,4,5,4,1,18,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,1,42,1,2,2,Mando,1,1,1,0,0,4.25
+10410,Badajoz,Extremadura,4,5,3,3,4,4,1,26,4,1,1,2,4,4,4,5,9,9,0,0,1,3,0,1,Regularmente,1,1,57,1,2,2,Autónomo,2,1,1,0,1,3.75
+10451,Valencia,Comunidad Valenciana,4,5,4,5,6,5,1,9,5,1,0,3,2,5,4,5,8,8,1,0,6,3,0,1,Regularmente,0,1,29,0,3,2,Mando,1,1,1,0,2,4.5
+10456,Guadalajara,Castilla-La Mancha,5,5,5,0,6,4,1,50,5,1,1,3,3,5,4,4,4,9,0,0,1,3,0,1,Regularmente,1,1,71,1,2,2,Agricultor,1,1,1,0,2,3.75
+10474,Pontevedra,Galicia,4,5,4,5,6,4,1,17,4,1,1,3,5,5,4,4,9,10,0,1,3,3,0,1,Regularmente,0,1,43,1,4,2,Mando,2,1,0,0,2,4.5
+10493,Valencia,Comunidad Valenciana,4,4,5,5,5,4,1,30,4,1,1,3,4,4,4,4,8,8,0,1,1,3,0,1,Regularmente,1,0,59,1,2,2,Mando,1,1,0,0,2,4.5
+10500,Castellón,Comunidad Valenciana,4,4,3,4,5,4,1,4,4,0,0,3,3,4,3,4,6,5,1,0,1,3,0,1,Regularmente,0,0,26,0,4,2,Obrero,1,1,1,0,2,3.75
+10503,Barcelona,Cataluña,4,4,1,1,6,5,1,20,5,1,1,4,5,5,3,5,5,10,0,0,1,3,0,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,0,0,1,2.5
+10524,Valencia,Comunidad Valenciana,5,3,2,0,6,5,1,44,5,1,1,4,4,4,5,4,7,8,0,0,1,3,0,1,Regularmente,1,1,52,1,2,2,Mando,1,1,1,0,2,2.5
+10576,Lugo,Galicia,4,5,4,5,6,5,1,33,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,1,53,1,2,0,Comerciante,1,1,2,0,2,4.5
+10586,Valencia,Comunidad Valenciana,4,5,4,0,5,4,1,35,4,1,1,3,4,4,4,4,7,7,1,0,1,3,0,1,Regularmente,0,1,57,1,2,2,Mando,1,1,1,0,2,3.25
+10642,Zamora,Castilla y León,4,5,4,4,6,4,1,9,4,1,1,4,4,4,4,4,7,7,0,1,4,3,0,1,Regularmente,0,1,39,1,3,2,Administrativo,1,1,1,1,0,4.25
+10648,León,Castilla y León,3,5,4,0,6,5,1,13,4,1,1,3,3,4,4,4,7,6,0,0,3,3,0,1,Regularmente,0,0,40,1,2,2,Obrero,1,1,1,0,2,3.0
+10673,León,Castilla y León,5,5,5,5,6,5,1,17,5,1,1,4,5,4,5,5,8,8,1,0,2,3,0,1,Desconocido,0,1,32,1,3,2,Obrero,1,1,1,1,2,5.0
+10689,Barcelona,Cataluña,5,4,5,5,6,5,1,4,5,0,0,3,3,4,3,4,10,10,0,0,10,3,0,1,Regularmente,0,1,41,0,4,2,Administrativo,1,1,0,1,2,4.75
+10690,Alicante,Comunidad Valenciana,4,5,2,4,5,4,1,23,5,1,1,4,4,4,4,4,7,7,1,0,2,3,0,1,Regularmente,0,0,47,1,2,2,Obrero,1,1,1,0,2,3.75
+10695,Las Palmas,Islas Canarias,4,5,4,4,5,3,1,20,4,1,1,4,4,4,4,4,7,7,0,0,4,3,1,2,Regularmente,0,0,44,1,2,2,Obrero,1,1,1,1,2,4.25
+10713,Soria,Castilla y León,4,5,4,2,5,2,1,7,4,1,1,1,4,5,4,4,7,7,0,0,40,3,0,1,Regularmente,0,1,37,1,4,2,Autónomo,2,1,1,0,2,3.75
+10739,Lérida,Cataluña,5,5,5,2,5,4,1,14,4,1,1,3,4,4,4,4,7,7,0,0,4,3,0,1,Regularmente,0,1,38,1,2,2,Administrativo,1,1,0,0,1,4.25
+10744,Lérida,Cataluña,4,5,4,4,6,5,1,5,5,1,0,2,3,4,4,5,9,10,1,0,2,1,0,1,Regularmente,0,1,24,0,2,2,Obrero,1,1,1,0,1,4.25
+10788,Tarragona,Cataluña,5,5,3,4,6,5,1,3,5,1,1,4,5,4,4,5,7,7,0,0,4,1,0,1,Diariamente,0,0,35,1,4,2,Mando,2,1,1,0,2,4.25
+10790,Zamora,Castilla y León,5,5,3,4,6,5,1,0,4,0,0,3,3,4,3,4,8,8,1,0,998,3,1,1,Regularmente,1,1,20,0,2,2,Comerciante,1,1,1,0,2,4.25
+10845,Valencia,Comunidad Valenciana,4,5,3,3,4,3,1,20,4,1,1,3,5,3,3,4,6,6,0,0,5,3,0,1,Regularmente,1,0,50,1,2,2,Mando,1,1,0,1,0,3.75
+10868,Santa Cruz de Tenerife,Islas Canarias,4,5,4,4,6,5,1,3,4,0,0,3,3,4,3,4,7,7,1,0,12,3,0,2,Regularmente,0,0,22,0,3,1,Mando,1,1,0,1,2,4.25
+10884,Valencia,Comunidad Valenciana,4,3,4,2,5,4,1,7,4,1,1,3,4,4,3,4,4,5,1,0,5,3,0,1,Regularmente,1,0,40,1,2,2,Obrero,1,1,0,0,2,3.25
+10942,Lérida,Cataluña,4,5,4,0,6,4,1,6,4,0,0,3,3,4,3,4,8,7,1,1,2,2,0,2,Regularmente,0,1,22,0,2,1,Agricultor,1,1,1,0,1,3.25
+10962,Santa Cruz de Tenerife,Islas Canarias,4,2,2,4,6,5,1,14,5,1,1,3,4,4,2,4,8,8,1,0,1,3,0,1,Regularmente,0,1,38,1,3,2,Director,2,1,1,1,2,3.0
+10983,Barcelona,Cataluña,4,4,5,0,5,5,1,45,4,1,1,3,4,5,4,5,9,7,0,0,20,3,0,1,Regularmente,1,0,73,1,2,2,Mando,1,1,1,1,1,3.25
+10997,Lérida,Cataluña,4,5,2,0,6,4,1,40,5,1,1,3,4,4,4,4,4,5,0,0,7,3,1,2,Regularmente,0,0,61,1,2,2,Mando,1,1,0,0,2,2.75
+11005,Valladolid,Castilla y León,4,5,4,4,6,5,1,30,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,53,1,4,0,Mando,1,1,0,1,2,4.25
+11021,Alicante,Comunidad Valenciana,4,5,2,4,5,3,1,15,4,1,1,4,3,4,4,5,5,4,1,0,2,3,0,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,1,0,2,3.75
+11053,Valencia,Comunidad Valenciana,4,5,2,5,5,4,1,25,4,1,1,3,4,4,4,4,8,8,1,0,3,3,0,1,Regularmente,0,1,40,1,2,2,Comerciante,1,1,1,0,1,4.0
+11062,Santa Cruz de Tenerife,Islas Canarias,4,5,4,3,5,4,1,10,4,1,1,2,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,0,30,1,2,2,Mando,1,1,1,0,2,4.0
+11074,León,Castilla y León,5,3,2,0,1,0,1,48,5,0,0,3,3,4,3,4,9,9,0,0,1,3,0,1,Regularmente,1,1,77,0,0,2,Obrero,0,1,1,0,2,2.5
+11083,Gerona,Cataluña,5,5,5,4,5,5,1,29,4,1,1,3,5,5,5,4,7,8,0,0,1,3,0,1,Regularmente,0,0,54,1,2,2,Comerciante,1,1,1,0,2,4.75
+11089,Ciudad Real,Castilla-La Mancha,5,5,4,4,6,5,1,12,5,1,1,4,5,5,3,5,9,9,0,0,2,3,0,1,Regularmente,1,0,33,1,2,2,Administrativo,1,1,1,0,2,4.5
+11129,Alicante,Comunidad Valenciana,4,5,2,5,5,4,1,25,4,1,1,4,4,4,4,5,8,7,1,0,1,3,0,1,Regularmente,0,0,44,1,3,2,Mando,1,1,0,0,0,4.0
+11130,Valladolid,Castilla y León,4,5,4,4,5,4,1,6,4,0,0,3,3,4,3,4,7,7,0,0,200,3,1,1,Regularmente,1,0,45,0,4,2,Mando,1,1,0,0,2,4.25
+11136,Burgos,Castilla y León,2,5,4,4,3,1,1,23,1,1,1,1,2,3,3,2,5,10,0,0,1,3,0,1,Ocasionalmente,1,1,45,1,2,2,Comerciante,1,1,1,1,2,3.75
+11169,Coruña,Galicia,4,4,4,0,5,4,1,45,5,1,1,4,4,3,4,4,8,8,0,0,1,3,0,1,Sin actividad sexual,0,1,63,1,4,2,Mando,2,1,1,0,1,3.0
+11231,Castellón,Comunidad Valenciana,1,3,2,0,5,4,1,42,5,1,1,3,4,4,4,4,10,10,1,0,1,3,0,1,Regularmente,1,1,75,1,0,1,Obrero,0,1,1,0,2,1.5
+11242,Asturias,Principado de Asturias,4,3,4,1,6,4,1,27,5,1,1,4,3,4,3,5,7,8,0,0,1,3,0,1,Regularmente,0,1,50,1,1,2,Obrero,1,1,1,0,2,3.0
+11252,Palma,Islas Baleares,5,4,4,4,4,4,1,10,5,1,1,3,5,5,5,4,8,8,0,0,5,3,0,1,Regularmente,1,1,34,1,2,2,Comerciante,1,1,0,1,1,4.25
+11289,Palma,Islas Baleares,4,5,4,2,6,4,1,16,4,1,1,4,4,5,5,4,7,7,0,0,3,3,1,1,Regularmente,0,0,43,1,3,2,Mando,1,1,0,0,2,3.75
+11299,Cuenca,Castilla-La Mancha,4,5,4,4,5,4,1,32,4,1,1,3,4,4,4,4,8,7,0,0,1,1,0,1,Regularmente,0,0,50,1,2,2,Comerciante,2,1,1,1,2,4.25
+11300,Lérida,Cataluña,3,5,3,4,5,4,1,27,4,1,1,3,4,4,3,4,5,5,1,0,998,3,0,1,Regularmente,0,0,51,1,2,2,Obrero,1,1,1,0,2,3.75
+11301,Pontevedra,Galicia,1,1,5,0,4,1,1,1,4,0,0,3,3,4,3,4,5,5,1,0,20,3,0,1,Regularmente,1,0,39,0,2,2,Autónomo,1,1,0,0,2,1.75
+11363,Guadalajara,Castilla-La Mancha,3,5,4,5,5,3,1,6,4,1,0,2,4,4,4,4,6,6,0,0,3,3,0,1,Regularmente,0,1,36,0,3,2,Autónomo,1,1,0,0,2,4.25
+11390,Valencia,Comunidad Valenciana,4,5,4,4,5,4,1,6,4,0,0,3,3,4,3,4,6,3,1,0,2,1,0,2,Mensualmente,0,0,23,0,2,2,Obrero,1,1,0,0,2,4.25
+11429,Palma,Islas Baleares,5,3,3,0,6,5,1,32,5,1,1,3,4,5,4,5,8,8,0,0,1,3,0,1,Desconocido,0,1,58,1,2,2,Comerciante,1,1,1,0,1,2.75
+11439,Cuenca,Castilla-La Mancha,1,4,2,0,5,0,1,57,5,1,1,4,5,5,4,0,7,7,0,0,1,1,0,1,Sin actividad sexual,0,1,78,1,0,2,Obrero,1,1,1,0,2,1.75
+11451,Valencia,Comunidad Valenciana,4,5,4,0,5,4,1,45,5,1,1,4,5,5,5,5,10,10,0,0,1,3,0,1,Regularmente,1,1,64,1,1,0,Mando,1,1,1,1,1,3.25
+11470,Tarragona,Cataluña,4,5,2,4,5,4,1,20,4,1,1,3,4,4,4,4,8,6,1,0,4,3,0,1,Regularmente,0,0,38,1,2,2,Obrero,1,1,1,0,1,3.75
+11476,Salamanca,Castilla y León,1,3,3,0,4,3,1,30,4,1,1,3,4,4,4,4,5,8,0,0,2,3,0,1,Regularmente,0,1,56,1,2,2,Mando,1,1,1,0,2,1.75
+11480,León,Castilla y León,4,5,4,5,6,4,1,4,5,1,1,3,5,5,5,4,6,5,0,1,10,3,0,1,Regularmente,0,0,33,1,4,2,Autónomo,2,1,1,0,2,4.5
+11522,Palma,Islas Baleares,4,5,4,5,5,5,1,19,5,1,1,4,4,5,4,5,10,10,0,0,4,3,0,1,Regularmente,0,0,40,1,2,2,Comerciante,1,1,0,1,1,4.5
+11526,Palencia,Castilla y León,5,4,3,0,5,4,1,25,5,1,1,3,4,4,3,4,8,8,0,0,1,3,0,1,Regularmente,0,0,50,1,1,0,Otro,1,1,1,0,1,3.0
+11531,Segovia,Castilla y León,3,5,4,0,4,3,1,30,3,1,1,3,2,4,4,3,5,5,0,0,1,3,0,1,Mensualmente,0,1,52,1,2,2,Comerciante,1,1,1,1,2,3.0
+11549,Albacete,Castilla-La Mancha,4,4,4,0,6,5,1,2,5,0,0,3,3,4,3,4,7,7,1,0,2,3,1,1,Regularmente,0,1,20,0,3,1,Mando,1,1,1,0,1,3.0
+11566,Barcelona,Cataluña,5,5,4,1,6,5,1,7,5,1,1,4,5,5,5,5,5,7,1,0,15,3,0,1,Mensualmente,1,1,29,1,3,2,Administrativo,1,1,0,1,1,3.75
+11603,Las Palmas,Islas Canarias,2,2,2,0,3,3,1,50,3,1,1,0,3,2,4,2,0,0,0,0,3,3,0,2,Sin actividad sexual,0,0,67,1,0,2,Obrero,1,1,1,0,1,1.5
+11613,Coruña,Galicia,4,3,2,2,5,5,1,13,4,0,0,3,3,4,3,4,5,5,0,0,2,3,0,1,Regularmente,1,1,54,0,1,2,Obrero,1,1,0,0,2,2.75
+11626,Lérida,Cataluña,5,5,4,4,5,4,1,15,5,1,1,3,4,4,4,4,7,7,0,0,2,3,0,1,Regularmente,0,0,44,1,2,2,Obrero,1,1,1,0,1,4.5
+11629,Segovia,Castilla y León,4,5,2,0,5,4,1,30,4,1,1,3,4,4,4,4,5,5,0,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Obrero,1,1,1,0,2,2.75
+11636,Gerona,Cataluña,5,5,1,4,6,5,1,15,5,1,1,4,5,5,4,5,10,10,0,0,3,3,0,1,Regularmente,1,1,37,1,2,0,Obrero,1,1,0,0,2,3.75
+11648,Barcelona,Cataluña,5,5,4,4,5,5,1,8,4,1,0,3,4,4,4,4,7,7,1,0,2,3,0,1,Regularmente,0,1,27,0,3,2,Mando,1,1,0,0,2,4.5
+11651,Castellón,Comunidad Valenciana,4,5,4,5,6,4,1,4,4,0,0,3,3,4,3,4,7,7,1,0,2,3,1,1,Regularmente,0,1,21,0,3,2,Mando,1,1,0,0,2,4.5
+11662,Cáceres,Extremadura,5,4,4,5,5,4,1,0,4,1,0,4,5,4,4,5,7,10,0,0,12,3,0,1,Diariamente,0,0,37,0,4,2,Obrero,1,1,1,0,1,4.5
+11780,Zamora,Castilla y León,5,5,4,2,5,4,1,7,5,1,1,3,4,5,5,4,7,7,0,0,4,3,0,1,Regularmente,0,1,32,1,3,2,Obrero,1,1,1,1,1,4.0
+11829,Gerona,Cataluña,3,3,3,0,3,3,1,52,3,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,72,1,3,2,Agricultor,0,1,1,0,2,2.25
+11853,Asturias,Principado de Asturias,4,5,2,3,4,3,1,30,4,1,1,3,4,4,4,4,8,7,0,0,1,3,0,1,Regularmente,0,0,60,1,2,2,Comerciante,1,1,1,0,2,3.5
+11863,Barcelona,Cataluña,4,5,4,2,6,5,1,1,4,0,0,3,3,4,3,4,9,9,1,0,2,3,0,1,Regularmente,1,1,21,0,2,0,Otro,1,1,0,1,1,3.75
+11871,Santa Cruz de Tenerife,Islas Canarias,3,5,4,0,5,4,1,32,4,1,1,3,4,4,3,4,10,10,0,0,1,3,0,1,Ocasionalmente,0,0,64,0,2,2,Obrero,1,1,1,0,0,3.0
+11914,Palma,Islas Baleares,4,5,4,4,5,4,1,34,4,1,1,4,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,1,55,1,2,2,Mando,1,1,1,1,2,4.25
+11939,Asturias,Principado de Asturias,3,5,3,0,6,5,1,5,5,0,0,3,3,4,3,4,5,10,0,0,2,3,0,1,Regularmente,1,1,59,0,2,0,Obrero,1,1,1,0,2,2.75
+11973,Alicante,Comunidad Valenciana,3,4,3,0,6,3,1,28,4,1,1,4,4,5,4,4,8,10,0,0,1,3,0,1,Regularmente,1,1,50,1,1,2,Obrero,1,1,1,0,2,2.5
+12008,Barcelona,Cataluña,4,3,4,0,6,2,1,52,4,1,1,3,5,5,4,3,10,10,0,0,1,3,0,1,Regularmente,1,1,79,1,2,2,Mando,1,1,1,1,2,2.75
+12011,Tarragona,Cataluña,4,4,5,5,4,3,1,32,2,1,1,3,3,5,4,3,3,3,1,0,2,3,0,1,Mensualmente,0,1,52,1,3,2,Mando,1,1,1,0,2,4.5
+12015,Zamora,Castilla y León,4,5,4,0,6,4,1,1,5,0,0,3,3,4,3,4,8,8,1,0,5,3,0,1,Regularmente,1,0,20,0,2,1,Obrero,1,1,0,0,2,3.25
+12041,Alicante,Comunidad Valenciana,4,4,4,4,6,4,1,11,5,1,1,4,4,4,4,4,7,8,1,0,3,3,0,1,Regularmente,1,1,31,1,4,2,Mando,2,1,0,0,2,4.0
+12043,Barcelona,Cataluña,5,3,2,4,6,4,1,32,5,1,1,4,4,5,1,5,10,10,0,0,1,3,0,1,Desconocido,0,0,55,1,1,2,Obrero,1,1,1,0,2,3.5
+12047,Soria,Castilla y León,5,5,4,4,6,5,1,2,5,1,0,3,5,5,3,5,5,5,1,0,4,3,0,1,Diariamente,1,1,23,0,2,2,Obrero,1,1,0,0,2,4.5
+12058,Cáceres,Extremadura,5,3,4,5,6,4,1,20,4,1,1,4,3,4,4,5,9,9,0,0,1,3,0,1,Regularmente,1,1,48,1,1,2,Obrero,0,1,1,1,2,4.25
+12077,Ciudad Real,Castilla-La Mancha,4,4,4,4,5,4,1,4,4,0,0,3,3,4,3,4,8,8,1,0,3,3,0,1,Regularmente,0,1,27,0,4,2,Mando,2,1,0,0,2,4.0
+12081,Tarragona,Cataluña,3,5,4,4,5,4,1,30,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,0,50,1,2,2,Mando,1,1,1,0,1,4.0
+12097,Barcelona,Cataluña,5,4,2,5,6,5,1,1,5,0,0,3,3,4,3,4,8,8,0,0,3,3,1,1,Mensualmente,1,1,28,0,3,2,Mando,1,1,1,1,0,4.0
+12098,Lérida,Cataluña,4,3,2,4,5,4,1,15,4,1,1,3,1,4,4,5,8,10,0,0,3,3,0,1,Regularmente,0,1,42,1,2,2,Mando,1,1,1,1,2,3.25
+12107,Alicante,Comunidad Valenciana,4,5,4,4,5,5,1,5,5,1,0,3,4,4,4,4,10,7,1,1,2,3,0,2,Regularmente,1,0,29,0,2,2,Obrero,1,1,0,0,2,4.25
+12112,Barcelona,Cataluña,5,4,5,4,5,5,1,0,5,0,0,3,3,4,3,4,8,10,0,0,3,3,0,1,Regularmente,0,1,44,0,2,2,Administrativo,1,1,0,0,2,4.5
+12156,Barcelona,Cataluña,4,5,4,2,3,5,1,8,4,1,1,3,2,2,3,2,7,10,0,1,16,3,1,2,Regularmente,0,1,41,1,2,2,Mando,1,1,1,1,2,3.75
+12202,Albacete,Castilla-La Mancha,3,5,4,4,5,4,1,27,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,52,1,2,2,Obrero,1,1,1,0,2,4.0
+12203,Gerona,Cataluña,4,5,5,5,5,4,1,23,5,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,41,1,2,2,Comerciante,1,1,2,0,1,4.75
+12208,Salamanca,Castilla y León,3,5,3,0,3,2,1,42,4,1,1,3,2,5,4,3,5,5,0,0,1,3,0,1,Ocasionalmente,1,1,70,1,4,2,Comerciante,2,1,1,0,2,2.75
+12247,Barcelona,Cataluña,4,4,4,4,6,4,1,19,5,1,1,4,5,4,5,4,8,8,1,0,1,3,0,1,Regularmente,0,1,36,1,2,2,Obrero,1,1,1,1,2,4.0
+12282,Pontevedra,Galicia,4,4,4,5,5,4,1,14,4,1,0,4,4,5,3,1,8,10,1,0,3,3,0,1,Regularmente,0,1,33,0,2,2,Comerciante,1,1,1,1,2,4.25
+12363,Barcelona,Cataluña,4,5,4,4,6,4,1,15,4,1,1,3,4,4,4,4,8,4,1,0,10,1,0,1,Mensualmente,0,0,43,1,3,2,Comerciante,2,1,1,1,2,4.25
+12378,Valencia,Comunidad Valenciana,5,3,5,0,6,4,1,50,5,1,1,2,4,5,4,4,7,7,0,0,1,3,1,1,Regularmente,0,0,78,1,2,2,Administrativo,1,1,1,0,2,3.25
+12382,Castellón,Comunidad Valenciana,4,3,2,0,5,0,1,56,4,1,1,3,4,4,4,4,6,0,0,0,1,3,0,1,Desconocido,0,0,84,1,0,2,Obrero,1,1,1,0,2,2.25
+12395,Orense,Galicia,4,5,4,0,6,5,1,22,4,1,1,4,4,5,5,5,8,8,1,0,2,3,0,1,Regularmente,0,1,40,1,2,0,Obrero,1,1,1,0,2,3.25
+12404,Coruña,Galicia,2,2,4,0,5,4,1,1,4,0,0,3,3,4,3,4,7,7,1,0,4,3,0,1,Regularmente,0,1,21,0,2,1,Agricultor,0,1,1,0,1,2.0
+12426,Orense,Galicia,5,3,4,5,6,5,1,7,5,0,0,3,3,4,3,4,5,5,1,0,2,3,0,1,Regularmente,0,1,23,0,4,0,Obrero,1,1,1,1,0,4.25
+12472,Gerona,Cataluña,2,2,2,0,2,0,1,51,2,1,1,3,4,4,4,2,10,10,0,0,1,1,0,1,Sin actividad sexual,0,1,68,1,0,2,Obrero,0,1,1,1,2,1.5
+12473,Palma,Islas Baleares,4,5,4,5,5,4,1,34,4,1,1,3,4,4,4,4,5,5,1,0,1,3,0,1,Ocasionalmente,0,0,57,1,2,2,Obrero,1,1,1,1,1,4.5
+12482,Tarragona,Cataluña,4,4,4,4,6,2,1,1,5,0,0,3,3,4,3,4,6,9,0,0,41,3,0,1,Regularmente,0,0,32,0,4,2,Mando,2,1,1,0,2,4.0
+12543,Cuenca,Castilla-La Mancha,4,5,5,4,6,5,1,17,4,1,1,3,4,5,4,4,10,10,1,0,1,3,0,1,Regularmente,0,1,34,1,2,2,Mando,1,1,0,1,2,4.5
+12562,Gerona,Cataluña,5,5,2,4,5,4,1,25,4,1,1,3,4,4,3,4,7,7,0,0,2,3,0,1,Regularmente,0,0,48,1,2,2,Comerciante,1,1,1,0,1,4.0
+12563,Coruña,Galicia,5,5,3,4,6,5,1,23,5,1,1,3,4,5,5,5,5,5,0,0,2,3,0,1,Regularmente,0,1,44,1,2,2,Mando,1,1,1,0,1,4.25
+12566,Pontevedra,Galicia,4,5,4,5,5,5,1,20,4,1,1,3,5,4,4,4,7,6,0,0,1,3,0,1,Regularmente,0,0,48,1,4,2,Administrativo,1,1,1,0,1,4.5
+12568,Castellón,Comunidad Valenciana,5,4,3,4,5,4,1,22,4,1,1,4,4,5,4,4,7,7,0,0,1,3,0,1,Regularmente,0,1,44,1,2,2,Obrero,1,1,1,0,1,4.0
+12605,Alicante,Comunidad Valenciana,4,4,5,5,6,5,1,20,5,1,0,2,4,4,5,5,8,9,0,0,2,3,0,1,Regularmente,0,1,40,0,3,2,Mando,1,1,0,0,2,4.5
+12624,Cuenca,Castilla-La Mancha,1,5,2,1,2,1,1,20,1,1,1,0,1,1,1,1,5,2,0,0,1,1,0,0,Sin actividad sexual,0,1,37,1,2,2,Obrero,1,1,2,1,2,2.25
+12631,Ávila,Castilla y León,4,5,4,0,5,4,1,46,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,68,1,2,2,Comerciante,1,1,1,1,1,3.25
+12649,Cáceres,Extremadura,3,5,5,5,6,4,1,3,5,1,1,4,5,5,5,5,9,10,0,0,1,3,0,1,Regularmente,1,1,28,1,2,2,Obrero,1,1,1,0,2,4.5
+12657,Lérida,Cataluña,4,5,4,0,6,4,1,46,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Mensualmente,0,1,66,1,2,2,Comerciante,1,1,1,0,2,3.25
+12681,Las Palmas,Islas Canarias,4,4,4,0,5,4,1,45,4,1,1,4,4,4,4,4,6,10,0,0,998,3,1,1,Regularmente,0,0,68,1,1,2,Obrero,1,1,0,1,2,3.0
+12682,Alicante,Comunidad Valenciana,4,5,2,1,5,2,1,2,4,1,0,3,4,5,4,4,8,5,0,0,2,2,0,1,Regularmente,0,1,42,0,2,0,Administrativo,1,1,0,1,2,3.0
+12713,Santa Cruz de Tenerife,Islas Canarias,5,4,2,0,3,5,1,12,4,1,1,3,4,4,4,4,10,6,0,0,1,3,0,1,Regularmente,0,0,36,1,2,2,Obrero,1,1,0,0,1,2.75
+12714,Lugo,Galicia,3,2,2,0,6,2,1,39,5,1,1,3,4,3,3,4,7,10,0,0,1,1,0,1,Regularmente,0,1,57,1,2,2,Obrero,1,1,1,1,2,1.75
+12727,Asturias,Principado de Asturias,5,5,4,4,5,4,1,20,4,1,1,3,5,4,4,4,8,8,1,0,5,3,0,1,Regularmente,0,0,45,1,2,2,Obrero,1,1,1,1,2,4.5
+12774,Las Palmas,Islas Canarias,5,5,4,4,5,4,1,21,4,1,1,4,5,4,4,4,9,9,0,1,1,3,0,1,Regularmente,0,1,41,1,4,2,Mando,1,1,1,1,2,4.5
+12793,Gerona,Cataluña,4,5,4,5,6,5,1,20,5,1,1,4,4,4,4,5,5,5,0,0,2,3,0,1,Regularmente,0,1,48,1,4,2,Mando,1,1,1,0,2,4.5
+12819,Valencia,Comunidad Valenciana,5,5,4,4,6,4,1,8,4,1,1,3,4,4,4,4,6,7,0,0,5,3,0,1,Regularmente,0,1,33,1,3,2,Mando,1,1,0,0,2,4.5
+12848,Ávila,Castilla y León,4,2,4,4,5,4,1,55,4,1,1,4,4,4,4,4,10,10,0,0,1,3,1,1,Regularmente,1,0,72,1,0,2,Obrero,0,1,1,0,1,3.5
+12857,Cuenca,Castilla-La Mancha,4,5,3,2,5,4,1,5,5,1,1,3,4,5,4,4,8,8,0,0,2,3,0,1,Regularmente,0,0,26,1,2,2,Obrero,1,1,1,0,2,3.5
+12872,Valencia,Comunidad Valenciana,4,3,2,0,5,4,1,45,5,1,1,3,4,5,2,4,7,7,1,0,41,3,0,1,Regularmente,0,0,72,1,2,2,Mando,1,1,1,0,2,2.25
+12929,Cuenca,Castilla-La Mancha,4,5,4,4,5,4,1,30,4,1,1,3,4,4,4,4,7,6,1,0,6,3,1,1,Regularmente,1,0,46,1,4,2,Mando,1,1,1,1,2,4.25
+12934,Valencia,Comunidad Valenciana,4,3,2,0,5,4,1,42,4,1,1,3,4,4,3,4,7,7,0,0,1,3,0,1,Regularmente,0,0,66,1,1,2,Obrero,1,1,1,0,2,2.25
+12948,Valencia,Comunidad Valenciana,1,5,1,0,6,5,1,2,5,0,0,3,3,4,3,4,7,9,0,0,4,3,0,1,Regularmente,0,1,29,0,2,0,Obrero,1,1,1,0,2,1.75
+12992,Gerona,Cataluña,4,5,4,2,5,4,1,39,3,1,1,3,3,2,4,4,5,5,0,0,2,3,0,1,Regularmente,0,1,59,1,2,2,Autónomo,1,1,1,0,2,3.75
+13001,Cáceres,Extremadura,4,3,2,0,5,4,1,25,4,1,1,3,4,4,4,3,7,9,0,0,2,3,0,1,Regularmente,1,1,49,1,2,0,Obrero,1,1,1,0,2,2.25
+13006,Gerona,Cataluña,4,3,4,0,5,3,1,49,5,1,1,3,2,4,4,4,6,6,0,0,1,3,0,1,Regularmente,1,0,72,1,1,2,Obrero,1,1,0,1,2,2.75
+13023,Albacete,Castilla-La Mancha,3,2,3,0,4,4,1,2,3,0,0,3,3,4,3,4,4,10,0,0,4,3,0,1,Mensualmente,0,0,53,0,2,2,Obrero,1,1,0,0,2,2.0
+13130,Tarragona,Cataluña,4,4,4,0,5,4,1,39,4,1,1,3,4,5,4,4,10,10,0,0,1,3,0,1,Desconocido,1,1,60,1,0,2,Obrero,1,1,1,1,1,3.0
+13134,Lérida,Cataluña,5,5,4,0,5,2,1,32,4,1,1,3,4,4,3,4,6,7,0,0,4,3,0,1,Regularmente,1,0,66,1,1,2,Obrero,1,1,1,1,1,3.5
+13137,Valencia,Comunidad Valenciana,4,5,2,4,6,4,1,30,4,1,1,3,4,4,5,5,8,7,0,0,1,3,0,1,Regularmente,0,0,56,1,4,2,Mando,2,1,0,0,2,3.75
+13150,Zamora,Castilla y León,3,5,3,0,5,4,1,35,5,1,1,4,4,4,4,4,10,8,0,0,1,3,0,1,Diariamente,1,0,62,1,2,2,Obrero,1,1,1,0,1,2.75
+13238,Pontevedra,Galicia,4,5,4,5,3,2,1,50,3,1,1,2,4,4,4,3,5,5,0,0,998,3,0,1,Mensualmente,1,0,77,1,0,2,Otro,0,1,1,0,1,4.5
+13256,Coruña,Galicia,5,5,4,4,5,4,1,6,4,0,0,3,3,4,3,4,10,10,1,0,1,3,0,1,Regularmente,1,1,23,0,2,2,Administrativo,1,1,1,0,2,4.5
+13263,Coruña,Galicia,5,5,2,4,6,5,1,12,5,1,1,4,5,5,3,5,6,6,1,0,998,3,0,1,Diariamente,1,1,32,1,2,2,Obrero,1,1,1,1,1,4.0
+13290,Asturias,Principado de Asturias,3,5,2,3,5,4,1,35,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,1,1,55,1,2,2,Administrativo,1,1,1,1,1,3.25
+13321,Barcelona,Cataluña,5,5,4,0,6,4,1,12,5,1,1,3,4,5,4,4,10,10,0,0,1,3,0,2,Regularmente,0,1,31,1,2,0,Mando,1,1,0,1,1,3.5
+13329,Lérida,Cataluña,3,4,5,0,6,4,1,40,5,1,1,4,3,3,5,5,8,10,0,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Director,2,1,1,0,0,3.0
+13350,Lérida,Cataluña,4,5,3,5,6,5,1,10,5,1,0,4,4,5,4,5,8,9,0,0,2,3,0,1,Regularmente,1,1,50,0,2,2,Obrero,1,1,1,0,2,4.25
+13356,Las Palmas,Islas Canarias,4,3,2,0,5,3,1,50,3,1,1,2,3,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,1,67,1,0,2,Obrero,1,1,1,0,2,2.25
+13391,Zamora,Castilla y León,3,3,3,0,4,5,1,48,4,1,1,3,5,4,4,4,10,5,0,0,998,3,0,1,Regularmente,0,0,80,1,1,2,Mando,1,1,1,0,1,2.25
+13397,Albacete,Castilla-La Mancha,4,5,2,0,6,5,1,42,4,1,1,2,4,4,4,4,5,5,0,0,1,3,0,1,Regularmente,0,1,65,1,2,2,Comerciante,1,1,1,0,2,2.75
+13409,Lérida,Cataluña,3,5,4,4,5,3,1,34,4,1,1,2,3,4,4,4,7,4,0,0,4,3,1,1,Regularmente,0,0,51,1,2,2,Mando,1,1,1,0,2,4.0
+13424,Barcelona,Cataluña,5,3,4,0,6,5,1,63,5,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,1,1,63,1,0,2,Mando,1,1,1,1,2,3.0
+13439,Coruña,Galicia,4,1,2,0,1,1,1,60,3,1,1,3,5,4,1,2,0,0,0,0,1,3,0,1,Sin actividad sexual,0,1,76,1,1,2,Obrero,1,1,1,0,2,1.75
+13447,Castellón,Comunidad Valenciana,5,4,4,4,6,5,1,20,5,1,1,3,4,5,4,5,8,8,1,0,1,3,0,1,Regularmente,0,1,32,0,0,2,Otro,1,1,1,1,1,4.25
+13473,Gerona,Cataluña,4,4,4,5,4,3,1,11,5,1,1,3,3,4,4,4,8,8,1,0,4,3,0,1,Regularmente,0,1,34,1,3,2,Mando,1,1,0,0,2,4.25
+13478,Valencia,Comunidad Valenciana,5,5,4,4,6,5,1,8,5,1,0,4,4,5,3,5,8,8,0,0,3,3,0,1,Regularmente,0,1,36,0,2,2,Comerciante,1,1,1,0,2,4.5
+13487,Orense,Galicia,4,3,4,4,5,4,1,35,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,54,1,2,2,Administrativo,1,1,1,0,1,3.75
+13507,Castellón,Comunidad Valenciana,4,3,3,0,5,2,1,25,4,1,0,2,4,4,3,4,10,7,0,0,20,3,1,1,Mensualmente,0,0,61,0,0,0,Obrero,1,1,1,1,2,2.5
+13509,Lugo,Galicia,4,5,3,4,5,4,1,29,4,1,1,4,5,4,4,4,8,8,0,0,2,3,0,1,Regularmente,1,1,48,1,2,2,Agricultor,1,1,1,0,0,4.0
+13537,Palma,Islas Baleares,5,5,4,0,6,4,1,15,5,1,1,4,2,5,4,5,10,7,0,0,6,3,0,1,Regularmente,0,1,41,1,2,0,Obrero,1,1,1,1,2,3.5
+13549,Alicante,Comunidad Valenciana,4,3,2,0,6,4,1,27,4,1,1,3,4,4,3,4,10,10,0,0,1,3,0,1,Regularmente,0,1,50,1,2,2,Obrero,1,1,1,0,2,2.25
+13569,Guadalajara,Castilla-La Mancha,4,5,3,4,5,3,1,6,4,1,0,3,4,4,4,4,8,10,0,0,17,3,0,1,Regularmente,0,0,38,0,2,2,Obrero,1,1,1,0,2,4.0
+13594,Santa Cruz de Tenerife,Islas Canarias,5,5,2,5,5,5,1,3,4,0,0,3,3,4,3,4,7,7,1,0,6,3,0,1,Regularmente,0,0,18,0,2,2,Otro,1,1,1,0,2,4.25
+13619,Valencia,Comunidad Valenciana,4,3,2,0,5,4,1,35,4,1,1,3,5,5,4,4,7,7,0,0,1,3,0,1,Regularmente,1,1,52,1,2,2,Comerciante,1,1,1,1,1,2.25
+13669,Lugo,Galicia,4,5,4,0,6,4,1,20,4,1,1,3,4,4,4,4,10,10,1,0,2,3,0,1,Regularmente,0,1,43,1,2,0,Obrero,1,1,0,1,2,3.25
+13684,Guadalajara,Castilla-La Mancha,4,5,4,4,5,4,1,15,4,1,1,3,4,4,4,4,7,7,0,0,3,3,0,1,Desconocido,0,0,44,1,2,2,Obrero,1,1,1,1,1,4.25
+13696,Pontevedra,Galicia,4,5,2,0,6,5,1,10,4,1,1,4,4,4,4,4,8,10,1,0,1,3,0,1,Regularmente,0,1,25,1,3,0,Obrero,1,1,1,0,2,2.75
+13697,Salamanca,Castilla y León,3,2,1,2,3,1,1,40,4,1,1,3,4,4,4,5,7,7,0,0,7,3,0,1,Mensualmente,0,0,68,1,1,2,Obrero,1,1,1,0,0,2.0
+13712,Palma,Islas Baleares,4,3,4,0,5,4,1,45,4,1,1,3,5,4,4,5,7,6,0,0,1,3,0,1,Regularmente,1,0,70,1,2,2,Obrero,1,1,1,1,2,2.75
+13746,Castellón,Comunidad Valenciana,4,5,2,3,3,2,1,5,5,1,1,3,4,4,4,3,10,1,1,0,3,3,0,1,Mensualmente,1,0,30,1,2,2,Obrero,1,1,0,0,2,3.5
+13749,Guadalajara,Castilla-La Mancha,4,5,4,0,6,4,1,14,5,1,1,3,4,4,4,4,5,5,1,0,2,3,0,1,Regularmente,1,1,32,1,2,2,Obrero,1,1,1,1,2,3.25
+13761,Cuenca,Castilla-La Mancha,5,4,4,5,6,5,1,6,5,1,0,3,5,3,5,5,9,9,1,0,3,2,0,2,Mensualmente,1,1,27,1,2,2,Obrero,1,0,1,0,2,4.5
+13774,Guadalajara,Castilla-La Mancha,4,5,4,4,5,4,1,30,5,1,1,2,3,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,1,48,1,2,2,Director,2,1,1,1,2,4.25
+13780,Alicante,Comunidad Valenciana,3,2,2,0,6,1,1,43,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Mensualmente,0,1,77,1,1,2,Obrero,0,1,1,0,1,1.75
+13810,Cuenca,Castilla-La Mancha,4,3,4,0,5,4,1,31,4,1,1,3,4,4,3,4,10,10,0,0,1,3,0,1,Regularmente,0,1,54,1,1,2,Obrero,1,1,1,0,1,2.75
+13851,Soria,Castilla y León,4,5,4,4,5,4,1,1,5,0,0,3,3,4,3,4,5,5,0,0,8,3,0,1,Regularmente,0,0,30,0,2,2,Comerciante,1,1,0,0,2,4.25
+13867,Alicante,Comunidad Valenciana,1,5,4,0,2,1,1,37,1,1,1,0,1,1,5,1,4,4,0,0,1,1,0,2,Regularmente,1,1,61,1,2,2,Obrero,1,1,1,0,2,2.5
+13919,Zamora,Castilla y León,4,5,3,4,5,4,1,20,4,1,1,3,4,5,4,4,8,8,0,0,6,3,1,1,Regularmente,0,1,38,1,2,2,Obrero,1,1,1,1,2,4.0
+13937,Albacete,Castilla-La Mancha,4,4,4,0,5,4,1,50,5,1,1,4,4,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,0,72,1,2,2,Obrero,1,1,1,1,1,3.0
+13938,Orense,Galicia,4,5,4,4,6,5,1,27,4,1,1,3,3,4,4,5,5,5,0,1,1,3,0,1,Regularmente,0,0,51,1,2,2,Administrativo,1,1,0,0,2,4.25
+13957,Badajoz,Extremadura,4,5,4,5,5,5,1,0,4,0,0,3,3,4,3,4,7,6,0,1,6,1,1,1,Regularmente,0,0,33,0,4,2,Mando,2,1,1,0,1,4.5
+13958,Lérida,Cataluña,4,3,4,0,6,4,1,14,4,1,0,3,4,4,4,5,10,7,0,0,2,2,0,1,Regularmente,0,0,57,0,2,2,Obrero,1,1,0,0,2,2.75
+13992,Tarragona,Cataluña,4,3,3,3,4,3,1,23,3,1,1,2,2,4,4,3,8,10,0,0,1,3,0,1,Regularmente,0,1,40,1,1,2,Administrativo,1,1,1,0,2,3.25
+14044,Barcelona,Cataluña,5,4,4,4,5,5,1,6,4,1,0,4,5,4,4,5,8,10,1,0,3,3,0,1,Regularmente,0,1,30,0,4,2,Comerciante,1,1,0,0,2,4.25
+14073,Valencia,Comunidad Valenciana,3,5,2,4,5,5,1,30,3,1,1,3,3,4,2,5,10,10,0,0,1,3,0,1,Regularmente,0,1,44,1,0,0,Obrero,1,1,1,1,2,3.5
+14076,Barcelona,Cataluña,4,4,1,2,6,5,1,7,5,0,0,3,3,4,3,4,10,8,1,0,1,3,0,1,Regularmente,0,0,23,0,2,2,Director,2,1,0,1,2,2.75
+14077,Las Palmas,Islas Canarias,4,3,2,2,6,5,1,15,5,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Regularmente,0,1,38,1,2,2,Comerciante,1,1,1,1,1,2.75
+14084,Tarragona,Cataluña,4,5,4,4,3,2,1,43,3,1,1,3,4,4,4,3,8,5,0,0,8,3,0,1,Ocasionalmente,0,0,75,1,3,2,Mando,1,1,1,1,2,4.25
+14144,Lérida,Cataluña,4,5,2,2,6,5,1,13,5,1,0,1,5,2,4,5,10,10,1,0,2,3,0,1,Diariamente,1,1,30,0,2,2,Obrero,1,0,1,0,2,3.25
+14222,Santa Cruz de Tenerife,Islas Canarias,4,4,1,1,6,4,1,23,4,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,1,43,1,2,2,Obrero,1,1,1,1,2,2.5
+14247,Alicante,Comunidad Valenciana,5,4,5,5,6,5,1,4,5,0,0,3,3,4,3,4,8,7,1,0,2,3,0,1,Regularmente,0,1,26,0,4,2,Autónomo,2,1,1,1,1,4.75
+14251,Coruña,Galicia,4,4,4,4,5,4,1,10,4,1,1,3,4,4,4,4,8,8,0,0,5,3,0,1,Regularmente,0,0,35,1,3,2,Autónomo,2,1,1,1,2,4.0
+14260,Lérida,Cataluña,5,4,5,5,6,5,1,14,5,1,1,3,4,4,4,4,7,7,1,0,1,3,0,1,Regularmente,1,1,33,1,2,2,Mando,1,1,2,0,2,4.75
+14270,Barcelona,Cataluña,3,5,2,1,6,4,1,2,5,0,0,3,3,4,3,4,8,8,0,0,2,3,1,1,Desconocido,0,1,41,0,1,0,Mando,1,1,2,0,2,2.75
+14304,Gerona,Cataluña,4,4,2,0,5,3,1,47,3,1,1,4,4,5,3,4,6,6,0,0,1,3,0,1,Regularmente,0,1,67,1,1,2,Mando,1,1,1,0,2,2.5
+14329,Valencia,Comunidad Valenciana,5,3,3,5,6,5,1,7,5,1,0,4,4,5,5,4,10,10,0,0,1,3,0,1,Regularmente,1,1,23,0,2,2,Otro,1,0,1,0,2,4.0
+14351,Castellón,Comunidad Valenciana,2,5,2,2,6,1,1,2,4,0,0,3,3,4,3,4,10,7,0,0,41,3,0,1,Regularmente,0,0,18,0,2,2,Obrero,1,1,1,0,2,2.75
+14420,Lugo,Galicia,4,5,1,1,5,2,1,18,3,1,1,3,4,4,3,3,6,5,0,0,10,3,0,1,Regularmente,0,0,43,1,2,0,Obrero,1,1,1,0,2,2.75
+14424,Valencia,Comunidad Valenciana,4,3,2,0,6,3,1,50,5,1,1,4,5,5,5,5,10,10,0,0,1,3,0,1,Regularmente,0,0,79,1,2,2,Mando,1,1,2,0,2,2.25
+14427,Coruña,Galicia,5,5,4,0,6,5,1,40,5,1,1,4,4,5,5,5,8,8,0,0,1,3,0,1,Mensualmente,1,1,62,1,2,2,Obrero,1,1,1,0,2,3.5
+14453,Las Palmas,Islas Canarias,4,5,4,4,5,4,1,20,4,1,1,3,4,3,4,4,7,8,0,0,10,3,1,1,Regularmente,0,0,43,1,3,2,Obrero,1,1,0,0,2,4.25
+14457,Castellón,Comunidad Valenciana,4,5,4,4,6,4,1,19,4,1,1,3,5,4,4,4,5,5,0,0,2,3,0,1,Diariamente,0,0,40,1,4,2,Mando,1,1,1,0,2,4.25
+14472,Barcelona,Cataluña,5,4,4,4,6,5,1,0,5,1,0,4,5,4,4,5,8,7,0,0,15,3,0,1,Regularmente,0,1,31,0,4,2,Mando,2,1,1,1,2,4.25
+14497,Valladolid,Castilla y León,4,5,4,4,5,3,1,40,4,1,1,3,4,4,3,4,8,8,0,0,2,3,0,1,Regularmente,1,0,65,1,2,2,Mando,1,1,0,0,1,4.25
+14558,Barcelona,Cataluña,4,3,2,4,6,4,1,32,4,1,1,3,4,4,4,4,6,6,1,0,1,3,0,1,Regularmente,0,1,50,1,1,2,Obrero,1,1,1,0,2,3.25
+14622,Santa Cruz de Tenerife,Islas Canarias,4,5,2,2,5,4,1,20,4,1,1,3,4,4,2,5,8,8,0,0,1,3,0,1,Regularmente,0,0,36,1,2,2,Obrero,1,1,1,1,2,3.25
+14651,Cáceres,Extremadura,4,3,4,0,6,0,1,50,4,1,1,3,4,5,4,4,10,10,0,0,1,3,0,1,Ocasionalmente,1,1,74,1,2,2,Obrero,1,1,1,1,0,2.75
+14704,Soria,Castilla y León,5,5,3,4,5,5,1,8,5,1,1,3,4,4,4,4,8,8,0,0,3,3,0,1,Regularmente,0,0,30,1,2,2,Otro,1,0,1,1,1,4.25
+14740,Orense,Galicia,4,5,4,4,6,4,1,25,4,1,1,3,4,4,5,4,9,10,0,0,1,3,0,1,Regularmente,0,1,43,1,2,2,Obrero,1,1,1,1,1,4.25
+14742,Barcelona,Cataluña,3,3,3,3,5,3,1,9,5,1,1,3,2,4,2,4,6,6,1,0,10,3,1,1,Diariamente,0,0,32,0,3,2,Mando,1,1,0,1,2,3.0
+14745,Castellón,Comunidad Valenciana,4,4,4,4,5,4,1,22,4,1,1,3,2,4,4,4,8,6,0,0,3,3,1,1,Regularmente,0,0,43,1,3,2,Mando,1,1,0,1,2,4.0
+14776,Badajoz,Extremadura,4,5,4,5,5,4,1,21,4,1,1,4,4,4,5,4,9,8,0,0,2,1,0,1,Regularmente,0,0,46,1,3,2,Mando,1,1,1,1,2,4.5
+14795,Palma,Islas Baleares,4,5,4,4,5,4,1,17,4,1,0,3,4,4,4,4,8,8,0,0,30,3,1,2,Regularmente,0,0,43,0,3,2,Mando,1,1,1,0,2,4.25
+14823,Alicante,Comunidad Valenciana,4,5,4,4,5,4,1,23,4,1,1,3,4,4,3,5,8,8,0,0,1,3,0,1,Regularmente,0,1,43,1,4,2,Mando,1,1,1,1,2,4.25
+14824,Burgos,Castilla y León,5,5,5,4,5,4,1,12,5,1,1,4,4,4,4,5,10,8,1,0,20,3,1,1,Regularmente,0,0,50,1,2,2,Obrero,1,1,1,0,2,4.75
+14855,Palma,Islas Baleares,4,4,4,0,6,5,1,3,5,0,0,3,3,4,3,4,7,7,1,0,1,3,0,1,Regularmente,1,1,18,0,2,1,Obrero,1,1,0,1,0,3.0
+14864,Tarragona,Cataluña,4,5,4,4,5,4,1,8,4,1,1,3,4,4,4,4,8,8,1,0,5,3,0,2,Mensualmente,0,1,37,1,2,2,Obrero,1,1,1,0,2,4.25
+14868,Tarragona,Cataluña,5,4,1,0,3,2,1,2,4,0,0,3,3,4,3,4,10,10,1,0,150,3,1,2,Diariamente,1,0,31,0,2,2,Obrero,1,0,1,0,1,2.5
+14887,Lérida,Cataluña,5,4,4,4,5,4,1,5,5,1,0,4,5,4,5,5,8,8,0,0,30,3,0,1,Regularmente,0,0,30,0,2,2,Comerciante,1,1,1,0,2,4.25
+14910,Barcelona,Cataluña,4,5,4,5,6,4,1,37,5,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,0,53,1,2,2,Mando,1,1,1,1,1,4.5
+14931,Lérida,Cataluña,4,5,4,4,5,4,1,3,4,0,0,3,3,4,3,4,8,8,0,0,1,3,0,1,Regularmente,0,1,19,0,2,1,Mando,1,1,1,1,2,4.25
+14935,Orense,Galicia,4,5,3,4,5,4,1,5,4,1,1,3,4,4,4,4,8,8,0,0,3,3,0,1,Regularmente,0,1,32,1,2,2,Administrativo,1,1,1,1,2,4.0
+14944,Santa Cruz de Tenerife,Islas Canarias,4,5,4,2,5,3,1,2,5,1,0,3,4,4,4,4,6,6,0,0,12,3,0,1,Regularmente,0,0,42,0,3,2,Mando,1,1,0,0,2,3.75
+14970,Coruña,Galicia,5,5,4,4,6,5,1,5,5,0,0,3,3,4,3,4,7,6,1,0,5,3,1,1,Regularmente,1,0,21,0,2,2,Comerciante,2,1,0,1,2,4.5
+14982,Badajoz,Extremadura,4,5,2,2,6,5,1,26,5,1,1,4,5,4,3,5,10,8,0,0,13,3,1,1,Regularmente,1,0,50,1,1,2,Comerciante,1,1,1,1,2,3.25
+15045,Palma,Islas Baleares,4,4,5,4,6,5,1,2,5,0,0,3,3,4,3,4,5,6,0,0,4,3,0,1,Regularmente,1,1,36,0,3,2,Obrero,1,1,1,0,1,4.25
+15072,Guadalajara,Castilla-La Mancha,5,5,4,5,6,5,1,7,5,1,1,3,4,5,5,5,10,10,1,0,1,3,0,1,Regularmente,1,1,33,1,4,2,Obrero,1,1,0,1,2,4.75
+15075,Lugo,Galicia,5,4,4,5,6,5,1,28,5,1,1,3,4,4,5,5,8,10,0,0,3,3,0,1,Diariamente,1,1,43,1,4,2,Mando,2,1,0,0,2,4.5
+15108,Ciudad Real,Castilla-La Mancha,4,5,4,4,5,4,1,18,4,1,1,4,5,4,4,5,8,7,0,0,3,3,0,1,Regularmente,1,0,42,1,2,2,Administrativo,1,1,1,1,1,4.25
+15112,Guadalajara,Castilla-La Mancha,4,5,4,4,6,3,1,8,3,1,1,3,4,4,4,4,6,5,1,0,1,3,0,1,Regularmente,0,0,36,1,2,2,Obrero,1,1,1,0,2,4.25
+15138,Valladolid,Castilla y León,5,3,4,5,6,5,1,1,5,1,0,3,4,4,4,5,9,9,0,0,4,3,0,1,Diariamente,1,1,26,0,2,2,Mando,1,1,1,1,0,4.25
+15162,Barcelona,Cataluña,5,4,4,2,6,5,1,11,5,1,1,4,5,5,5,5,7,7,1,0,3,2,0,1,Desconocido,0,1,32,1,2,2,Mando,1,1,1,0,2,3.75
+15187,Tarragona,Cataluña,4,5,3,4,5,4,1,17,4,1,1,3,2,4,3,4,10,10,0,0,1,3,0,1,Regularmente,1,1,45,1,3,0,Mando,2,1,0,0,1,4.0
+15202,Alicante,Comunidad Valenciana,4,4,2,4,5,4,1,30,4,1,1,3,2,5,2,4,8,5,0,0,1,3,0,1,Regularmente,0,0,49,1,2,2,Obrero,1,1,0,1,2,3.5
+15219,Alicante,Comunidad Valenciana,4,4,5,5,5,4,1,17,4,1,1,4,2,4,5,4,8,6,1,0,3,3,0,2,Regularmente,0,0,37,1,4,2,Mando,1,1,0,0,2,4.5
+15228,Castellón,Comunidad Valenciana,4,3,2,0,6,5,1,20,5,1,1,3,4,4,4,5,5,5,0,0,1,3,0,1,Regularmente,0,1,33,1,2,0,Obrero,1,1,1,1,1,2.25
+15233,Lérida,Cataluña,4,3,0,4,3,2,1,46,4,1,1,3,4,4,3,2,0,0,0,0,1,3,0,1,Sin actividad sexual,0,1,72,1,1,2,Obrero,1,1,1,0,1,2.75
+15236,Barcelona,Cataluña,5,4,2,4,5,4,1,15,4,1,1,3,4,4,4,5,7,7,1,0,9,3,0,1,Regularmente,1,0,42,1,3,2,Mando,1,1,1,1,2,3.75
+15268,Santa Cruz de Tenerife,Islas Canarias,4,4,2,4,6,4,1,1,4,0,0,3,3,4,3,4,10,10,0,0,7,3,1,2,Regularmente,0,0,31,0,2,2,Administrativo,1,1,1,0,2,3.5
+15279,Barcelona,Cataluña,3,3,1,0,2,4,1,50,4,1,1,2,0,4,4,3,0,10,0,0,1,1,0,1,Desconocido,1,1,68,1,1,2,Obrero,1,1,1,1,2,1.75
+15287,Barcelona,Cataluña,4,5,2,0,6,4,1,10,4,1,1,3,3,4,4,4,7,7,1,0,2,3,0,1,Regularmente,0,1,38,1,2,0,Comerciante,1,1,1,0,1,2.75
+15300,Las Palmas,Islas Canarias,3,5,3,0,4,4,1,7,4,0,0,3,3,4,3,4,6,3,0,0,1,3,0,2,Regularmente,0,0,25,0,3,1,Administrativo,1,1,1,0,2,2.75
+15303,Cuenca,Castilla-La Mancha,4,5,4,4,5,4,1,12,4,1,1,3,4,5,5,5,9,9,1,0,1,3,0,1,Regularmente,0,0,40,1,2,2,Agricultor,1,1,1,1,2,4.25
+15398,Valencia,Comunidad Valenciana,5,4,4,0,6,5,1,37,5,1,1,4,5,5,4,5,10,8,0,0,35,3,1,2,Regularmente,0,0,64,1,1,2,Obrero,1,1,1,0,2,3.25
+15412,Barcelona,Cataluña,2,5,4,0,5,4,1,7,4,1,0,4,5,4,5,5,8,8,1,0,20,3,1,2,Regularmente,1,1,34,0,2,0,Obrero,1,1,0,0,2,2.75
+15423,Barcelona,Cataluña,4,2,4,4,5,4,1,30,4,1,1,3,4,4,4,4,7,9,0,0,2,3,0,1,Regularmente,0,1,54,1,4,2,Comerciante,2,1,1,0,1,3.5
+15455,Guadalajara,Castilla-La Mancha,5,5,4,2,6,5,1,8,5,1,1,4,4,5,4,5,6,6,1,0,1,3,0,1,Regularmente,0,1,27,1,4,2,Mando,1,1,0,1,2,4.0
+15549,Lérida,Cataluña,4,5,2,4,6,5,1,2,5,0,0,3,3,4,3,4,8,8,0,0,6,3,0,1,Regularmente,0,0,38,0,2,2,Obrero,1,1,1,0,1,3.75
+15580,Lérida,Cataluña,4,5,4,0,6,4,1,11,5,1,1,4,5,5,4,5,7,7,1,0,1,3,0,1,Regularmente,0,1,29,1,2,0,Comerciante,1,1,1,0,1,3.25
+15597,Valladolid,Castilla y León,4,5,4,4,6,5,1,5,5,1,1,3,4,4,4,4,9,9,1,0,6,3,0,2,Regularmente,0,0,30,1,4,2,Mando,1,1,1,0,2,4.25
+15610,Cuenca,Castilla-La Mancha,4,5,3,5,6,4,1,24,5,1,1,4,4,4,4,5,8,8,0,0,3,3,0,1,Regularmente,0,0,47,1,2,2,Agricultor,1,1,1,0,2,4.25
+15629,Valencia,Comunidad Valenciana,4,4,4,4,6,5,1,37,5,1,1,3,3,4,4,4,7,7,1,0,1,3,0,1,Regularmente,0,0,55,1,4,2,Comerciante,2,1,0,0,2,4.0
+15680,Coruña,Galicia,4,5,3,4,6,4,1,20,5,1,1,3,3,4,3,4,10,7,1,0,20,3,0,1,Regularmente,0,0,47,1,2,2,Obrero,1,1,1,1,2,4.0
+15692,Tarragona,Cataluña,4,5,2,4,5,4,1,35,4,1,1,3,4,4,4,4,10,6,0,0,999,3,1,2,Regularmente,0,0,52,1,3,2,Obrero,1,1,2,0,1,3.75
+15739,Lugo,Galicia,4,5,3,4,6,5,1,28,5,1,1,3,3,4,4,4,5,5,0,0,1,3,0,1,Regularmente,1,0,43,1,2,2,Obrero,1,1,0,1,2,4.0
+15747,Valencia,Comunidad Valenciana,5,3,4,4,5,4,1,27,5,1,1,3,5,5,5,5,5,5,0,0,999,3,0,1,Regularmente,0,0,60,1,4,2,Obrero,1,1,0,1,1,4.0
+15868,Barcelona,Cataluña,4,5,2,4,6,5,1,1,5,0,0,3,3,4,3,4,8,8,1,0,4,3,0,1,Regularmente,0,1,23,0,3,2,Mando,2,1,0,0,2,3.75
+15952,Alicante,Comunidad Valenciana,3,1,4,0,6,5,1,55,4,1,1,4,5,5,5,5,10,10,0,0,1,3,0,1,Ocasionalmente,1,0,70,1,0,2,Obrero,1,1,1,0,2,2.0
+15958,Palma,Islas Baleares,4,5,4,5,5,4,1,13,4,1,1,3,4,4,4,4,7,7,0,0,14,3,0,2,Regularmente,0,0,49,1,2,2,Obrero,1,1,2,0,1,4.5
+16034,Barcelona,Cataluña,4,3,4,4,6,4,1,22,5,1,1,4,5,5,4,5,8,8,0,0,35,3,0,1,Regularmente,0,0,54,1,3,2,Director,2,1,0,0,2,3.75
+16126,Gerona,Cataluña,3,4,3,5,6,5,1,1,2,0,0,3,3,4,3,4,7,10,0,1,2,3,0,1,Regularmente,0,1,23,0,2,2,Comerciante,1,0,1,0,2,3.75
+16140,Tarragona,Cataluña,4,5,4,4,6,5,1,2,4,1,0,3,4,4,4,5,8,8,1,0,3,3,0,1,Regularmente,1,1,25,0,2,2,Comerciante,1,1,1,1,2,4.25
+16178,Ciudad Real,Castilla-La Mancha,4,5,2,5,6,5,1,9,5,1,1,3,4,4,4,4,8,10,0,0,3,3,0,1,Ocasionalmente,0,1,32,1,2,2,Administrativo,1,1,1,1,2,4.0
+16280,Barcelona,Cataluña,4,5,4,5,4,2,1,35,4,1,1,3,4,5,5,3,5,10,1,0,3,1,0,1,Ocasionalmente,0,0,57,1,3,2,Administrativo,1,1,1,0,2,4.5
+16326,Lugo,Galicia,4,5,2,2,6,5,1,25,4,1,1,3,4,5,4,5,7,7,0,0,5,3,1,1,Regularmente,0,0,51,1,3,2,Mando,1,1,0,0,2,3.25
+16359,Guadalajara,Castilla-La Mancha,5,4,3,5,6,5,1,13,5,1,0,4,1,5,5,5,7,7,1,0,3,3,1,1,Regularmente,0,0,28,0,2,2,Comerciante,1,1,1,0,2,4.25
+16431,Valencia,Comunidad Valenciana,1,5,2,0,3,2,1,15,2,1,0,2,4,4,1,3,5,8,0,0,2,1,1,1,Desconocido,1,1,55,0,3,2,Administrativo,1,1,2,1,2,2.0
+16435,Lérida,Cataluña,5,4,4,4,6,5,1,3,5,1,1,4,4,5,4,5,8,8,1,1,7,3,0,1,Regularmente,0,0,28,1,3,2,Mando,2,0,1,0,1,4.25
+16456,Barcelona,Cataluña,5,5,4,5,6,5,1,15,5,1,1,4,5,4,4,5,8,8,1,0,2,3,0,1,Regularmente,0,1,33,1,2,2,Obrero,1,1,1,0,2,4.75
+16474,Soria,Castilla y León,5,5,4,2,6,5,1,1,4,0,0,3,3,4,3,4,4,4,1,0,2,3,0,1,Regularmente,1,0,24,0,3,0,Mando,2,1,0,0,2,4.0
+16538,Cuenca,Castilla-La Mancha,5,5,4,4,6,4,1,34,4,1,1,4,3,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,58,1,0,2,Obrero,1,1,2,0,2,4.5
+16565,Barcelona,Cataluña,4,5,4,4,5,4,1,10,4,1,0,3,4,4,4,4,7,6,0,0,4,3,1,1,Regularmente,0,0,35,0,3,2,Administrativo,1,1,0,1,2,4.25
+16579,Lérida,Cataluña,5,5,5,5,5,2,1,14,5,1,1,3,4,4,4,4,7,5,1,0,2,3,0,1,Mensualmente,0,1,42,1,2,2,Administrativo,1,1,1,0,2,5.0
+16610,Coruña,Galicia,4,5,2,5,6,5,1,50,5,1,1,3,4,4,2,4,10,10,0,0,1,3,0,1,Regularmente,1,0,70,1,0,2,Obrero,1,1,1,0,2,4.0
+16672,Gerona,Cataluña,4,5,4,5,6,4,1,14,5,1,1,3,4,4,4,4,10,8,0,0,1,3,0,1,Regularmente,0,0,52,1,2,2,Obrero,1,1,1,0,2,4.5
+16798,Barcelona,Cataluña,4,5,4,5,5,4,1,2,4,1,0,3,5,5,4,5,6,6,1,0,3,3,0,1,Regularmente,1,0,24,0,4,2,Mando,1,1,0,1,2,4.5
+16823,Tarragona,Cataluña,5,4,5,4,6,5,1,19,5,1,1,4,5,5,5,5,5,5,0,0,2,3,0,2,Regularmente,0,1,45,1,2,2,Obrero,1,1,0,0,1,4.5
+16829,Guadalajara,Castilla-La Mancha,4,5,4,4,6,4,1,43,5,1,1,4,4,5,5,5,10,10,0,0,1,3,0,1,Regularmente,0,1,58,1,2,2,Obrero,1,1,1,0,1,4.25
+16849,Guadalajara,Castilla-La Mancha,5,4,2,0,6,5,1,1,5,0,0,3,3,4,3,4,10,10,1,0,3,3,0,1,Diariamente,0,0,23,0,3,1,Mando,1,1,1,0,2,2.75
+16869,Palma,Islas Baleares,5,5,4,0,5,4,1,31,5,1,1,3,3,4,4,4,8,7,0,0,100,3,0,1,Regularmente,0,0,57,1,2,2,Mando,1,1,1,0,1,3.5
+16891,Segovia,Castilla y León,4,4,4,0,6,3,1,47,4,1,1,3,4,4,4,4,8,5,0,0,4,3,1,1,Regularmente,1,0,68,1,2,2,Comerciante,2,1,1,0,2,3.0
+16901,Pontevedra,Galicia,4,4,4,5,5,4,1,20,5,1,0,3,4,4,5,4,8,8,1,0,998,3,0,1,Regularmente,0,0,39,0,4,2,Comerciante,2,1,1,0,2,4.25
+16915,Gerona,Cataluña,4,5,4,4,5,5,1,20,4,1,1,1,5,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,1,39,1,2,2,Comerciante,1,1,1,0,2,4.25
+16929,Ciudad Real,Castilla-La Mancha,4,4,4,0,6,4,1,49,5,1,1,3,4,5,4,5,9,9,0,0,1,3,0,1,Mensualmente,0,1,66,1,0,2,Obrero,1,1,1,0,2,3.0
+16947,Valencia,Comunidad Valenciana,5,2,0,0,6,2,1,50,5,1,1,3,4,4,0,2,0,10,0,0,1,2,0,1,Regularmente,1,1,69,1,1,2,Mando,1,1,1,0,1,1.75
+16978,Castellón,Comunidad Valenciana,4,5,4,2,6,4,1,7,4,1,1,3,4,4,3,4,7,5,1,0,7,3,0,2,Regularmente,1,0,39,1,4,2,Obrero,1,1,1,1,2,3.75
+17059,Valencia,Comunidad Valenciana,4,5,4,4,5,4,1,20,5,1,1,3,4,4,4,5,8,8,0,0,1,3,0,1,Regularmente,1,0,48,1,4,2,Mando,1,1,1,0,2,4.25
+17079,Orense,Galicia,4,5,4,4,5,4,1,4,4,0,0,3,3,4,3,4,8,8,0,0,6,3,0,1,Regularmente,0,0,23,0,2,2,Obrero,1,1,1,0,1,4.25
+17170,Barcelona,Cataluña,4,4,4,4,6,4,1,30,4,1,1,4,4,4,4,4,7,9,0,0,98,3,0,1,Regularmente,0,1,48,1,2,2,Obrero,1,1,2,1,1,4.0
+17176,Tarragona,Cataluña,5,4,4,5,6,5,1,20,5,1,1,3,5,5,4,5,8,8,0,0,2,3,0,2,Regularmente,0,1,41,1,4,2,Mando,1,1,1,1,2,4.5
+17266,Tarragona,Cataluña,5,5,4,4,5,4,1,10,4,1,1,4,5,5,4,4,7,8,1,1,3,3,0,2,Regularmente,0,1,39,1,4,2,Mando,2,1,0,0,2,4.5
+17287,Tarragona,Cataluña,4,5,4,4,5,4,1,33,4,1,1,3,4,4,4,4,5,5,0,0,2,3,0,1,Regularmente,0,1,50,1,2,2,Mando,1,1,0,0,1,4.25
+17298,Lugo,Galicia,4,5,4,4,5,4,1,24,4,1,1,3,4,4,4,4,7,7,0,0,6,3,0,1,Regularmente,1,0,68,1,4,2,Autónomo,2,1,0,0,1,4.25
+17488,Pontevedra,Galicia,5,5,4,5,6,5,1,12,5,1,1,3,3,4,4,4,10,10,1,0,3,3,0,1,Regularmente,0,1,34,1,2,2,Administrativo,1,1,1,1,2,4.75
+17543,Barcelona,Cataluña,5,4,3,0,5,4,1,8,5,1,0,3,4,4,4,4,9,8,1,0,2,3,1,1,Regularmente,1,0,30,0,2,0,Obrero,1,0,1,0,2,3.0
+17550,Barcelona,Cataluña,5,4,1,5,6,5,1,2,5,0,0,3,3,4,3,4,7,6,1,0,8,3,0,1,Regularmente,0,0,23,0,2,2,Comerciante,1,1,0,0,1,3.75
+17567,Badajoz,Extremadura,5,5,2,4,5,4,1,13,5,1,1,3,4,5,4,4,8,8,0,0,3,3,0,1,Regularmente,0,1,34,1,2,2,Comerciante,1,1,1,0,2,4.0
+17605,Coruña,Galicia,5,5,4,4,6,4,1,3,5,1,1,3,4,4,4,5,8,8,1,0,12,3,0,1,Regularmente,0,0,27,1,3,2,Mando,1,1,0,0,2,4.5
+17637,Lugo,Galicia,3,3,3,3,4,4,1,27,3,1,1,3,4,4,3,4,6,6,1,0,1,3,0,1,Regularmente,1,0,50,1,1,2,Obrero,1,1,2,1,2,3.0
+17642,Coruña,Galicia,5,5,5,5,5,4,1,25,5,1,1,3,3,4,4,4,8,8,0,0,5,3,1,1,Regularmente,0,0,49,1,3,2,Mando,1,1,0,1,1,5.0
+17778,Burgos,Castilla y León,4,5,2,4,5,4,1,22,4,1,1,3,4,5,2,4,9,7,0,0,12,3,1,2,Regularmente,0,0,50,1,2,2,Obrero,1,1,1,1,2,3.75
+17818,Barcelona,Cataluña,4,5,5,0,5,4,1,2,5,1,1,3,4,4,3,4,8,10,1,0,3,3,0,1,Regularmente,0,1,26,1,2,0,Comerciante,1,1,1,1,0,3.5
+17878,Las Palmas,Islas Canarias,4,5,5,5,6,5,1,0,4,0,0,3,3,4,3,4,9,9,0,0,15,3,1,1,Regularmente,0,0,37,0,4,2,Mando,2,1,2,0,2,4.75
+17905,Lugo,Galicia,4,5,4,0,6,4,1,39,4,1,1,3,4,4,5,5,10,10,0,0,998,3,0,1,Regularmente,1,0,66,1,2,2,Director,2,1,1,0,2,3.25
+17973,Coruña,Galicia,4,5,4,5,6,5,1,1,4,1,0,4,5,4,5,5,6,6,0,1,7,3,1,1,Regularmente,1,0,51,0,4,2,Mando,2,1,1,0,2,4.5
+18004,Barcelona,Cataluña,3,3,4,4,6,5,1,0,0,0,0,3,3,4,3,4,8,0,0,0,30,3,1,1,Regularmente,0,0,51,0,2,2,Comerciante,1,1,1,0,2,3.5
+18024,Castellón,Comunidad Valenciana,5,5,5,0,6,5,1,49,5,1,1,4,5,5,4,5,10,10,0,0,1,3,0,1,Mensualmente,0,1,84,1,1,2,Obrero,1,1,1,0,2,3.75
+18150,Lérida,Cataluña,4,3,3,5,6,5,1,41,5,1,1,4,5,4,4,5,8,8,0,0,1,3,0,1,Regularmente,1,1,65,1,2,2,Comerciante,1,1,1,0,1,3.75
+18175,Barcelona,Cataluña,5,4,4,5,6,5,1,2,5,1,0,3,4,4,4,5,8,8,1,0,4,3,0,1,Regularmente,0,1,29,0,4,2,Mando,1,0,0,0,2,4.5
+18191,Orense,Galicia,5,5,4,0,6,5,1,4,5,1,1,3,4,5,4,5,5,5,0,0,2,3,0,1,Regularmente,0,1,21,1,2,1,Comerciante,1,1,1,1,1,3.5
+18279,Lugo,Galicia,4,5,3,0,5,1,1,53,4,1,1,3,4,5,4,5,8,9,0,0,1,3,0,1,Ocasionalmente,0,1,78,1,2,2,Obrero,1,1,1,0,2,3.0
+18293,Coruña,Galicia,4,5,3,4,5,4,1,34,4,1,1,3,4,4,4,4,4,5,0,0,10,3,0,1,Regularmente,1,0,60,1,2,2,Mando,1,1,1,0,2,4.0
+18315,Orense,Galicia,3,3,2,0,6,0,1,50,3,1,1,2,1,5,3,3,0,10,0,0,1,1,0,1,Sin actividad sexual,0,1,73,1,2,2,Comerciante,1,1,0,0,2,2.0
+18344,Barcelona,Cataluña,5,5,1,5,6,5,1,5,5,1,1,3,4,4,4,5,9,9,1,0,41,3,0,1,Regularmente,0,1,23,1,2,2,Mando,2,1,1,0,1,4.0
+18367,Tarragona,Cataluña,4,2,1,0,5,4,1,60,4,1,1,3,4,4,2,4,8,9,0,0,1,1,0,1,Ocasionalmente,1,1,78,1,1,2,Obrero,1,1,1,0,1,1.75
+18445,Lérida,Cataluña,5,5,2,4,5,4,1,8,4,1,1,3,4,4,2,4,8,10,0,0,45,3,0,1,Diariamente,0,0,34,1,1,2,Obrero,1,0,2,1,1,4.0
+18487,León,Castilla y León,5,3,4,0,6,5,1,45,5,1,1,4,5,5,5,3,0,10,0,0,1,3,0,1,Sin actividad sexual,0,1,67,1,2,2,Comerciante,1,1,0,1,2,3.0
+18493,Barcelona,Cataluña,2,3,2,2,5,4,1,0,2,0,0,3,3,4,3,4,8,8,1,0,3,3,1,1,Regularmente,0,0,29,0,2,2,Obrero,1,0,1,0,1,2.25
+18499,Alicante,Comunidad Valenciana,5,4,4,5,5,4,1,1,5,0,0,3,3,4,3,4,8,10,1,0,10,3,0,1,Regularmente,0,1,24,0,2,2,Obrero,1,1,1,0,2,4.5
+18509,Valencia,Comunidad Valenciana,4,3,3,4,6,5,1,19,4,1,1,3,4,4,4,5,8,7,0,0,40,3,1,1,Diariamente,1,0,43,1,2,2,Obrero,1,1,0,1,2,3.5
+18542,Castellón,Comunidad Valenciana,5,4,1,4,6,5,1,12,5,1,1,4,5,5,5,5,6,6,1,0,10,3,0,1,Regularmente,1,0,32,1,2,2,Obrero,1,1,0,0,1,3.5
+18547,Barcelona,Cataluña,4,1,2,0,6,4,1,28,5,1,1,3,4,4,4,4,8,8,0,0,3,3,0,1,Regularmente,0,0,47,1,2,2,Obrero,1,1,1,0,2,1.75
+18624,Ciudad Real,Castilla-La Mancha,2,4,4,2,3,2,1,24,4,1,1,3,2,4,4,4,8,4,1,0,1,1,0,1,Regularmente,0,0,48,1,3,2,Autónomo,2,1,1,0,2,3.0
+18650,Lérida,Cataluña,4,3,4,4,5,5,1,19,4,1,1,4,4,4,4,5,8,8,0,0,10,3,0,1,Mensualmente,1,0,52,1,2,2,Administrativo,1,1,1,1,2,3.75
+18668,Palma,Islas Baleares,5,1,2,0,6,0,1,60,5,1,1,3,2,5,5,4,10,10,0,0,1,3,0,1,Sin actividad sexual,0,1,77,1,1,2,Mando,2,1,1,0,2,2.0
+18696,Valencia,Comunidad Valenciana,5,5,4,0,5,4,1,43,4,1,1,3,4,4,4,5,9,8,0,0,9,3,0,1,Regularmente,0,0,69,1,2,2,Mando,1,1,1,1,2,3.5
+18730,Barcelona,Cataluña,4,3,4,0,5,4,1,9,4,1,1,3,4,3,4,4,5,3,1,0,2,3,0,1,Regularmente,0,0,66,1,3,2,Director,2,1,1,0,2,2.75
+18753,Soria,Castilla y León,5,5,4,3,6,4,1,10,5,0,0,3,3,4,3,4,6,8,1,0,1,3,0,1,Regularmente,0,1,26,0,3,0,Mando,1,1,1,0,1,4.25
+18866,Asturias,Principado de Asturias,2,1,4,0,3,1,1,38,1,1,1,0,1,4,4,1,10,0,0,0,500,1,0,1,Sin actividad sexual,0,0,68,1,3,2,Mando,1,1,1,0,2,1.75
+18870,Pontevedra,Galicia,4,5,2,0,6,4,1,4,4,0,0,3,3,4,3,4,8,8,1,0,7,3,0,1,Regularmente,0,1,26,0,4,0,Obrero,1,1,0,0,2,2.75
+18921,Barcelona,Cataluña,4,3,4,4,6,4,1,46,4,1,1,3,3,5,2,3,5,5,0,0,3,3,0,1,Mensualmente,1,0,76,1,4,2,Mando,1,1,1,0,2,3.75
+19009,Valencia,Comunidad Valenciana,5,5,5,0,6,5,1,1,5,0,0,3,3,4,3,4,8,8,0,0,3,3,0,1,Regularmente,1,1,21,0,2,1,Mando,2,1,1,0,1,3.75
+19048,Valencia,Comunidad Valenciana,4,5,5,0,6,4,1,42,4,1,1,3,4,4,5,4,8,8,0,0,1,3,0,1,Regularmente,1,1,66,1,3,2,Mando,1,1,1,0,2,3.5
+19053,Barcelona,Cataluña,5,4,3,4,6,5,1,32,5,1,1,3,4,4,4,4,8,10,0,0,2,3,0,1,Regularmente,0,0,57,1,2,2,Mando,1,1,1,0,1,4.0
+19079,Barcelona,Cataluña,4,5,4,4,5,4,1,30,4,1,1,3,4,4,4,4,9,6,0,0,1,3,0,1,Regularmente,0,0,55,1,2,2,Obrero,1,1,1,0,1,4.25
+19145,Asturias,Principado de Asturias,4,3,2,2,6,5,1,22,5,1,1,4,4,5,4,5,6,6,0,0,1,3,0,1,Regularmente,0,0,40,1,2,2,Obrero,1,1,1,0,2,2.75
+19247,Almería,Andalucía,4,4,4,4,6,4,1,15,4,1,1,3,4,4,5,5,8,7,0,0,25,3,0,1,Regularmente,0,0,43,1,4,2,Mando,2,1,1,0,2,4.0
+19249,Málaga,Andalucía,4,5,3,3,4,3,1,14,5,1,1,3,5,4,4,4,10,10,0,1,8,3,0,1,Regularmente,1,0,38,1,0,2,Obrero,1,1,1,0,2,3.75
+19278,Málaga,Andalucía,5,5,3,0,6,4,1,6,5,0,0,3,3,4,3,4,8,8,1,0,1,3,0,2,Regularmente,0,1,20,0,2,1,Obrero,1,1,1,1,2,3.25
+19301,Almería,Andalucía,5,3,4,0,6,5,1,43,5,1,1,4,5,4,5,4,10,10,0,0,1,3,0,1,Mensualmente,0,1,62,1,2,2,Administrativo,1,1,1,0,0,3.0
+19311,Málaga,Andalucía,5,4,5,4,5,5,1,4,5,1,1,3,4,4,4,5,8,8,0,0,1,3,0,2,Regularmente,0,1,28,1,2,2,Comerciante,1,1,1,1,2,4.5
+19369,Asturias,Principado de Asturias,5,4,5,5,6,4,1,31,5,1,0,4,5,5,5,5,9,8,0,0,20,3,1,1,Regularmente,0,0,53,0,2,2,Comerciante,2,1,1,0,2,4.75
+19387,Cádiz,Andalucía,5,5,2,2,6,5,1,1,5,0,0,3,3,4,3,4,5,6,1,0,4,3,0,2,Regularmente,0,1,25,0,3,0,Otro,1,1,0,1,2,3.5
+19489,Santander,Cantabria,3,3,3,0,5,3,1,47,4,1,1,4,5,5,5,3,7,10,0,0,1,1,0,1,Mensualmente,0,1,72,1,1,2,Obrero,1,1,1,0,0,2.25
+19523,Santa Cruz de Tenerife,Islas Canarias,4,5,4,0,6,5,1,1,5,0,0,3,3,4,3,4,9,9,1,0,1,3,0,1,Regularmente,0,0,19,0,2,1,Mando,1,1,1,0,2,3.25
+19634,Cádiz,Andalucía,5,4,4,5,6,5,1,17,4,1,1,3,5,5,4,4,8,8,0,0,7,3,0,1,Regularmente,0,0,43,1,2,2,Director,2,1,1,0,2,4.5
+19667,Jaén,Andalucía,4,3,3,0,6,1,1,50,5,1,1,4,4,5,5,4,10,10,0,0,1,3,0,1,Sin actividad sexual,0,1,75,0,0,2,Obrero,1,1,1,0,2,2.5
+19702,Almería,Andalucía,5,5,4,5,5,4,1,20,5,1,1,3,4,4,5,4,8,8,0,0,1,3,0,1,Regularmente,0,0,34,1,3,2,Mando,1,1,1,0,2,4.75
+19705,Cádiz,Andalucía,4,5,4,4,5,4,1,28,4,1,1,3,4,4,4,4,6,8,0,0,1,3,0,2,Regularmente,0,1,33,1,4,2,Mando,2,1,0,0,2,4.25
+19723,Almería,Andalucía,4,5,4,4,6,5,1,11,5,1,1,3,4,4,4,5,8,9,0,0,998,3,0,1,Regularmente,0,0,38,1,3,2,Mando,1,1,1,1,2,4.25
+19751,Murcia,Región de Murcia,4,5,4,4,5,3,1,20,3,1,1,3,4,4,4,4,8,9,0,0,1,3,0,1,Regularmente,0,0,40,0,2,0,Obrero,1,0,1,0,2,4.25
+19760,Málaga,Andalucía,3,3,3,0,4,3,1,46,3,1,1,3,4,4,4,4,7,7,0,0,1,1,0,1,Regularmente,0,1,70,1,0,2,Comerciante,1,1,1,1,2,2.25
+19858,Almería,Andalucía,5,5,5,0,5,4,1,48,4,1,1,4,4,5,5,4,5,5,0,0,1,3,0,1,Mensualmente,0,0,75,1,0,2,Obrero,1,1,1,1,1,3.75
+19874,Huelva,Andalucía,4,3,4,0,5,4,1,23,4,1,1,3,4,4,3,4,10,10,0,0,50,3,0,1,Regularmente,0,0,64,1,2,2,Obrero,1,1,1,0,2,2.75
+19916,Almería,Andalucía,4,5,2,2,5,5,1,4,4,1,1,3,4,4,1,5,8,6,1,0,6,3,0,1,Regularmente,0,0,27,1,2,2,Obrero,1,1,1,1,2,3.25
+19923,Jaén,Andalucía,5,5,4,4,5,4,1,7,4,0,0,3,3,4,3,4,9,8,0,0,1,3,0,1,Regularmente,0,0,22,0,2,1,Comerciante,1,1,1,0,1,4.5
+19937,Cádiz,Andalucía,3,2,4,1,3,4,1,8,4,1,1,4,5,4,4,2,5,3,0,0,12,3,1,2,Regularmente,1,0,38,1,2,2,Obrero,1,1,1,0,2,2.5
+20003,Santa Cruz de Tenerife,Islas Canarias,5,5,4,2,6,4,1,3,4,1,0,3,4,4,4,5,8,8,0,0,6,3,0,1,Regularmente,1,0,35,0,3,2,Obrero,1,1,2,1,1,4.0
+20004,Asturias,Principado de Asturias,4,4,4,0,6,4,1,2,5,0,0,3,3,4,3,4,6,5,1,0,2,3,0,1,Mensualmente,0,0,19,0,2,1,Autónomo,1,1,1,0,2,3.0
+20112,Cádiz,Andalucía,3,4,2,5,5,4,1,2,4,0,0,3,3,4,3,4,7,7,1,0,2,3,1,1,Regularmente,0,0,20,0,2,2,Obrero,1,1,1,1,2,3.5
+20153,Asturias,Principado de Asturias,4,4,4,0,6,4,1,40,5,1,1,4,5,5,5,5,8,8,0,0,7,3,1,1,Regularmente,0,0,60,1,2,2,Obrero,1,1,1,1,2,3.0
+20188,Guadalajara,Castilla-La Mancha,4,5,5,4,6,4,1,7,4,1,1,3,4,2,4,4,4,2,0,0,4,3,0,1,Regularmente,0,0,30,1,2,2,Obrero,1,1,1,0,2,4.5
+20249,Jaén,Andalucía,2,2,2,4,5,4,1,15,4,1,1,3,3,4,2,4,5,5,1,0,2,3,0,1,Regularmente,0,0,47,1,2,2,Obrero,1,1,1,0,2,2.5
+20261,Almería,Andalucía,4,3,4,4,6,5,1,2,5,0,0,3,3,4,3,4,9,9,1,0,1,3,0,1,Regularmente,1,0,18,0,1,0,Agricultor,1,1,1,1,2,3.75
+20310,Cádiz,Andalucía,4,5,2,2,5,4,1,2,4,0,0,3,3,4,3,4,7,8,1,0,5,3,1,2,Regularmente,0,1,27,0,2,2,Administrativo,1,1,1,0,2,3.25
+20327,Huelva,Andalucía,4,5,3,4,5,4,1,15,4,1,1,3,4,4,4,4,8,8,0,0,12,3,0,1,Regularmente,0,0,65,1,1,2,Obrero,1,1,1,0,1,4.0
+20384,Almería,Andalucía,4,5,2,4,6,5,1,3,5,1,0,4,5,5,4,5,9,9,1,0,2,3,0,1,Regularmente,0,1,25,0,2,2,Obrero,1,0,1,0,2,3.75
+20385,Cádiz,Andalucía,4,5,3,5,6,4,1,2,5,0,0,3,3,4,3,4,9,10,1,0,10,3,1,1,Regularmente,0,1,27,0,2,2,Obrero,1,1,0,0,1,4.25
+20442,Cádiz,Andalucía,4,5,2,2,3,4,1,8,4,0,0,3,3,4,3,4,8,8,1,0,5,3,0,1,Regularmente,0,0,26,0,2,2,Mando,1,1,0,0,2,3.25
+20536,Cádiz,Andalucía,3,5,2,1,5,4,1,18,4,1,1,4,3,4,4,4,8,9,0,0,1,3,0,1,Regularmente,0,1,32,1,2,2,Comerciante,1,1,1,0,1,2.75
+20550,Cádiz,Andalucía,5,5,3,4,5,4,1,8,5,0,0,3,3,4,3,4,5,8,0,0,1,1,0,1,Regularmente,0,1,23,0,2,2,Obrero,1,1,0,0,2,4.25
+20552,Sevilla,Andalucía,5,5,4,3,6,5,1,16,5,1,1,3,4,4,4,3,5,5,0,0,2,3,0,1,Regularmente,0,0,34,1,2,2,Obrero,1,1,0,0,1,4.25
+20601,Santander,Cantabria,4,5,4,0,5,4,1,31,5,1,1,3,3,4,4,4,10,7,0,0,4,3,0,2,Mensualmente,1,0,60,1,2,2,Obrero,1,1,1,0,2,3.25
+20680,Almería,Andalucía,4,2,2,0,2,1,1,48,1,1,1,2,3,5,2,1,10,0,1,0,2,0,0,1,Sin actividad sexual,0,0,78,1,0,2,Obrero,1,1,1,0,2,2.0
+20693,Las Palmas,Islas Canarias,4,4,4,5,6,5,1,7,5,0,0,3,3,4,3,4,8,8,1,0,7,3,1,1,Regularmente,1,0,30,0,2,2,Obrero,0,1,1,1,2,4.25
+20699,Huelva,Andalucía,4,5,2,2,5,4,1,9,4,1,0,3,4,5,4,4,7,7,1,0,12,3,1,1,Regularmente,1,0,37,0,2,2,Obrero,1,1,1,0,1,3.25
+20726,Huelva,Andalucía,5,5,5,5,6,5,1,6,5,1,1,3,4,4,4,4,8,8,0,0,5,3,0,1,Regularmente,0,0,22,1,3,2,Mando,1,1,1,0,2,5.0
+20771,Valencia,Comunidad Valenciana,5,4,4,0,5,4,1,55,5,1,1,4,5,5,5,4,5,5,0,0,1,1,0,1,Desconocido,0,0,67,1,2,2,Comerciante,2,1,1,0,2,3.25
+20810,Pontevedra,Galicia,5,5,4,0,5,4,1,3,5,1,1,4,5,5,4,5,8,8,1,0,2,3,0,1,Regularmente,0,1,23,1,2,0,Obrero,1,1,1,0,2,3.5
+20819,Murcia,Región de Murcia,5,3,3,5,6,4,1,35,5,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,0,0,58,1,2,2,Mando,1,1,1,0,2,4.0
+20876,Badajoz,Extremadura,5,4,5,5,6,5,1,18,5,1,1,4,4,5,5,5,9,9,1,0,1,3,0,1,Regularmente,0,0,38,1,4,2,Mando,2,1,0,1,2,4.75
+20894,Vizcaya,País Vasco,4,4,3,0,5,3,1,40,5,1,1,4,2,5,3,4,9,9,0,0,15,3,1,1,Regularmente,1,0,64,1,2,2,Obrero,1,1,0,0,2,2.75
+20943,Barcelona,Cataluña,5,5,4,5,6,4,1,32,4,1,1,3,4,4,4,4,6,6,0,0,4,3,0,1,Regularmente,1,0,56,1,2,2,Obrero,1,1,0,1,1,4.75
+20953,Jaén,Andalucía,4,5,2,2,5,4,1,38,4,1,1,3,2,4,4,4,8,5,0,0,1,3,0,1,Regularmente,0,0,54,1,2,2,Obrero,1,1,1,1,1,3.25
+21007,Guipúzcoa,País Vasco,4,5,4,2,5,3,1,17,3,1,0,2,4,4,3,4,4,2,1,0,5,3,0,1,Mensualmente,0,0,40,1,2,2,Administrativo,1,1,0,0,2,3.75
+21030,Vizcaya,País Vasco,5,4,4,4,6,5,1,25,5,1,1,3,3,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,1,46,1,2,2,Comerciante,1,1,1,0,1,4.25
+21031,Palma,Islas Baleares,5,4,5,1,5,4,1,15,5,1,1,3,5,5,5,5,10,10,0,0,998,3,0,1,Regularmente,0,0,37,0,2,2,Mando,1,1,0,1,2,3.75
+21034,Madrid,Comunidad de Madrid,4,4,2,1,6,5,1,1,4,0,0,3,3,4,3,4,9,8,1,0,4,3,0,2,Regularmente,0,1,20,0,2,1,Obrero,1,0,0,0,2,2.75
+21086,Valencia,Comunidad Valenciana,4,5,2,4,5,4,1,3,4,1,1,3,4,4,4,4,9,9,0,0,15,3,0,2,Regularmente,1,0,27,1,2,2,Otro,1,1,1,0,2,3.75
+21088,Orense,Galicia,3,3,4,0,5,4,1,43,5,1,1,3,5,4,3,3,8,8,0,0,1,3,0,1,Regularmente,0,0,65,1,2,2,Obrero,1,1,1,0,2,2.5
+21089,Alicante,Comunidad Valenciana,4,5,2,2,6,5,1,7,5,0,0,3,3,4,3,4,9,7,1,0,1,3,0,1,Regularmente,1,0,27,0,3,2,Obrero,0,1,1,0,2,3.25
+21111,Murcia,Región de Murcia,5,3,4,0,6,2,1,46,4,1,1,3,4,4,4,4,2,0,0,0,1,3,0,1,Sin actividad sexual,0,1,71,1,1,2,Obrero,1,1,1,0,0,3.0
+21116,Barcelona,Cataluña,5,4,3,5,6,5,1,8,5,1,1,3,4,3,4,4,10,10,0,0,2,3,0,1,Regularmente,1,0,25,1,2,2,Obrero,1,1,0,0,2,4.25
+21132,Guipúzcoa,País Vasco,4,5,5,4,6,5,1,24,5,1,1,3,4,3,4,5,10,10,0,0,1,3,0,1,Regularmente,0,0,40,1,2,2,Obrero,1,1,1,0,2,4.5
+21214,Valencia,Comunidad Valenciana,4,3,4,0,5,3,1,43,4,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,0,73,1,1,2,Obrero,1,1,1,0,2,2.75
+21229,Valencia,Comunidad Valenciana,5,5,3,0,5,4,1,46,5,1,1,3,4,5,4,5,7,9,0,0,1,3,0,1,Regularmente,1,1,70,1,2,2,Comerciante,1,1,1,0,2,3.25
+21241,Vizcaya,País Vasco,4,3,2,4,5,4,1,22,4,1,1,2,3,4,3,4,6,7,0,0,1,3,0,1,Regularmente,0,1,44,1,3,2,Autónomo,2,1,1,0,2,3.25
+21244,Coruña,Galicia,4,5,1,4,6,5,1,1,5,1,0,4,5,5,4,5,8,8,0,0,12,3,0,1,Diariamente,0,0,25,0,2,2,Mando,1,1,0,0,2,3.5
+21289,Alicante,Comunidad Valenciana,3,3,1,0,2,1,1,40,4,1,1,3,3,4,4,2,5,3,0,0,1,1,0,1,Sin actividad sexual,0,1,60,1,2,2,Comerciante,1,1,1,1,2,1.75
+21342,Palencia,Castilla y León,5,5,4,5,6,4,1,23,5,1,1,3,4,4,4,4,10,10,0,0,3,3,0,1,Mensualmente,0,0,40,1,2,2,Obrero,1,1,0,0,2,4.75
+21348,Barcelona,Cataluña,2,5,4,0,5,1,1,47,4,1,1,2,4,4,4,2,5,5,0,0,1,3,0,1,Sin actividad sexual,0,0,82,1,0,2,Obrero,0,1,0,0,2,2.75
+21368,Guipúzcoa,País Vasco,4,5,4,4,6,4,1,35,4,1,1,4,4,4,4,4,8,8,0,0,1,3,1,1,Regularmente,0,0,56,1,1,2,Obrero,1,1,1,0,1,4.25
+21411,Madrid,Comunidad de Madrid,5,4,4,2,6,5,1,0,5,0,0,3,3,4,3,4,7,7,1,0,2,3,0,1,Regularmente,0,0,26,0,4,2,Administrativo,1,1,1,0,1,3.75
+21477,Valencia,Comunidad Valenciana,5,5,4,4,6,4,1,8,5,1,1,3,4,4,4,4,7,5,0,0,20,3,0,1,Regularmente,0,0,34,1,4,2,Autónomo,2,1,0,0,2,4.5
+21510,Badajoz,Extremadura,5,3,4,5,5,4,1,2,4,1,0,3,5,5,5,5,7,8,1,1,7,3,0,2,Regularmente,0,0,26,0,2,2,Mando,1,1,0,1,2,4.25
+21565,Ávila,Castilla y León,4,3,4,0,6,4,1,47,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,72,1,2,2,Obrero,1,1,1,0,2,2.75
+21569,Coruña,Galicia,5,5,4,0,5,4,1,65,5,1,1,4,4,4,4,4,8,8,0,0,1,1,0,1,Regularmente,1,0,84,1,2,2,Director,2,1,1,0,1,3.5
+21594,Vizcaya,País Vasco,5,5,4,5,6,5,1,17,5,1,1,3,4,4,4,4,9,9,0,0,1,3,0,1,Regularmente,0,0,35,1,2,2,Obrero,1,1,0,1,2,4.75
+21606,Barcelona,Cataluña,3,5,4,4,5,4,1,10,4,0,0,3,3,4,3,4,8,7,0,0,2,3,0,1,Regularmente,1,0,46,0,1,2,Obrero,1,1,1,0,1,4.0
+21688,Soria,Castilla y León,4,5,4,4,5,5,1,20,5,1,1,4,5,5,5,5,10,10,1,0,1,3,0,1,Regularmente,0,0,43,1,4,2,Mando,1,1,1,1,2,4.25
+21691,Ciudad Real,Castilla-La Mancha,4,3,4,4,5,4,1,5,4,0,0,3,3,4,3,4,6,6,1,0,1,3,0,1,Regularmente,0,0,23,0,3,2,Agricultor,1,1,1,1,1,3.75
+21695,Lugo,Galicia,4,5,4,4,5,5,1,20,5,1,1,4,5,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,47,1,2,2,Obrero,1,1,1,1,1,4.25
+21721,Coruña,Galicia,4,5,2,4,6,4,1,9,4,1,0,3,4,4,4,4,10,10,0,0,7,3,0,1,Regularmente,1,0,28,0,2,2,Mando,1,1,1,0,2,3.75
+21882,Barcelona,Cataluña,4,2,2,1,3,2,1,18,2,1,1,3,4,4,2,2,8,3,0,0,4,3,1,1,Mensualmente,1,0,40,1,2,2,Mando,2,1,0,1,2,2.25
+21959,León,Castilla y León,4,5,4,4,5,4,1,18,5,1,1,4,5,4,4,5,5,5,0,0,1,3,0,1,Regularmente,0,0,39,1,2,2,Comerciante,1,1,1,0,2,4.25
+21985,Palma,Islas Baleares,4,5,4,4,6,5,1,7,4,0,0,3,3,4,3,4,8,8,0,0,30,3,0,1,Regularmente,1,0,37,0,3,2,Autónomo,2,1,0,0,2,4.25
+22004,Segovia,Castilla y León,4,5,4,4,6,5,1,25,4,1,1,4,4,4,4,4,5,5,0,0,5,3,0,1,Regularmente,0,0,54,1,2,2,Obrero,1,1,1,1,1,4.25
+22103,Vizcaya,País Vasco,5,5,4,4,6,5,1,10,5,1,1,4,4,5,4,5,7,7,0,1,5,3,0,1,Regularmente,0,0,37,1,2,2,Obrero,1,1,0,0,2,4.5
+22192,Lugo,Galicia,4,5,4,0,5,4,1,42,5,1,1,3,3,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,0,68,1,2,2,Obrero,1,1,1,0,2,3.25
+22203,Álava,País Vasco,4,5,2,4,6,5,1,1,5,0,0,3,3,4,3,4,7,7,1,0,5,3,0,1,Regularmente,0,1,26,0,4,2,Mando,1,1,0,0,0,3.75
+22233,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,35,4,1,1,3,4,4,4,4,7,7,0,0,10,3,0,1,Regularmente,0,0,70,1,2,2,Mando,1,1,0,0,1,3.25
+22238,Madrid,Comunidad de Madrid,4,5,4,0,5,4,1,49,5,1,1,4,4,4,4,4,9,9,0,0,12,3,0,1,Regularmente,0,0,74,1,2,2,Mando,1,1,1,1,2,3.25
+22337,Guipúzcoa,País Vasco,4,3,4,0,2,1,1,47,4,1,1,4,4,5,4,4,8,8,0,0,1,3,0,1,Mensualmente,1,0,70,1,2,2,Obrero,1,1,1,0,1,2.75
+22377,Pontevedra,Galicia,4,5,2,4,6,5,1,7,5,1,0,4,3,4,4,5,4,5,1,1,2,3,0,1,Regularmente,1,1,24,0,2,2,Comerciante,1,1,0,0,2,3.75
+22382,Ciudad Real,Castilla-La Mancha,5,5,2,5,6,4,1,12,4,1,1,4,3,5,5,5,7,10,1,0,2,3,0,1,Regularmente,0,1,31,1,2,0,Mando,1,1,1,1,1,4.25
+22519,Alicante,Comunidad Valenciana,5,5,2,4,6,5,1,13,5,1,1,4,4,3,2,5,10,10,0,0,998,3,0,1,Diariamente,1,0,40,1,2,2,Comerciante,1,0,1,0,2,4.0
+22526,Barcelona,Cataluña,4,5,4,4,6,4,1,10,5,1,0,3,5,5,2,4,6,5,1,0,998,3,0,1,Regularmente,1,0,29,0,4,2,Autónomo,2,1,0,0,2,4.25
+22535,Ávila,Castilla y León,5,5,3,3,5,4,1,30,4,1,1,4,5,5,4,5,10,10,0,0,4,3,0,1,Regularmente,1,0,56,1,2,2,Comerciante,1,1,1,0,2,4.0
+22550,Cáceres,Extremadura,5,2,3,0,6,4,1,40,5,1,1,4,4,5,4,4,9,9,0,0,1,3,0,1,Mensualmente,1,0,67,1,4,2,Director,2,1,1,1,1,2.5
+22606,Ávila,Castilla y León,4,4,3,4,5,4,1,12,5,1,1,4,5,4,3,5,7,7,0,0,4,3,0,1,Regularmente,0,0,40,1,2,2,Comerciante,1,1,0,0,2,3.75
+22697,Barcelona,Cataluña,4,5,4,4,5,4,1,39,4,1,1,2,4,4,3,4,6,6,0,0,1,3,0,1,Desconocido,0,0,63,1,2,2,Otro,1,1,1,0,1,4.25
+22761,Jaén,Andalucía,5,4,5,2,6,4,1,6,5,1,1,4,4,5,4,5,7,6,1,0,2,3,0,1,Regularmente,1,1,28,1,2,2,Administrativo,1,1,1,0,1,4.0
+22808,Tarragona,Cataluña,4,5,3,4,5,4,1,8,4,1,0,3,2,4,2,4,8,8,1,0,1,3,1,1,Regularmente,0,0,25,0,3,2,Mando,1,1,0,0,2,4.0
+22863,Vizcaya,País Vasco,2,5,4,5,2,1,1,40,1,1,1,2,3,5,4,1,8,10,0,0,1,3,0,1,Sin actividad sexual,0,1,67,1,2,2,Administrativo,1,1,1,1,2,4.0
+22894,Vizcaya,País Vasco,4,5,2,2,3,2,1,11,4,1,1,3,4,4,4,3,6,3,1,0,12,3,1,1,Regularmente,0,0,45,1,2,2,Obrero,1,1,2,0,2,3.25
+22996,Vizcaya,País Vasco,4,3,4,0,5,0,1,54,4,1,1,2,4,5,4,0,10,10,0,0,1,3,0,1,Sin actividad sexual,0,0,78,1,2,2,Obrero,1,1,1,0,2,2.75
+23002,Valencia,Comunidad Valenciana,5,5,4,4,5,4,1,8,5,0,0,3,3,4,3,4,8,8,1,0,1,3,0,1,Regularmente,0,1,25,0,4,1,Mando,1,1,0,0,2,4.5
+23064,Alicante,Comunidad Valenciana,4,3,4,4,6,5,1,8,4,0,0,3,3,4,3,4,7,8,1,0,1,3,0,1,Regularmente,1,0,27,0,3,2,Obrero,1,1,0,0,2,3.75
+23127,Coruña,Galicia,4,5,2,4,5,3,1,45,4,1,1,3,3,5,3,3,3,3,0,0,1,3,0,1,Ocasionalmente,0,1,66,1,0,2,Autónomo,1,1,1,0,2,3.75
+23214,Ciudad Real,Castilla-La Mancha,5,4,4,2,4,2,1,9,4,1,0,3,4,4,4,4,6,4,0,0,5,3,0,1,Regularmente,0,0,31,1,2,2,Obrero,1,1,1,0,0,3.75
+23333,Barcelona,Cataluña,4,5,4,4,6,5,1,8,5,1,1,4,5,5,5,5,7,7,0,0,6,3,0,1,Regularmente,0,0,39,1,4,2,Administrativo,1,1,0,1,2,4.25
+23378,Segovia,Castilla y León,5,4,5,0,5,0,1,58,5,1,1,4,4,4,5,5,8,8,0,0,1,3,0,1,Sin actividad sexual,0,0,81,1,4,2,Mando,1,1,1,1,2,3.5
+23542,Barcelona,Cataluña,5,5,3,0,6,4,1,52,5,1,1,3,4,5,4,4,5,5,1,0,4,3,0,1,Regularmente,0,0,78,1,1,2,Comerciante,1,1,0,0,2,3.25
+23568,Alicante,Comunidad Valenciana,4,5,4,0,5,4,1,10,4,1,0,3,4,4,4,4,8,8,0,0,2,3,0,1,Regularmente,1,1,65,0,2,2,Obrero,1,1,1,0,2,3.25
+23576,Badajoz,Extremadura,3,4,4,0,2,1,1,40,5,1,1,3,5,4,4,5,9,9,0,0,10,3,0,1,Regularmente,0,0,65,1,1,2,Agricultor,0,1,0,0,2,2.75
+23579,Pontevedra,Galicia,4,2,1,2,5,4,1,13,5,1,1,3,4,3,3,5,8,8,1,0,2,3,0,1,Regularmente,0,0,33,1,2,2,Obrero,1,1,1,1,2,2.25
+23618,Lérida,Cataluña,4,5,4,0,5,0,1,47,5,1,1,4,4,5,4,4,7,10,0,0,1,2,0,1,Ocasionalmente,0,1,67,1,2,2,Obrero,1,1,1,0,1,3.25
+23629,Barcelona,Cataluña,5,5,4,5,6,5,1,5,5,1,0,4,5,4,4,4,10,10,0,0,10,3,1,2,Regularmente,1,0,49,0,4,2,Obrero,1,0,1,1,2,4.75
+23670,Albacete,Castilla-La Mancha,4,5,3,4,5,4,1,25,4,1,1,3,4,4,4,4,7,7,0,1,3,3,0,2,Regularmente,1,0,44,1,2,2,Obrero,1,1,0,1,2,4.0
+23722,Santander,Cantabria,4,5,2,4,6,4,1,8,4,1,1,4,4,5,4,5,8,8,1,0,10,3,0,1,Regularmente,1,0,33,1,2,2,Obrero,1,1,0,1,2,3.75
+23773,Barcelona,Cataluña,5,3,3,4,5,4,1,30,4,1,1,2,4,5,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,59,1,1,2,Obrero,1,1,1,1,2,3.75
+23786,Barcelona,Cataluña,4,5,4,4,3,2,1,25,4,1,1,3,4,4,4,3,10,10,0,0,1,3,0,1,Mensualmente,0,0,59,1,1,2,Obrero,1,1,0,1,1,4.25
+23850,Guipúzcoa,País Vasco,4,5,4,4,5,5,1,12,4,1,1,3,4,4,4,4,5,5,1,0,2,3,0,1,Desconocido,0,1,33,1,3,2,Autónomo,2,1,1,0,2,4.25
+23950,Murcia,Región de Murcia,5,5,3,2,6,4,1,17,5,1,1,4,3,5,4,5,8,6,0,0,1,3,0,1,Mensualmente,0,0,43,1,2,2,Obrero,1,1,2,1,2,3.75
+23986,Guipúzcoa,País Vasco,5,5,3,0,6,5,1,43,5,1,1,4,4,4,4,5,2,10,0,0,1,3,0,1,Diariamente,0,1,66,1,1,2,Autónomo,1,1,1,0,2,3.25
+24101,Ávila,Castilla y León,4,5,2,4,5,4,1,28,4,1,1,3,5,5,3,5,5,5,1,0,3,3,0,1,Regularmente,0,0,42,1,2,2,Obrero,1,1,1,0,2,3.75
+24202,Barcelona,Cataluña,4,5,4,4,5,4,1,6,4,1,0,3,3,5,5,4,5,5,1,0,40,3,0,1,Regularmente,0,0,35,0,4,2,Mando,1,1,0,0,2,4.25
+24398,Murcia,Región de Murcia,4,4,5,0,6,5,1,2,5,0,0,3,3,4,3,4,9,7,1,0,10,3,0,1,Regularmente,1,0,21,0,2,1,Director,2,1,1,1,2,3.25
+24413,Álava,País Vasco,3,5,2,0,5,3,1,41,4,1,1,3,4,4,4,4,8,8,0,0,998,2,0,1,Ocasionalmente,0,0,72,1,2,2,Obrero,1,1,1,0,1,2.5
+24575,Lugo,Galicia,5,5,3,4,5,4,1,8,4,1,1,4,4,3,4,5,7,7,0,0,3,3,0,1,Regularmente,0,1,34,1,2,2,Administrativo,1,1,0,1,1,4.25
+24629,Alicante,Comunidad Valenciana,4,5,4,4,6,5,1,35,5,1,1,3,5,4,4,4,8,8,0,0,1,3,0,1,Regularmente,0,0,55,1,2,2,Mando,1,1,0,0,2,4.25
+24734,Guipúzcoa,País Vasco,1,5,2,4,3,2,1,20,2,1,1,2,4,4,3,4,8,8,1,0,4,2,1,2,Mensualmente,0,0,44,1,4,2,Mando,1,1,0,0,1,3.0
+24758,Barcelona,Cataluña,5,5,4,3,4,4,1,3,4,1,0,3,4,4,4,4,10,10,0,0,998,3,1,1,Regularmente,0,0,39,0,2,2,Otro,1,1,0,0,2,4.25
+24772,Huesca,Aragón,4,5,4,2,5,5,1,13,5,1,1,3,4,4,4,4,8,9,1,0,1,3,0,1,Regularmente,0,1,32,1,3,2,Administrativo,1,1,1,0,1,3.75
+24803,Coruña,Galicia,5,4,4,4,6,4,1,6,5,1,0,3,4,5,5,5,8,10,0,0,2,3,0,1,Regularmente,0,1,23,0,4,2,Mando,2,1,0,0,2,4.25
+24805,Murcia,Región de Murcia,4,5,4,4,5,0,1,0,4,0,0,3,3,4,3,4,10,10,1,0,41,1,0,1,Regularmente,0,1,24,0,2,2,Obrero,1,1,1,0,1,4.25
+24867,Vizcaya,País Vasco,4,5,4,4,6,5,1,1,4,1,0,3,5,3,4,5,9,9,1,0,8,3,1,2,Diariamente,0,0,31,0,3,2,Mando,1,1,0,0,2,4.25
+24902,Teruel,Aragón,3,3,2,3,5,4,1,13,4,1,1,2,3,4,4,4,6,5,0,0,1,2,0,1,Regularmente,1,0,50,1,3,2,Administrativo,1,1,1,1,1,2.75
+24971,Madrid,Comunidad de Madrid,3,5,2,3,4,3,1,15,3,1,1,3,4,4,3,3,7,4,0,0,20,3,1,1,Mensualmente,1,0,44,1,4,2,Mando,1,1,0,1,2,3.25
+25018,Álava,País Vasco,3,3,2,3,4,4,1,3,4,0,0,3,3,4,3,4,8,8,1,1,998,3,0,2,Regularmente,1,0,38,0,2,2,Mando,1,1,0,0,2,2.75
+25059,Vizcaya,País Vasco,5,5,5,5,6,4,1,10,5,1,1,4,5,5,5,4,7,6,1,0,6,3,0,1,Regularmente,0,0,37,1,4,2,Mando,1,1,1,1,0,5.0
+25116,Madrid,Comunidad de Madrid,4,5,1,2,6,4,1,16,4,1,0,4,4,4,2,4,8,8,0,0,1,3,0,1,Regularmente,0,0,31,0,2,2,Administrativo,1,1,2,0,1,3.0
+25133,Alicante,Comunidad Valenciana,4,3,4,0,5,1,1,46,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Sin actividad sexual,0,1,67,1,0,2,Obrero,0,1,1,0,2,2.75
+25137,Álava,País Vasco,4,3,3,0,5,4,1,44,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Mensualmente,0,1,73,1,0,2,Obrero,1,1,1,1,1,2.5
+25339,Barcelona,Cataluña,4,5,1,0,6,4,1,50,4,1,1,3,4,4,2,4,8,9,0,0,1,3,0,1,Regularmente,1,1,76,1,0,2,Obrero,0,1,0,0,2,2.5
+25372,Barcelona,Cataluña,5,4,4,4,5,4,1,17,5,1,1,3,4,4,4,4,7,5,1,0,5,3,0,1,Regularmente,0,0,40,1,2,2,Mando,1,1,1,0,2,4.25
+25384,Barcelona,Cataluña,5,1,4,0,6,5,1,17,5,1,0,4,4,4,5,4,5,5,0,0,4,3,0,1,Regularmente,0,0,43,0,2,2,Mando,1,1,0,0,2,2.5
+25447,Alicante,Comunidad Valenciana,3,5,2,4,5,2,1,15,4,1,1,3,4,4,4,4,8,10,1,0,1,3,0,1,Regularmente,0,0,44,1,2,2,Obrero,1,1,1,1,2,3.5
+25522,Barcelona,Cataluña,4,5,4,4,5,4,1,27,4,1,1,4,4,4,4,4,8,7,0,0,2,3,0,2,Regularmente,1,0,49,1,2,2,Administrativo,1,1,1,0,2,4.25
+25547,Murcia,Región de Murcia,4,5,4,5,5,4,1,38,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Regularmente,0,0,57,1,2,2,Obrero,1,1,1,1,2,4.5
+25561,Pontevedra,Galicia,5,5,4,0,6,5,1,0,4,0,0,3,3,4,3,4,7,6,0,0,6,3,0,1,Regularmente,1,0,22,0,2,1,Mando,1,1,0,0,2,3.5
+25724,Rioja,La Rioja,5,4,5,5,6,5,1,15,5,1,1,4,5,4,4,4,8,8,0,0,5,3,0,1,Regularmente,0,0,40,1,2,2,Comerciante,2,1,1,0,1,4.75
+25741,Gerona,Cataluña,5,4,2,3,5,4,1,8,4,1,0,3,3,4,4,4,10,10,1,0,20,3,1,1,Regularmente,0,0,33,0,4,2,Director,2,0,1,0,2,3.5
+25787,Guipúzcoa,País Vasco,3,4,3,0,6,1,1,40,4,1,1,3,5,5,3,0,5,5,1,0,1,3,0,0,Desconocido,0,0,65,1,2,2,Mando,1,1,1,0,1,2.5
+25897,Alicante,Comunidad Valenciana,5,4,4,0,6,5,1,49,5,1,1,4,5,5,5,5,9,9,0,0,1,3,0,1,Mensualmente,1,1,70,1,0,2,Obrero,1,1,1,1,2,3.25
+26013,Alicante,Comunidad Valenciana,3,2,4,5,2,1,1,40,3,1,1,1,4,5,3,3,10,10,0,0,1,3,0,1,Regularmente,0,1,65,1,1,2,Obrero,1,1,1,0,2,3.5
+26049,Murcia,Región de Murcia,5,5,4,4,6,5,1,14,5,1,1,3,4,5,4,5,10,10,0,0,2,3,0,1,Regularmente,0,1,31,1,2,2,Obrero,1,1,1,0,2,4.5
+26088,Guipúzcoa,País Vasco,5,4,4,4,6,4,1,8,5,1,0,4,4,4,4,4,8,8,0,0,15,3,1,1,Regularmente,1,0,32,0,2,2,Obrero,1,1,0,1,1,4.25
+26099,Murcia,Región de Murcia,4,3,4,4,6,4,1,0,4,0,0,3,3,4,3,4,6,8,1,0,2,3,0,1,Regularmente,1,1,33,0,3,2,Mando,1,1,0,1,2,3.75
+26289,Madrid,Comunidad de Madrid,4,5,4,4,5,4,1,10,4,1,0,3,4,5,5,5,8,8,0,0,4,3,0,1,Regularmente,0,0,30,0,4,2,Mando,1,1,1,0,2,4.25
+26344,Huelva,Andalucía,4,4,5,0,5,5,1,6,4,0,0,3,3,4,3,4,7,8,1,0,2,3,1,2,Regularmente,0,1,19,0,2,1,Comerciante,2,1,0,1,1,3.25
+26391,Santander,Cantabria,5,3,3,0,5,4,1,32,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Mensualmente,1,0,54,1,2,2,Administrativo,1,1,0,1,1,2.75
+26416,Soria,Castilla y León,4,5,4,0,5,4,1,50,4,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Mensualmente,0,0,76,1,2,2,Obrero,1,1,1,1,1,3.25
+26454,Santander,Cantabria,4,3,4,0,4,3,1,40,4,1,1,3,4,4,4,4,6,6,0,0,1,3,0,1,Mensualmente,1,0,65,1,2,2,Obrero,1,1,1,1,2,2.75
+26457,Alicante,Comunidad Valenciana,5,3,2,0,6,2,1,39,5,1,1,4,5,4,5,4,6,6,0,0,1,3,0,1,Regularmente,0,0,62,1,1,2,Obrero,1,1,1,1,1,2.5
+26463,Santander,Cantabria,5,3,4,0,5,4,1,44,4,1,1,3,5,5,4,5,8,10,0,0,1,3,0,1,Regularmente,1,1,63,1,2,2,Mando,1,1,1,0,2,3.0
+26505,Madrid,Comunidad de Madrid,4,5,2,2,5,4,1,6,4,0,0,3,3,4,3,4,9,9,1,0,6,3,0,1,Regularmente,0,0,26,0,2,2,Obrero,1,1,0,0,1,3.25
+26596,Santander,Cantabria,4,4,4,4,5,4,1,0,4,0,0,3,3,4,3,4,8,8,0,0,6,3,1,1,Regularmente,0,1,33,0,2,2,Obrero,1,1,0,0,2,4.0
+26619,Vizcaya,País Vasco,4,5,4,0,5,2,1,35,4,1,1,3,4,4,4,4,5,5,0,0,1,1,0,1,Regularmente,0,1,60,1,2,2,Obrero,1,1,1,0,1,3.25
+26627,Barcelona,Cataluña,3,4,2,5,2,4,1,3,1,0,0,3,3,4,3,4,4,4,1,0,3,3,1,1,Regularmente,0,0,20,0,2,2,Mando,1,1,0,0,0,3.5
+26634,Orense,Galicia,3,3,3,0,2,0,1,56,1,0,0,3,3,4,3,4,10,0,0,0,1,1,0,1,Sin actividad sexual,0,1,78,1,2,2,Obrero,1,1,1,0,2,2.25
+26650,Huelva,Andalucía,3,5,3,4,5,4,1,20,4,1,1,3,4,3,4,4,7,6,0,0,2,3,0,1,Regularmente,0,0,48,1,3,2,Mando,2,1,0,0,2,3.75
+26774,Teruel,Aragón,4,5,4,4,6,4,1,20,4,1,1,3,5,4,3,4,10,7,1,0,3,3,0,1,Ocasionalmente,0,0,65,1,0,2,Agricultor,1,1,1,0,2,4.25
+26886,Jaén,Andalucía,4,3,2,0,6,4,1,47,4,1,1,3,4,4,4,4,8,10,0,0,1,3,0,1,Regularmente,0,1,72,1,0,2,Obrero,1,1,1,0,0,2.25
+26889,Guipúzcoa,País Vasco,5,4,4,0,5,4,1,34,4,1,1,3,4,4,4,4,6,4,0,0,1,3,0,1,Regularmente,0,0,61,1,4,2,Mando,2,1,0,0,2,3.25
+27068,Barcelona,Cataluña,5,4,4,4,6,4,1,38,5,1,1,3,4,4,4,4,8,5,0,0,80,3,1,1,Regularmente,0,0,52,1,4,2,Obrero,1,1,1,0,2,4.25
+27119,Guipúzcoa,País Vasco,4,4,4,0,6,5,1,7,5,0,0,3,3,4,3,4,8,8,1,0,1,3,0,1,Regularmente,0,1,26,0,2,0,Obrero,1,1,0,0,2,3.0
+27162,Alicante,Comunidad Valenciana,4,5,4,4,6,4,1,34,4,1,1,3,4,4,4,4,8,6,0,0,1,3,0,1,Regularmente,0,0,59,1,2,0,Obrero,1,1,0,0,1,4.25
+27197,Alicante,Comunidad Valenciana,3,5,3,0,5,3,1,48,4,1,1,3,4,4,4,4,8,8,0,0,30,3,0,1,Regularmente,0,0,66,1,2,2,Obrero,1,1,1,1,1,2.75
+27218,Sevilla,Andalucía,5,3,2,2,5,3,1,3,4,0,0,3,3,4,3,4,7,5,1,0,3,3,1,1,Regularmente,0,0,34,0,2,2,Mando,1,1,1,0,2,3.0
+27345,Sevilla,Andalucía,4,5,4,5,5,4,1,24,4,1,1,3,3,4,4,4,7,6,0,0,4,3,1,1,Regularmente,0,0,58,1,2,2,Administrativo,1,1,1,1,2,4.5
+27382,Madrid,Comunidad de Madrid,5,5,4,0,5,4,1,45,4,1,1,3,4,4,4,4,10,10,0,0,2,3,0,1,Regularmente,0,0,75,1,1,2,Obrero,1,1,1,0,2,3.5
+27386,Orense,Galicia,4,5,2,4,5,4,1,25,4,1,1,4,5,4,4,4,10,10,0,0,1,3,0,1,Regularmente,1,0,49,1,2,2,Obrero,1,1,1,1,1,3.75
+27410,Huelva,Andalucía,4,5,4,4,5,4,1,3,4,0,0,3,3,4,3,4,6,8,0,0,1,3,0,1,Regularmente,1,1,24,0,1,2,Obrero,1,1,1,0,1,4.25
+27416,Huelva,Andalucía,3,3,3,0,4,3,1,31,3,1,1,3,4,3,4,3,7,7,1,0,6,3,1,1,Regularmente,0,0,53,1,2,2,Obrero,1,1,0,0,2,2.25
+27524,Madrid,Comunidad de Madrid,5,5,4,5,6,5,1,3,5,1,1,3,5,5,4,4,7,7,0,0,3,1,0,1,Diariamente,0,1,32,1,3,2,Mando,1,1,1,0,2,4.75
+27645,Segovia,Castilla y León,4,5,4,4,5,4,1,20,4,1,1,3,4,4,4,4,7,5,0,0,10,3,1,1,Regularmente,0,0,40,1,3,2,Mando,1,1,1,0,1,4.25
+27721,Rioja,La Rioja,4,3,3,0,6,5,1,35,4,1,1,3,4,4,3,4,8,8,0,0,1,3,0,1,Regularmente,0,1,53,1,2,2,Agricultor,1,1,1,0,1,2.5
+27752,Barcelona,Cataluña,5,5,4,5,5,5,1,2,4,0,0,3,3,4,3,4,6,6,1,0,6,3,0,1,Regularmente,0,0,23,0,2,2,Autónomo,1,1,1,0,1,4.75
+27849,Huesca,Aragón,5,5,4,4,6,5,1,0,5,1,0,4,5,5,4,5,10,10,1,0,4,3,0,1,Regularmente,1,1,24,0,3,2,Obrero,1,1,0,0,2,4.5
+27908,Guipúzcoa,País Vasco,3,5,4,0,5,3,1,57,4,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Mensualmente,0,0,85,1,1,2,Obrero,1,1,1,1,2,3.0
+27934,Sevilla,Andalucía,2,5,2,4,5,4,1,10,4,1,0,3,2,4,2,4,4,5,0,0,5,3,1,1,Regularmente,1,0,44,0,2,2,Obrero,1,1,0,0,2,3.25
+28066,Huelva,Andalucía,4,5,4,4,6,5,1,26,5,1,1,4,5,5,5,5,5,5,1,0,3,3,0,1,Regularmente,0,0,50,1,3,2,Obrero,1,1,0,1,2,4.25
+28070,Huelva,Andalucía,4,5,4,4,6,5,1,22,5,1,1,4,4,4,4,4,8,6,0,0,1,3,1,1,Regularmente,0,0,48,1,2,2,Obrero,1,1,0,0,1,4.25
+28080,Madrid,Comunidad de Madrid,5,3,5,0,5,3,1,40,5,1,1,3,4,4,4,4,7,7,0,0,1,3,0,1,Regularmente,1,1,64,1,2,2,Obrero,1,1,1,1,2,3.25
+28157,Málaga,Andalucía,4,2,4,0,6,4,1,20,4,1,1,4,5,5,5,5,8,8,0,0,6,3,0,1,Ocasionalmente,0,0,42,1,4,2,Mando,2,1,1,0,2,2.5
+28184,Soria,Castilla y León,3,5,4,4,4,4,1,24,4,1,1,3,4,4,4,4,8,10,1,0,1,3,0,1,Regularmente,0,0,54,1,2,2,Obrero,1,1,1,0,0,4.0
+28231,Álava,País Vasco,5,4,5,4,6,5,1,0,4,0,0,3,3,4,3,4,6,10,1,0,3,3,0,1,Regularmente,1,1,20,0,2,1,Otro,1,1,0,0,1,4.5
+28293,Madrid,Comunidad de Madrid,5,5,2,2,6,5,1,4,5,1,0,3,3,5,4,4,8,8,1,0,8,1,0,1,Regularmente,0,0,21,1,2,2,Obrero,1,1,0,0,2,3.5
+28328,Madrid,Comunidad de Madrid,4,4,4,4,6,5,1,22,5,1,1,4,4,4,5,5,8,6,0,0,1,3,0,1,Regularmente,0,0,39,1,3,2,Comerciante,2,1,1,0,2,4.0
+28356,Álava,País Vasco,4,2,2,0,4,2,1,36,4,1,1,3,4,5,2,4,8,8,0,0,1,3,0,1,Mensualmente,1,0,65,1,2,2,Obrero,1,1,1,1,2,2.0
+28362,Málaga,Andalucía,4,5,4,3,5,4,1,4,5,1,1,3,4,5,4,5,8,8,1,0,5,3,0,1,Regularmente,0,1,29,1,4,2,Administrativo,1,1,1,0,1,4.0
+28399,Huelva,Andalucía,4,3,3,3,3,1,1,8,4,0,0,3,3,4,3,4,6,6,0,0,12,3,1,1,Regularmente,0,0,45,0,2,2,Obrero,1,1,0,0,2,3.25
+28567,Barcelona,Cataluña,4,5,4,4,5,4,1,29,4,1,1,3,3,4,4,3,8,5,0,0,16,1,0,1,Regularmente,0,0,55,1,0,2,Obrero,1,1,1,0,2,4.25
+28732,Guipúzcoa,País Vasco,5,4,4,5,6,5,1,2,5,1,0,4,3,5,4,5,5,5,0,0,50,3,1,2,Regularmente,0,0,34,0,2,2,Comerciante,1,1,0,0,2,4.5
+28915,Sevilla,Andalucía,5,3,4,0,6,5,1,40,5,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Regularmente,1,0,69,1,3,2,Mando,1,1,1,0,1,3.0
+28997,Huelva,Andalucía,5,5,4,0,6,4,1,43,5,1,1,3,4,4,4,4,10,10,0,0,1,3,0,1,Mensualmente,1,1,67,1,2,2,Obrero,1,1,1,1,2,3.5
+29303,Álava,País Vasco,4,4,3,0,5,3,1,30,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Desconocido,0,0,67,1,2,2,Comerciante,1,1,1,0,1,2.75
+29347,Zamora,Castilla y León,4,4,4,4,5,4,1,1,5,0,0,3,3,4,3,4,6,10,0,0,20,3,1,1,Regularmente,0,0,21,0,2,2,Obrero,1,1,1,0,1,4.0
+29365,Zamora,Castilla y León,5,4,3,4,6,5,1,50,5,1,1,4,4,3,5,5,9,9,0,0,1,3,0,1,Regularmente,0,0,65,1,2,2,Obrero,1,1,1,0,2,4.0
+29371,Zamora,Castilla y León,4,4,5,5,6,0,1,53,5,1,0,3,4,4,4,4,3,3,1,0,1,1,0,1,Sin actividad sexual,0,1,67,1,0,2,Obrero,1,1,1,0,2,4.5
+29396,Zamora,Castilla y León,3,5,3,0,6,5,1,52,4,1,1,3,4,4,3,4,8,8,0,0,4,3,0,0,Mensualmente,1,0,77,1,1,2,Obrero,1,1,2,0,2,2.75
+29430,Zamora,Castilla y León,4,3,2,4,5,4,1,30,4,1,1,3,4,4,4,4,10,10,0,0,998,3,1,0,Diariamente,0,0,48,1,2,2,Obrero,1,1,1,1,1,3.25
+29464,Barcelona,Cataluña,5,5,2,1,6,5,1,2,5,1,0,4,5,5,4,5,6,4,0,0,2,3,1,1,Diariamente,1,1,32,0,3,2,Obrero,1,1,0,1,2,3.25
+29552,Barcelona,Cataluña,4,5,4,2,6,5,1,3,4,1,0,4,5,5,5,5,8,8,0,0,14,3,1,1,Regularmente,0,0,47,1,3,2,Obrero,1,1,0,0,2,3.75
+29681,Barcelona,Cataluña,3,1,4,0,2,1,1,50,3,1,1,2,3,5,4,1,3,3,0,0,1,3,0,1,Sin actividad sexual,0,1,76,1,2,2,Administrativo,1,1,1,0,1,2.0
+29733,Murcia,Región de Murcia,5,5,5,5,5,4,1,45,4,1,1,2,4,4,4,3,5,10,0,0,50,1,1,2,Regularmente,0,0,67,1,2,2,Comerciante,1,1,1,1,1,5.0
+29830,Barcelona,Cataluña,5,5,5,0,6,2,1,48,5,1,1,4,4,4,5,4,6,5,0,0,20,1,1,1,Sin actividad sexual,0,0,81,1,4,2,Autónomo,2,1,0,1,1,3.75
+29909,Murcia,Región de Murcia,4,5,3,0,5,3,1,39,4,1,1,3,4,4,3,4,5,7,0,0,1,3,0,1,Regularmente,1,1,61,1,0,2,Agricultor,0,1,1,1,1,3.0
+29926,Murcia,Región de Murcia,4,5,4,3,5,4,1,34,5,1,1,4,4,5,3,4,8,8,0,0,1,3,0,1,Regularmente,0,0,58,1,2,2,Comerciante,1,1,1,0,1,4.0
+29960,Almería,Andalucía,4,3,1,0,4,3,1,40,5,1,1,3,4,3,4,4,10,10,0,0,1,3,0,1,Mensualmente,0,1,60,1,2,2,Comerciante,1,1,1,0,2,2.0
+29971,Barcelona,Cataluña,4,4,2,0,6,5,1,2,5,1,0,3,3,4,3,5,8,8,1,0,15,3,0,1,Regularmente,0,0,29,0,3,0,Obrero,1,1,0,0,2,2.5
+30130,Madrid,Comunidad de Madrid,4,5,4,5,6,4,1,40,5,1,1,4,4,4,4,4,7,7,1,0,2,3,0,1,Regularmente,1,0,65,1,4,2,Mando,1,1,1,1,2,4.5
+30164,Madrid,Comunidad de Madrid,4,3,2,1,6,5,1,5,4,1,0,3,4,4,4,5,7,7,1,0,10,3,0,1,Regularmente,1,1,33,0,4,2,Obrero,1,1,1,1,2,2.5
+30181,Madrid,Comunidad de Madrid,5,5,2,5,6,4,1,4,5,0,0,3,3,4,3,4,7,8,1,0,3,3,0,1,Mensualmente,0,1,29,0,4,2,Obrero,1,1,0,0,2,4.25
+30270,Madrid,Comunidad de Madrid,5,4,4,4,6,4,1,22,4,1,1,3,4,4,4,4,8,9,0,0,10,3,0,1,Regularmente,1,0,43,1,2,2,Obrero,1,1,1,0,1,4.25
+30279,Madrid,Comunidad de Madrid,5,3,2,5,3,2,1,25,4,1,1,4,2,4,2,4,7,7,0,0,5,3,1,1,Regularmente,0,0,51,1,2,2,Mando,1,1,1,0,2,3.75
+30337,Madrid,Comunidad de Madrid,4,5,4,0,6,3,1,45,4,1,1,3,3,4,4,4,6,8,0,0,1,3,0,1,Regularmente,1,1,65,1,2,2,Comerciante,1,1,0,0,2,3.25
+30372,Málaga,Andalucía,4,5,4,2,5,4,1,16,4,1,1,3,4,4,4,5,10,6,1,0,1,3,0,1,Regularmente,0,0,31,1,2,2,Obrero,1,1,1,1,2,3.75
+30386,Madrid,Comunidad de Madrid,5,5,4,0,5,5,1,50,4,1,1,4,4,5,5,4,10,10,0,0,1,3,0,1,Desconocido,0,1,72,1,2,2,Obrero,1,1,1,0,1,3.5
+30488,Rioja,La Rioja,5,5,4,5,6,5,1,20,5,1,1,4,4,5,5,5,8,7,0,0,1,3,0,1,Regularmente,0,0,42,1,1,2,Mando,1,1,1,0,1,4.75
+30498,Sevilla,Andalucía,4,5,5,5,6,5,1,18,5,1,1,4,4,4,4,5,10,10,1,0,1,3,0,1,Regularmente,0,1,32,1,2,2,Agricultor,1,1,1,1,2,4.75
+30499,Rioja,La Rioja,4,3,4,3,5,3,1,24,4,1,1,3,2,3,4,3,8,7,0,0,1,3,0,1,Regularmente,0,0,40,1,2,2,Obrero,1,1,1,0,2,3.5
+30518,Rioja,La Rioja,4,4,4,4,6,4,1,19,4,1,1,3,4,4,4,4,8,8,0,0,1,3,0,1,Desconocido,0,0,42,1,2,2,Administrativo,1,1,1,1,1,4.0
+30549,Sevilla,Andalucía,3,3,1,3,2,1,1,37,3,1,1,3,4,4,4,3,5,5,0,0,1,1,0,1,Sin actividad sexual,0,1,53,1,1,2,Obrero,1,1,1,0,1,2.5
+30564,Sevilla,Andalucía,4,5,3,3,4,3,1,30,4,1,1,3,4,4,4,4,7,5,0,0,1,1,1,2,Regularmente,1,0,53,1,1,2,Comerciante,1,1,1,0,0,3.75
+30576,Sevilla,Andalucía,2,3,2,0,6,0,1,52,5,1,1,4,5,5,5,1,0,10,0,0,1,1,0,1,Sin actividad sexual,0,1,68,1,0,2,Obrero,1,1,1,1,2,1.75
