@@ -56,7 +56,7 @@ st.sidebar.markdown(
 )
 
 st.sidebar.markdown(
-    '<div class="sidebar-text">El objetivo principal es obtener una comprensión más profunda del estado emocional y las dinámicas de pareja en España en ese período específico. A través del análisis de los datos recopilados y la aplicación de técnicas predictivas, se busca identificar posibles factores que influyan en la infidelidad en las relaciones de pareja.</div>',
+    '<div class="sidebar-text">El objetivo principal es obtener una comprensión más profunda del estado emocional y las dinámicas de pareja en España en ese período específico.</div>',
     unsafe_allow_html=True
 )
 st.markdown(
